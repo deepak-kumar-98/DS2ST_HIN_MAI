@@ -1,0 +1,18 @@
+[
+  {
+    "model": "indicwav2vec_hindi",
+    "model_id": "ai4bharat/indicwav2vec-hindi",
+    "description": "Wav2Vec2-based, trained on large Hindi speech corpora",
+    "num_utterances": 2001,
+    "errors": 0,
+    "corpus_wer": 20.54,
+    "corpus_cer": 11.52,
+    "total_inference_s": 34.22,
+    "avg_rtf_s_per_utt": 0.017,
+    "detail_csv": "./asr_results/indicwav2vec_hindi_details.csv"
+  },
+  {
+    "model": "indic_conformer_600m",
+    "error": "Could not load this library: /home/aditya/miniconda3/envs/ext_SLM/lib/python3.10/site-packages/torchaudio/lib/libtorchaudio.so"
+  }
+]

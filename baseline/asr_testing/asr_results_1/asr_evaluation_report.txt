@@ -1,0 +1,22 @@
+========================================================================
+  ASR EVALUATION REPORT – Hindi TTS Outputs
+========================================================================
+
+Model                                  WER %    CER %   Utts   Errs
+------------------------------------------------------------------------
+indicwav2vec_hindi                     20.54    11.52   2001      0
+
+========================================================================
+DETAILS
+========================================================================
+
+Model       : indicwav2vec_hindi
+  HF ID     : ai4bharat/indicwav2vec-hindi
+  Desc      : Wav2Vec2-based, trained on large Hindi speech corpora
+  WER       : 20.54 %
+  CER       : 11.52 %
+  Utterances: 2001
+  Errors    : 0
+  Infer (s) : 34.22
+  Avg RTF   : 0.017 s/utt
+  Detail CSV: ./asr_results/indicwav2vec_hindi_details.csv

@@ -1,0 +1,2 @@
+model,model_id,corpus_wer,corpus_cer,num_utterances,errors,total_inference_s,avg_rtf_s_per_utt
+indicwav2vec_hindi,ai4bharat/indicwav2vec-hindi,20.54,11.52,2001,0,34.22,0.017

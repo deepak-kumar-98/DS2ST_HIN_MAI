@@ -1,0 +1,21 @@
+2026-03-15 00:15:30,772 [INFO] Loaded 2001 reference transcriptions from /mnt/storage/aditya/Evaluation/Benchmarking_dataset/Hindi_test_set.txt
+2026-03-15 00:15:30,784 [INFO] Found 2001 audio files in /mnt/storage/aditya/Evaluation/hi_tts_outputs
+2026-03-15 00:15:30,785 [INFO] 
+============================================================
+Running: indicwav2vec_hindi
+============================================================
+2026-03-15 00:15:33,045 [INFO] Note: NumExpr detected 32 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2026-03-15 00:15:33,045 [INFO] NumExpr defaulting to 16 threads.
+2026-03-15 00:15:33,724 [WARNING] Skipping import of cpp extensions due to incompatible torch version 2.10.0+cu128 for torchao version 0.15.0             Please see https://github.com/pytorch/ao/issues/2919 for more info
+2026-03-15 00:15:34,397 [INFO] Loading Wav2Vec2 model: ai4bharat/indicwav2vec-hindi
+2026-03-15 00:16:59,943 [INFO]   → device: cuda
+2026-03-15 00:17:41,216 [INFO] [indicwav2vec_hindi] WER: 20.54%  CER: 11.52%  Utterances: 2001  Errors: 0
+2026-03-15 00:17:41,298 [INFO] 
+============================================================
+Running: indic_conformer_600m
+============================================================
+2026-03-15 00:17:42,496 [WARNING] OneLogger: Setting error_handling_strategy to DISABLE_QUIETLY_AND_REPORT_METRIC_ERROR for rank (rank=0) with OneLogger disabled. To override: explicitly set error_handling_strategy parameter.
+2026-03-15 00:17:42,503 [INFO] Final configuration contains 0 exporter(s)
+2026-03-15 00:17:42,503 [WARNING] No exporters were provided. This means that no telemetry data will be collected.
+2026-03-15 00:17:43,156 [ERROR] [indic_conformer_600m] Failed to load model: Could not load this library: /home/aditya/miniconda3/envs/ext_SLM/lib/python3.10/site-packages/torchaudio/lib/libtorchaudio.so
+2026-03-15 00:17:43,158 [INFO] Report written to ./asr_results/asr_evaluation_report.txt

@@ -1,0 +1,13 @@
+2026-03-15 00:24:34,844 [INFO] Loaded 2001 reference transcriptions from /mnt/storage/aditya/Evaluation/Benchmarking_dataset/Hindi_test_set.txt
+2026-03-15 00:24:34,856 [INFO] Found 2001 audio files in /mnt/storage/aditya/Evaluation/hi_tts_outputs
+2026-03-15 00:24:34,856 [INFO] 
+============================================================
+Running: indic_conformer_600m
+============================================================
+2026-03-15 00:24:37,931 [INFO] Note: NumExpr detected 32 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 16.
+2026-03-15 00:24:37,931 [INFO] NumExpr defaulting to 16 threads.
+2026-03-15 00:24:38,981 [WARNING] OneLogger: Setting error_handling_strategy to DISABLE_QUIETLY_AND_REPORT_METRIC_ERROR for rank (rank=0) with OneLogger disabled. To override: explicitly set error_handling_strategy parameter.
+2026-03-15 00:24:38,989 [INFO] Final configuration contains 0 exporter(s)
+2026-03-15 00:24:38,989 [WARNING] No exporters were provided. This means that no telemetry data will be collected.
+2026-03-15 00:24:39,738 [ERROR] [indic_conformer_600m] Failed to load model: Could not load this library: /home/aditya/miniconda3/envs/ext_SLM/lib/python3.10/site-packages/torchaudio/lib/libtorchaudio.so
+2026-03-15 00:24:39,738 [INFO] Report written to ./asr_results/asr_evaluation_report.txt

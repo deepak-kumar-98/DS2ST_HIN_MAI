@@ -1,0 +1,8 @@
+{
+  "model_used": "ai4bharat/indic-conformer-600m-multilingual",
+  "language_id": "hi",
+  "decoder": "rnnt",
+  "num_samples": 2001,
+  "wer": 0.23273075541721538,
+  "cer": 0.1193512477630448
+}
