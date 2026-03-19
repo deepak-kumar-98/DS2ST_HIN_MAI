@@ -23,14 +23,14 @@ import gc  # ADDED: For memory cleanup
 # ------------------------------------------------------------------
 # USER INPUT PATHS
 # ------------------------------------------------------------------
-JSON_FILE_PATH = "/home/aditya/tts/audio_data.json"
-OUTPUT_DIR = "/media/backup/maithili_audio_data"
+JSON_FILE_PATH = "<path to audio data JSON>"
+OUTPUT_DIR = "<path to output dir>"
 
 # ------------------------------------------------------------------
 # FIXED PATHS
 # ------------------------------------------------------------------
-T3_CKPT_PATH = "/media/backup/checkpoints_mai_chatterbox/t3_full_final.pt"
-MAP_JSON_PATH = "/home/aditya/tts/map.json"
+T3_CKPT_PATH = "<path to T3 checkpoint>"
+MAP_JSON_PATH = "<path to map JSON>"
 LANGUAGE_ID = "mai"
 
 # ADDED: Memory cleanup interval

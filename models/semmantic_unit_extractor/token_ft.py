@@ -12,7 +12,7 @@ from fastdtw import fastdtw
 # -----------------------------
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 MODEL_NAME = "utter-project/mHuBERT-147"
-KMEANS_PATH = "/home/aditya/Direct_S2ST/models/semmantic_unit_extractor/mhubert147_semantic_k500_fixed.joblib"
+KMEANS_PATH = "<path to mhubert147_semantic_k500_fixed.joblib>"
 LAYER = 9
 
 # -----------------------------

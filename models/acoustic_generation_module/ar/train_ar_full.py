@@ -16,10 +16,10 @@ Usage:
   python train_stage2_full.py
 
   # From Stage 1 checkpoint
-  python train_stage2_full.py --resume_from /mnt/storage/aditya/checkpoints/stage1/best_model
+  python train_stage2_full.py --resume_from <path to best_model>
 
   # Resume interrupted Stage 2 training
-  python train_stage2_full.py --resume_from /mnt/storage/aditya/checkpoints/stage2/checkpoint_step_10000
+  python train_stage2_full.py --resume_from <path to checkpoint>
 """
 
 import os
@@ -40,9 +40,9 @@ from transformers import (
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 
-TRAIN_FILE  = "/mnt/storage/aditya/SLM_acoustic_info/train_ar_stage2.jsonl"
-VAL_FILE    = "/mnt/storage/aditya/SLM_acoustic_info/val_ar_stage2.jsonl"
-OUTPUT_DIR  = "/mnt/storage/aditya/checkpoints/stage2_full_ft"
+TRAIN_FILE  = "<path to train_ar_stage2.jsonl>"
+VAL_FILE    = "<path to val_ar_stage2.jsonl>"
+OUTPUT_DIR  = "<path to stage2_full_ft>"
 BASE_MODEL  = "Qwen/Qwen2.5-3B"
 
 # ── Hyperparameters ────────────────────────────────────────────────────────────

@@ -13,8 +13,8 @@ Multiple GPUs (slots 1, 2, 3):
   CUDA_VISIBLE_DEVICES=1,2,3 torchrun --nproc_per_node=3 --master_port=29600 train_nar.py
 
 Resume:
-  CUDA_VISIBLE_DEVICES=1 python train_nar.py --resume_from /mnt/storage/aditya/checkpoints/nar/checkpoint_step_5000
-  CUDA_VISIBLE_DEVICES=1,2,3 torchrun --nproc_per_node=3 --master_port=29600 train_nar.py --resume_from /mnt/storage/aditya/checkpoints/nar/checkpoint_step_5000
+  CUDA_VISIBLE_DEVICES=1 python train_nar.py --resume_from <path to checkpoint_step_5000>
+  CUDA_VISIBLE_DEVICES=1,2,3 torchrun --nproc_per_node=3 --master_port=29600 train_nar.py --resume_from <path to checkpoint_step_5000>
 """
 
 import os
@@ -465,24 +465,6 @@ def main():
             loss.backward()
 
         running_loss += loss.item() * cfg.GRAD_ACCUM
-
-        # ── Optimizer step (every GRAD_ACCUM steps) ────────────────────
-        # if (step + 1) % cfg.GRAD_ACCUM == 0:
-        #     if scaler is not None:
-        #         scaler.unscale_(optimizer)
-        #         last_grad_norm = torch.nn.utils.clip_grad_norm_(
-        #             model.parameters(), cfg.MAX_GRAD_NORM
-        #         ).item()
-        #         scaler.step(optimizer)
-        #         scaler.update()
-        #     else:
-        #         last_grad_norm = torch.nn.utils.clip_grad_norm_(
-        #             model.parameters(), cfg.MAX_GRAD_NORM
-        #         ).item()
-        #         optimizer.step()
-
-        #     scheduler.step()   # step scheduler ONLY here — after optimizer step
-        #     optimizer.zero_grad()
 
         if (step + 1) % cfg.GRAD_ACCUM == 0:
             if scaler is not None:

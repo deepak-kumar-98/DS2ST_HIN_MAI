@@ -19,11 +19,11 @@ to maintain compatibility with Qwen's pre-trained weights.
 
 
 
-python /home/aditya/extraxtor_LLM/src/decoder_new/data_prep.py \
+python <path to data_prep.py> \
   --qwen_name_or_path Qwen/Qwen2.5-3B \
-  --json_path /home/aditya/extraxtor_LLM/data/audio_data.json \
-  --out_jsonl /mnt/storage/aditya/data_tr_mh.jsonl \
-  --tokenizer_out_dir /home/aditya/extraxtor_LLM/src/decoder_new/tokenizer_mh \
+  --json_path <path to audio_data.json> \
+  --out_jsonl <path to data_tr_mh.jsonl> \
+  --tokenizer_out_dir <path to tokenizer_mh> \
   --mt_sample_size 35000
 
 

@@ -4,10 +4,10 @@
 
 # --- Paths ----------------------------------------------------------------
 base_model: "Qwen/Qwen2.5-3B"
-tokenizer_dir: "/home/aditya/extraxtor_LLM/src/decoder_new/tokenizer_mh"
-train_jsonl: "/mnt/storage/aditya/data_tr_mh.jsonl"
-out_dir_stage1: "/mnt/storage/aditya/app2_adapter/adapter_stage1"
-out_dir_stage2: "/mnt/storage/aditya/app2_adapter/adapter_stage2"
+tokenizer_dir: "<path to tokenizer_mh>"
+train_jsonl: "<path to data_tr_mh.jsonl>"
+out_dir_stage1: "<path to adapter_stage1>"
+out_dir_stage2: "<path to adapter_stage2>"
 
 # --- Adapter Architecture -------------------------------------------------
 speech_dim: 256

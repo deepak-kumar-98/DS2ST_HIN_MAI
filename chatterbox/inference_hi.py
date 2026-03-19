@@ -23,14 +23,14 @@ import gc  # ADDED: For garbage collection
 # ------------------------------------------------------------------
 # USER INPUT PATHS
 # ------------------------------------------------------------------
-JSON_FILE_PATH = "/home/aditya/tts/audio_data.json"   # <-- Path to the JSON file we generated
-OUTPUT_DIR = "/media/backup/hindi_audio_data"        # <-- Output directory for audio files
+JSON_FILE_PATH = "<path to audio data JSON>"   # <-- Path to the JSON file we generated
+OUTPUT_DIR = "<path to output dir>"        # <-- Output directory for audio files
 
 # ------------------------------------------------------------------
 # FIXED PATHS (as provided)
 # ------------------------------------------------------------------
-T3_CKPT_PATH = "/media/backup/checkpoints_hi_chatterbox/t3_full_final.pt"
-MAP_JSON_PATH = "/home/aditya/tts/map.json"
+T3_CKPT_PATH = "<path to T3 checkpoint>"
+MAP_JSON_PATH = "<path to map JSON>"
 LANGUAGE_ID = "hi"
 
 # ADDED: Memory cleanup interval - adjust if needed (lower = more frequent cleanup)

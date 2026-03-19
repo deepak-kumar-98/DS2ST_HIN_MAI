@@ -51,9 +51,9 @@ from vocoder.infer_vocoder import extract_acoustic_units
 # ── Paths ──────────────────────────────────────────────────────────────────────
 
 # Parallel Hindi→Maithili data
-DATA_JSON  = "/home/aditya/extraxtor_LLM/data/audio_data.json"
-SOURCE_DIR = "/mnt/storage/aditya/raw_data/hindi_audio_data"
-TARGET_DIR = "/mnt/storage/aditya/raw_data/maithili_audio_data"
+DATA_JSON  = "<path to audio_data.json>"
+SOURCE_DIR = "<path to hindi_audio_data>"
+TARGET_DIR = "<path to maithili_audio_data>"
 
 # IISc Maithili monolingual data
 IISC_SPEAKERS = [
@@ -70,7 +70,7 @@ IISC_SPEAKERS = [
 ]
 
 # Output
-OUTPUT_DIR = "/mnt/storage/aditya/SLM_acoustic_info"
+OUTPUT_DIR = "<path to SLM_acoustic_info>"
 
 # ── Config ─────────────────────────────────────────────────────────────────────
 EVAL_SPLIT  = 0.05

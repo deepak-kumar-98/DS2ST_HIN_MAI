@@ -162,7 +162,7 @@ def main():
     log("\n" + "=" * 70)
     log("STAGE 2 TRAINING STARTS")
     log("=" * 70 + "\n")
-    ckpt_path = "/mnt/storage/aditya/app2_adapter/adapter_stage2/checkpoint-6000"
+    ckpt_path = "<path to checkpoint-6000>"
 
     # if os.path.isdir(ckpt_path):
     #     log(f"\nResuming from {ckpt_path}")
@@ -209,7 +209,7 @@ def main():
 
     # resume_checkpoint = None
 
-    # checkpoints = glob.glob(os.path.join("/mnt/storage/aditya/app2_adapter/adapter_stage2", "checkpoint-*"))
+    # checkpoints = glob.glob(os.path.join("<path to adapter_stage2>", "checkpoint-*"))
 
     # if checkpoints:
     #     resume_checkpoint = max(
@@ -359,7 +359,7 @@ def main():
 
     # from peft import PeftModel
 
-    # ckpt_path = "/mnt/storage/aditya/app2_adapter/adapter_stage2/checkpoint-6000"
+    # ckpt_path = "<path to checkpoint-6000>"
 
     # print(f"\n🔄 Resuming from: {ckpt_path}")
 

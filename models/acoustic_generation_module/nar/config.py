@@ -7,9 +7,9 @@ import os
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 
-TRAIN_FILE  = "/mnt/storage/aditya/SLM_acoustic_info_nar/train_nar.jsonl"
-VAL_FILE    = "/mnt/storage/aditya/SLM_acoustic_info_nar/val_nar.jsonl"
-OUTPUT_DIR  = "/mnt/storage/aditya/SLM_acoustic_info_nar/checkpoints/nar_02"
+TRAIN_FILE  = "<path to train_nar.jsonl>"
+VAL_FILE    = "<path to val_nar.jsonl>"
+OUTPUT_DIR  = "<path to nar_02>"
 
 # ── NAR Vocabulary ─────────────────────────────────────────────────────────────
 # Must match nar_dataset_prep.py exactly
