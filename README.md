@@ -6,7 +6,8 @@ This repository contains the full implementation of a direct speech-to-speech tr
 
 ## Architecture
 
-<!-- Insert architecture diagram here -->
+<img width="1926" height="588" alt="FlowChart" src="https://github.com/user-attachments/assets/7901d8a5-72b7-4c6a-8bc4-fdcfec3246c6" />
+
 
 ---
 
