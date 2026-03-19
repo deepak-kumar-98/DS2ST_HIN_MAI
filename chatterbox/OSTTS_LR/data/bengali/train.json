@@ -1,0 +1,2802 @@
+[
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_04119.wav",
+    "text": "ভারতের মতো শ্রম উদ্বৃত্ত দেশে ইহা একটি বরদানের মতো।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_04119"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00622.wav",
+    "text": "দলীয় মুখপত্র সামনায় তো রীতিমত হুমকি দিয়ে বিজেপিকে বলা হয়েছে, এবার রামমন্দির না হলে গতিচ্যূত হতে হবে মোদিকে।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00622"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00544.wav",
+    "text": "মোনালিসার হাসির রহস্য দেখতে প্রতিবছর প্রায় {৯০}{নব্বই} লাখ মানুষ ল্যুভর মিউজিয়ামে আসেন।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00544"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_02188.wav",
+    "text": "আন্দোলনকারীদের পক্ষ থেকে প্রশ্ন করা হয়েছিল যে গণতান্ত্রিক ব্যবস্থায় কেন কিছু মানুষ অন্যদের স্বার্থে নিজেদের সর্বস্ব বিসর্জন দেবে।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_02188"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00637.wav",
+    "text": "বহুক্ষণ ধরেই দুজনের মধ্যে আলোচনা হয়েছিল সেদিন গণনাট্যের সাংস্কৃতিক মঞ্চের অনুসৃত নীতির যৌক্তিকতা নিয়ে।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00637"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01161.wav",
+    "text": "'ভিসা ডুয়েল কারেন্সি ডেবিট কার্ড' ব্যবহার করে থ্রিডি নিরাপত্তায় ইকমার্সেও লেনদেন করা যাবে আরো সহজ, স্বাচ্ছন্দ্যপূর্ণ ও অধিকতর নিরাপদে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01161"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00860.wav",
+    "text": "পামারের বাকি দুই সঙ্গী জো আর মার্ফি তখন ঘুষি বাগিয়ে প্রায় মারমুখো।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00860"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00677.wav",
+    "text": "মিজো যুব কমিশনের চেয়ারম্যান তথা বিধায়ক টি সাংকুংগা ছাত্রদের বাছাই করেন।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00677"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00051.wav",
+    "text": "টাকা উত্তোলন মাধ্যম রংতুলি থেকে বিকাশের মাধ্যমে খুব সহজেই টাকা উত্তোলন করতে পারবেন। রংতুলি থেকে সর্বনিম্ন {১০}{দশ}ফি টাকা উত্তোলন করতে পারবেন।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00051"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00040.wav",
+    "text": "বিদ্যুৎ জ্বালানি ছাড়াও মেট্রো রেল দৃশ্যমান প্রকল্প হিসেবে ঢাকা শহরের মানুষের দৃষ্টিতে দৃশ্যমান, আলোচিত।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00040"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01537.wav",
+    "text": "বুধবার দুপুরে জাতীয় প্রেসক্লাবের সামনে আয়োজিত গামের্ন্টস ওয়ার্কার্স ইমার্জেন্সি সলিডারিটি ফান্ড ফর রোহিঙ্গা এর উদ্বোধনী অনুষ্ঠানে তিনি একথা বলেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01537"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01150.wav",
+    "text": "গোয়েন্দাদের দুশ্চিন্তার বিষয়, সেগুলি এটিএম কাউন্টারে নির্ঘাত ঢুকেছে নানা গোপন পথে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01150"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00201.wav",
+    "text": "এর নাম বলিদ্বীপ এবং এটি হচ্ছে যবদ্বীপ থেকে ভাঙা এক টুকরো খণ্ডদ্বীপ।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00201"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_02253.wav",
+    "text": "নোট বাতিলের জেরে ব্যাঙ্ক বা এটিএমের সামনে ভোগান্তির খানিক সুরাহা হতে না হতেই ফের লাইনে দাঁড়ানোর ঝঞ্ঝাট পোহাতে হচ্ছে বলে অভিযোগ তাঁদের।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_02253"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03262.wav",
+    "text": "এটি বিবৃত করে যে বুদ্ধি সাতটি মৌলিক ক্ষমতার সমন্বয়ে গঠিত যেখানে প্রত্যেকটিই একে অপরের থেকে অপেক্ষাকৃত স্বতন্ত্র।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03262"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01046.wav",
+    "text": "নেহরু ছিলেন এই আন্দোলনের প্রতিষ্ঠাতা নেতাদের অন্যতম।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01046"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00791.wav",
+    "text": "মানুষের ভাগ্যোন্নয়ন এবং সমৃদ্ধ জাতি হিসেবে শেখ হাসিনার নেতৃত্বে দেশ আরো এগিয়ে যাবে।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00791"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00578.wav",
+    "text": "নারীর জরায়ু ক্যান্সার বাঁ পাপ টেস্ট সম্পর্কে বিস্তারিত তথ্য এবং কিভাবে ইতালি ও ইউরোপে এটা ফ্রী করাবেন?",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00578"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05884.wav",
+    "text": "মা নেপথ্য হইতে বিস্তর তর্জন গর্জন শাসন করিয়া বালিকার অশ্রুস্রোত বাড়াইয়া পরীক্ষকের সম্মুখে পাঠাইলেন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05884"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07699.wav",
+    "text": "এমনকি বলা হতো যে, বৈদ্যুতিক টেলিগ্রাফই {১৮৫৭}{আঠেরোশো সাতান্ন} খ্রিস্টাব্দের বিদ্রোহ থেকে ব্রিটিশ শাসনকে রক্ষা করেছিল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07699"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00051.wav",
+    "text": "ব্রিটিশ পেট্রোলিয়াম ও রিলায়্যান্স ইন্ড্রাস্ট্রিজ়ও গাড়ির জ্বালানি ও ইলেকট্রিক চার্জিং বিপণনের জন্য ঘোষণা করেছে যৌথ প্রকল্প।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00051"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01007.wav",
+    "text": "ফ্রান্সের প্রেসিডেন্ট এমানুয়েল ম্যাকরঁ জানান, কাশ্মীর শুধুমাত্র ভারত এবং পাকিস্তানের দ্বিপাক্ষিক বিষয়।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01007"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00877.wav",
+    "text": "পূর্বে স্বর্গ নদীশ্চৈব দক্ষিণে চন্দ্র শেখর লৌহিত্য পশ্চিমে ভাগে উত্তরেচ নীলাচল।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00877"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_02072.wav",
+    "text": "বঙ্গাধিপ দিল্লীশ্বরকে {৩৮}{আটত্রিশ}টি হাতী এবং বহুলক্ষ টাকা দিয়া তাঁহার অধীনত্ব স্বীকার করেন।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_02072"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00873.wav",
+    "text": "কিন্তু, উল্টে ব্যাঙ্ক গ্য়ারান্টি না থাকলে দাম কম পড়ার লোভ দেখায় ফরাসী সরকার।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00873"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07401.wav",
+    "text": "একবার বাইজি সেজে অবিশ্যি কিছু বেশি পাওয়া গিয়েছিল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07401"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07131.wav",
+    "text": "কিন্তু এখানে তোমাদের রাঁধতে হবে না, উনুনের নাগালই পাবে না, তোমরা খাবার জায়গা করবে, বাটি ধুয়ে দেবে, ঝাঁটপাট দেবে, কেমন?’",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07131"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01574.wav",
+    "text": "সে নকশা ছবি নয়, সংকেতের সমষ্টি মাত্র । পুরনো গাঁথনি বোঝাবার জন্য হলদে রং, নূতন গাঁথনি লাল, কংক্রিটে হিজিবিজি, খিলানের জায়গায় ঢেরাচিহ্ন, ইত্যাদি।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01574"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_11703.wav",
+    "text": "শিশুদের ডুবিবার ভয় নাই বলিয়া মায়েরা তাদের জলে ছাড়িয়া দিয়াও নিরুদ্বেগে বাসন মাজে, কাপড় কাচে, আর এক পয়সা দামের কার্বলিক সাবানে পা ঘসে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_11703"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00395.wav",
+    "text": "অভিভাবক সমাজের মধ্যেও আকাশচুম্বী আশা যাতে বাস্তবের মাটি ছোঁয় তাও দেখা দরকার।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00395"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02581.wav",
+    "text": "মাথার উপরকার আকাশ ছেয়ে ফেলে শুভ্র মল্লিকার পাপড়ি ছড়ালে কে?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02581"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01671.wav",
+    "text": "ভোটের রাজনীতিতে নেতাদের ভবিষ্যৎ ভাঙাগড়া হবে, কিন্তু এই অসহায় মানুষদের কথা কেউ ভাবছে না।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01671"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03315.wav",
+    "text": "অভিক্ষেপন, স্কেল, ভিত্তিস্তর এবং গুণের ব্যাখ্যার ক্ষেত্রে পার্থক্য সমস্যার সৃষ্টি করতে পারে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03315"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01853.wav",
+    "text": "শ্রী চৈতন্য মহাপ্রভুর জন্মস্থানে ফি বছরই এমনভাবে হোলিতে মেতে ওঠে ভক্তরা।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01853"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01202.wav",
+    "text": "প্রথম রাউন্ডে জিতলে সিন্ধুকে খেলতে হবে স্কটল্যান্ডের কার্স্টি গিলমোর ও জাপানের আয়া ওহোরির মধ্যে ম্যাচে বিজয়ীর সঙ্গে।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01202"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01746.wav",
+    "text": "বিচ্ছিন্নতাবাদীরা এখন অতি সক্রিয় এবং সাম্প্রদায়িক শক্তি ক্রমে ক্রমে মাথাচারা দিয়ে উঠছে, যা আমাদের রাষ্ট্রীয় একতার জন্য হুমকি স্বরূপ।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01746"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00658.wav",
+    "text": "এবার সেই প্রসঙ্গ তুলে মোদী সরকারকে তোপ দিতে গিয়ে নয়া বিতর্কের জন্ম দেন জম্মু ও কাশ্মীরের প্রাক্তন মুখ্যমন্ত্রী ও ন্যাশনাল কন্ফারেন্সের নেতা ফারুক আবদুল্লাহ।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00658"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06954.wav",
+    "text": "এটি নতুন পাতা তৈরিতে, পাতায় ক্লোরোপ্লাস্ট তৈরিতে, পার্শ্ব শাখার বৃদ্ধিতে এবং অস্থানিক শাখা তৈরিতেও সাহায্য করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06954"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03598.wav",
+    "text": "সে বলল হ্যাঁ, এবং তোমাকে কলমটি দিয়ে দিল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03598"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00043.wav",
+    "text": "কিন্তু তিন বাঁহাতি স্পিনার মোহাম্মদ রফিক, সাকিব আল হাসান আর আব্দুর রাজ্জাককে দিয়ে প্রোটিয়াদের ফাঁদে ফেলতে টোপ হিসেবে যে স্কোরবোর্ডে বড় রান চাই।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00043"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00629.wav",
+    "text": "মোটের উপর বলা যাইতে পারে কাঠ, এস্পার্টো ঘাস আর পুরাতন নেকড়া ও কাগজ হইতেই আজকাল কাগজ প্রস্তুত হয়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00629"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_01297.wav",
+    "text": "নাজমীন মর্তুজা : যখন একা থাকি, নিজের সৃষ্টি শীলতার যত্নে থাকি, তখন জীবন ব্যবহারে মানুষের রীতি ধরণ, আমাকে বরং প্রহতই করে অনেক সময়ে, তবুও কেন?",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_01297"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01928.wav",
+    "text": "ভার্জিনিয়া ঢোকার সঙ্গে সঙ্গে মোবাইলে গান পালটে জন ডেনভারের অলমোস্ট হেভেন ওয়েস্ট ভার্জিনিয়া, ব্লু রিজ মাউন্ট্যানস শেনেনদোয়া রিভার চালিয়ে দিয়েছিলাম।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01928"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_02251.wav",
+    "text": "তথ্য অধিকার আইনের জন্য শুরু হওয়া আন্দোলন এর প্রকৃষ্ট উদাহরণ।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_02251"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06869.wav",
+    "text": "চল ভাই আমরা বাড়ি যাই-আজ রাতটা ভালো নয়-আয়রে অপু, দুগ্গাদি আয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06869"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05733.wav",
+    "text": "সুমন্ত তখন চিরুনিখানা প্যান্টের হিপ্ পকেটে পুরে ফেলে ধীরে-সুস্থে বলল, কোনও একদিকে নিশ্চয়ই।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05733"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01631.wav",
+    "text": "অ্যাকাডেমির মাধ্যমে যারা চাকরি পেয়েছেন, তাঁরা হয় কোনও শপিং মলের সাফাই কর্মী অথবা রেস্তোঁরার ওয়েটারের কাজ করছেন।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01631"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02537.wav",
+    "text": "তাই দিল্লি মমতাকে চাপে রাখলে যে নেতাজি ইস্য়ু নিয়ে বাড়িবাড়ি হবে তার হুঁশিয়ারি দিয়ে রাখলেন মমতা।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02537"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00436.wav",
+    "text": "মানুষ, গোরু প্রভৃতি জন্তুদের দেহ যেমন অনেক কোষে প্রস্তুত, ইহাদের শরীরও সেইরকম অনেক কোষ দিয়া নির্ম্মিত।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00436"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_02139.wav",
+    "text": "ড্রয়ার থেকে ওর টাকার বাকফিনের থলেটা বের করল, এখন আর মাত্র শদুয়েক ডলার রয়েছে ওতে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_02139"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00191.wav",
+    "text": "আন্তোনেল্লা নাকি জানিয়েছেন, রোনাল্ডো সম্পর্কে বিভিন্ন কথাবার্তা শোনা গেলেও রোনাল্ডো খুব নরম মনের এবং আমুদে প্রকৃতির ব্যক্তিত্ব।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00191"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00443.wav",
+    "text": "{১৯৭১}{উনিশশো একাত্তর} সালের এই দিনে বাঙালি জাতি পেয়েছিল তার বহু কাঙ্ক্ষিত স্বাধীনতা।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00443"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00660.wav",
+    "text": "এদের কাছে বলেছে একেবারে রাজবদ্যি হয়ে টাকার মোট নিয়ে দেশে যাবে, তার আগে নয়।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00660"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01195.wav",
+    "text": "সরকারি আইনজীবী জোয়ি কিয়োং জানালেন, চার ঘণ্টার উড়ানে ওঠার আগেই কিরণ প্রায় আটটি বিয়ার পান করেছিলেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01195"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05748.wav",
+    "text": "সাধারণত হরপ্পা সিলমোহরে একটি পংক্তিতে লেখা হত যা সম্ভবত মালিকের নাম ও পদবি বহন করতো।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05748"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01838.wav",
+    "text": "দেশে আগের তুলনায় মাছ চাষ বেড়েছে। মাছ উৎপাদন বৃদ্ধি ও বিভিন্ন প্রজাতির মাছ চাষের জন্য সাভার, খুলনা ও মংলায় মৎস্য ল্যাব স্থাপন করা হয়েছে।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01838"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10936.wav",
+    "text": "শ্রীমতী প্রিয়মতী শুক্লা ‘জ্যোৎস্না’ ছদ্মনামে ‘চেতনা’ নামক মাসিক এবং ‘সুদর্শন’ নামক সাপ্তাহিক পত্রিকার সম্পাদনা করতেন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10936"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03658.wav",
+    "text": "কোনো কোম্পানির অস্তিত্ব তার সদস্যদের মৃত্যু, অবসর, পদত্যাগ, দেউলিয়া বা উন্মাদনার দ্বারা প্রভাবিত হয় না।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03658"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05944.wav",
+    "text": "খেলা ছেড়ে বাবলু বিড়ি আনতে ছুটল, পাছে মন্টুদা রাগ করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05944"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00031.wav",
+    "text": "গৌড়গৌরব শশাঙ্কদেব উত্তর ভারতে অগণিত শত্রুর বিরুদ্ধে যুদ্ধ করিতেছেন, রণদুর্মদ গৌড়সৈন্যের পরাক্রমে আর্যাবর্ত থরথর কম্পমান।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00031"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00254.wav",
+    "text": "খাওয়ার অভ্যেস নাই, তাই সে একটু পরেই বিনা কারণে খিক্ খিক্ করে হাসতে লাগলো।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00254"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05273.wav",
+    "text": "নানান ধাঁধা বা মজার হিসাব করে সাল-তারিখ মনে রাখাটা একটা খেলা।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05273"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01814.wav",
+    "text": "তিনি বলেন, ফাইভ স্টার ফেসিলিটি নিয়ে অস্ত্রোপচার করালে খরচ পৌনে দুলাখ টাকা হতে পারে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01814"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02178.wav",
+    "text": "নদীভাঙন কবলিত ভূমিহীনরা বালুচরে নতুন উদ্ভাবিত কৃষি প্রযুক্তির মাধ্যমে মিষ্টি কুমড়া, স্কোয়াশসহ সাথী ফসল চাষ করে নতুন দিগন্তের সূচনা করেছেন।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02178"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06038.wav",
+    "text": "সতত পাঠ করিয়া, তোমায় সর্বক্ষণ স্মৃতিপথে জাগরুক রাখিব, তাহা হইলে, আর আমার তোমায় বিস্মৃত হইবার অণুমাত্র আশঙ্কা রহিল না।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06038"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00652.wav",
+    "text": "শরৎচন্দ্র চট্টোপাধ্যায় পাকা দুই ক্রোশ পথ হাঁটিয়া সাইবার ক্যাফেতে ফেসবুক ব্যবহার করিতে আসি।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00652"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00717.wav",
+    "text": "গ্বদর বন্দরসহ বিভিন্ন নির্মীয়মাণ প্রকল্পের জন্য চিনের কাছে থেকে {১}{এক} হাজার কোটি ডলার যা ভারতীয় মুদ্রায় {৭০}{সত্তর} হাজার কোটি টাকা ঋণ নিয়েছে পাকিস্তান।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00717"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00586.wav",
+    "text": "এই পরিপ্রেক্ষিতে স্কীমার ভূমিকার ওপর জোর দিতে হবে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00586"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00150.wav",
+    "text": "শিশ্নের বর্ধিত প্রান্তটিকে গ্লানস পেনিস বলে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00150"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00854.wav",
+    "text": "এই ধরনের প্রয়োজনীয় ও অর্থবহ কৃষিভিত্তিক নীতিমালা সঠিক দিশায় বাস্তবায়ন করা খুব সহজ কাজ ছিল না।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00854"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00672.wav",
+    "text": "গুরুংএর ঘাঁটির ভিতে পেঁপে এবং নানা ধরনের ফলের গাছও পাওয়া গিয়েছে।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00672"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01490.wav",
+    "text": "ভবনটি সংস্কারের জন্য গত বছরের মাঝামাঝি পশ্চিমাঞ্চল রেলওয়ের রাজশাহীর প্রধান প্রকৌশলীর দফতর থেকে এক কোটি {৭০}{সত্তর} লাখ টাকা ব্যয় ধরে দরপত্র আহ্বান করা হয়।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01490"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00211.wav",
+    "text": "নৃত্য যদি রক্ত একবার শিখে যায়, সে নৃত্য তার থামে না কিছুতেই।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00211"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01952.wav",
+    "text": "অষ্টাদশ শতাব্দীতে জন হাওয়ার্ড নামক এক মহাপুরুষ বিলেতে কয়েদিদের প্রতি নিষ্ঠুর ব্যবহার অনেক পরিমাণে কমেছে।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01952"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00578.wav",
+    "text": "সেই ফুটেজে দেখা যায়, হলুদ কাপড়ের মতো কিছু একটা পকেট থেকে বের করেছিলেন ব্যানক্রফ্ট।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00578"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00299.wav",
+    "text": "এমন অদ্ভুত ভাবনাও মানুষ ছাড়া আর-কেহ ভাবে না।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00299"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00570.wav",
+    "text": "ষষ্ঠজন হলো সেই ব্যক্তি, যাকে সম্ভ্রান্ত ও চিত্তমোহিনী নারী প্রেম নিবেদন করে।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00570"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03792.wav",
+    "text": "শিক্ষার অন্বেষণ কেবলমাত্র মানুষকে উচ্চ উপার্জনের ক্ষমতাই প্রদান করে না বরং তার আরও অনেক মূল্যবান উপকারিতা রয়েছে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03792"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02163.wav",
+    "text": "পুংকেশর সমন্বিত পুংস্তবক এবং গর্ভকেশর সমন্বিত স্ত্রীস্তবক হল যথাক্রমে ফুলের পুংজনন অঙ্গ ও স্ত্রী জনন অঙ্গ।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02163"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_01142.wav",
+    "text": "শুক্রবার সকালে দুই ইউপি প্রার্থী সদস্যদের মাঝে পোষ্টার লাগানোকে কেন্দ্র করে এসংঘর্ষের ঘটনা ঘটে।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_01142"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00086.wav",
+    "text": "এই সম্মেলনে সভাপতিত্ব করেছিলেন অস্ট্রেলিয়ার চ্যান্সেলর ডিউক মেটার্নিক।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00086"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00638.wav",
+    "text": "তারপরও একশ্রেণির অর্থলিপ্সু ব্যবসায়ী অহেতুক সিন্ডিকেট কারসাজি করে কৃত্রিম সংকটের মাধ্যমে জনগণের টাকা হাতিয়ে নিচ্ছে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00638"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00082.wav",
+    "text": "সে সকালেও অনেক নবীন সৌন্দর্য দেখা দিয়েছিল, কিন্তু আপিসের জুজু আমার পঞ্চেন্দ্রিয় অসাড় করে দিয়েছে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00082"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01912.wav",
+    "text": "রাঙামাটিতে শিক্ষার্থীদের হাতে কৃষ্ণচূড়া, সোনালু, নিমসহ নানা প্রজাতির চারা, তুলে দিয়েছে জাতীয় সৈনিক কালের কণ্ঠের পাঠক সংগঠন 'শুভসংঘ' রাঙামাটি জেলা শাখা।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01912"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01236.wav",
+    "text": "ফোটোগ্রাফি, ক্যাম্পিং, বার্ড ওয়াচিং, বিজ্ঞানের সেমিনার ইত্যাদির ফাঁকে ছবি আঁকেন, গিটারও বাজান।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01236"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01744.wav",
+    "text": "পীত এবং লোহিত মৃত্তিকা ওড়িশা, ছত্তিশগড়, মধ্য গাঙ্গেয় সমভূমির দক্ষিণভাগ, পশ্চিমঘাট পর্বতের পাদদেশেও পাওয়া যায়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01744"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03745.wav",
+    "text": "এটা ঠিক যে, এই উদ্দেশ্যের জন্যই আমাদের প্রথম পৃষ্ঠায় নেহার পিতা, নেহাকে কোম্পানি সংগঠনে পরিবর্তন করার কথা বিবেচনা করতে বলেছিলেন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03745"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00589.wav",
+    "text": "স্বতন্ত্র দল কৃষিক্ষেত্রে ভূমি সিলিং, সমবায় চাষ এবং খাদ্যদ্রব্যের ব্যবসার উপর সরকারি নিয়ন্ত্রণের বিরোধিতা করেছিল।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00589"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10444.wav",
+    "text": "এ কাজটার জন্য আমি {৫০}{পঞ্চাশ} টাকা পাবার বেশ আশা করি-আর ইনি দিয়েছেন কিনা পাঁচ টাকা!”",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10444"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00335.wav",
+    "text": "সুলগ্নার এই পোস্ট নিয়ে এরই মধ্যে ব্যাপক আলোচনা হচ্ছে। কাস্টিং কাউচের প্রচলন যে এখনও ঝেঁকে আছে, সেটার প্রমাণই যেন দিলেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00335"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01878.wav",
+    "text": "শ্যুটিংয়ের জন্য একটা মগ ড্রিল বগি ব্যবহার করা হয়েছিল, যা এক্কেবারেই ব্যবহার করা হয় না।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01878"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_01324.wav",
+    "text": "সুন্দর, নির্মল, আদর্শিক এবং শৃঙ্খলিক জীবন যাপনে বুদ্ধের এই চিরশাশ্বত এবং চিরন্তন উপদেশের গুরুত্ব আজও অপরিসীম।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_01324"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00526.wav",
+    "text": "তবে রাজ্যসভায় নাগরিকত্ব বিল পাশ হাওয়ার পর বাঁধভাঙা উচ্ছ্বাস দেখা গেল পাকিস্তানের হিন্দু উদ্বাস্থুদের মধ্যে।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00526"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00286.wav",
+    "text": "এর ফলে {14}{চৌদ্দ}টি রাজ্য ও {6}{ছয়}টি কেন্দ্রশাসিত অঞ্চল তৈরি হয়েছিল।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00286"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01979.wav",
+    "text": "কিন্তু আউং সান সু চির দেশে সেনা শাসনের অবসান ঘটতেই বেজিংএর দিক থেকে মুখ ফিরিয়ে নয়াদিল্লির সঙ্গে ঘনিষ্ঠতা বাড়াতে শুরু করেছে ইয়াঙ্গন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01979"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01714.wav",
+    "text": "মার্চ মাসে বাকুতে জিমন্যাস্টিক্স বিশ্বকাপের ভল্টিং ফাইনালে গোড়ালি ও হাঁটুতে চোট পান রিয়ো অলিম্পিক্সে আলোড়ন ফেলে দেওয়া ত্রিপুরার মেয়ে।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01714"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00326.wav",
+    "text": "তবে এই ফি কার্যকারী যাদের বয়স {১৮}{আঠারো} বছর হয়েছে এবং {৮৫}{পঁচাশি} বছর অব্দি।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00326"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10191.wav",
+    "text": "আর অন্য ফুলদানিটি ছিল, ক্র্যাক্ড চায়না, সবুজ রং, তার গায়ে হাতে আঁকা নীল হলুদ দুটি পাখি আর লতাপাতা কয়েকটি।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10191"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01271.wav",
+    "text": "{১৯৬০}{উনিশশো ষাট} এর দশককে ‘ভয়ঙ্কর দশক’ হিসাবে চিহ্নিত করা হয়।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01271"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00235.wav",
+    "text": "ফৈসলকে স্টার্লিং বায়োটেক ব্যাঙ্ক জালিয়াতি মামলায় জিজ্ঞাসাবাদ করার জন্য এই সমন পাঠায় ইডি।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00235"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00527.wav",
+    "text": "ক্রেতার চাপে লেনদেন শুরুর দুই ঘণ্টার মধ্যে বিক্রেতা শূন্য হয়ে বন্ধ হয়ে গেছে প্রগ্রেসিভ লাইফ ইন্স্যুরেন্সের শেয়ার।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00527"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00483.wav",
+    "text": "মদনপুর, শিমুরালি থেকে নাকাশিপাড়া, তেহট্টে যে বিপুল পরিমাণ পাট চাষ হয়, সেই পাট কেটে পচানোর কাজ শুরু হয়েছে।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00483"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01597.wav",
+    "text": "ট্রেনের চাকা যে মেইন রেল বা স্টক রেলের ওপর থাকে, তার পাশের টাং রেলে অন্তত দুটো জায়গায় কাটা ছিল বলে আমরা লক্ষ্য করেছি।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01597"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00714.wav",
+    "text": "শরীরের প্রতিরোধ ক্ষমতায় বিঘ্ন ঘটিয়ে শরীরকে অসুস্থ করে তোলার একটি কারণ হচ্ছে চাপ।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00714"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10719.wav",
+    "text": "আমাদের ভবিষ্যৎ কার্যক্রম নিম্নোক্ত সংক্ষিপ্তাকারে প্রকাশ করা চলে- ।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10719"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00531.wav",
+    "text": "পাড়াশুদ্ধ হুলুস্থুল । আগুন লেগেছে৷, নিয়ম মেনে খবর দেওয়া হয় দমকল বাহিনীকেও কিন্তু, আগুন কোথায়?",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00531"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00246.wav",
+    "text": "কেন্দ্রীয় সরকারকে পরিস্থিতি স্বাভাবিক করার জন্য সেনাবাহিনীকে আদেশ দিতে হয়েছিল।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00246"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00754.wav",
+    "text": "নিউ ইয়র্ক অঙ্গরাজ্যের গভর্নর এন্ড্রু কুমো বলেছেন, উদ্ধার করা বোমাটির নকশা বিস্ফোরিত বোমাটির মতোই বলে ধারণা হচ্ছে।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00754"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02496.wav",
+    "text": "কান্দির বড়োঞা, ভরতপুর, খড়গ্রাম, কান্দিসহ নবগ্রাম, সাগরদিঘি প্রভৃতি ব্লকে সারা বছর ধরে ব্যাপকভাবে ধান চাষ হয়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02496"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00631.wav",
+    "text": "এই প্রকল্পে রপ্তানিকারী প্রতিষ্ঠানকে মূলধনী দ্রব্য কম দামে অথবা বিনাশুল্কে আমদানি করার অনুমতি দেওয়া হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00631"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00887.wav",
+    "text": "স্বাধীনতার অব্যহতি পরে অর্থাৎ {1950}{উনিশশো পঞ্চাশ} সালে তিব্বতে চিনের আগ্রাসনও সীমান্ত সমস্যার নিষ্পত্তির প্রেক্ষাপটে দুদেশই একে অপরের সাথে সংঘর্ষে জড়িয়ে পরে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00887"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00228.wav",
+    "text": "সমগ্র আফ্রিকা মহাদেশ এখনও সীমাহীন ঋণের বোঝায় ন্যুব্জ এবং এই অবস্থা থেকে পরিত্রাণের জন্য উন্নত রাষ্ট্রগুলো থেকে নতুন করে ঋণ নিচ্ছে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00228"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EVAL_00185.wav",
+    "text": "ববের হাসিটা এখন দুর্দান্ত দেখাচ্ছে। আমি আশ্চর্য তিনি কি করেছেন",
+    "language_id": "bn",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_bn_f_EVAL_00185"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10227.wav",
+    "text": "গুর্খা এবং নেওয়ার ভিন্ন মগর, গুরুম, লিম্বু কিরাটী, ভুটিয়া, এবং লেপচা গণও , এই প্রদেশের অধিবাসী।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10227"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02583.wav",
+    "text": "এর আগে জিকার জন্য নাম তুলে নিয়েছিলেন তারকা গল্ফার জেসন ডে, জর্ডন স্পিথ, রোরি ম্যাকেলরয়, ডাস্টিন জনসনরা।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02583"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10198.wav",
+    "text": "খানিক বাদে ওকাকুরার নজরে পড়তে তিনি ডান হাতের তর্জনী তুলে ভিতরের দিকে নির্দেশ করলে পর সে হাঁটু-মুড়ে সেখান থেকেই মাথা ঝুঁকতে, ঝুঁকতে ঘরে এল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10198"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00890.wav",
+    "text": "পরের মিনিটেই ডান পায়ের সোয়ার্ভিং শটে গোল করে ফের ম্যাচে সমতা ফেরান পাভার্ড।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00890"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01138.wav",
+    "text": "নদী জল বণ্টন জনিত দীর্ঘস্থায়ী সমস্যা বিশ্ব ব্যাংকের মধ্যস্থতায় সমাধান করা হয়।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01138"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01585.wav",
+    "text": "(একটু থেমে) ব্যক্তিগত সম্পর্কের জায়গায় যে নামগুলো উঠে আসে, সেগুলো নিয়ে ক্ল্যারিফাই করেও লাভ হয় না।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01585"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00568.wav",
+    "text": "সে কি আর চেষ্টা করেনি দিদি, মানুষ দেখলেই সে কামড়াতে আসত, ঝোঁপের মধ্যে মিলিয়ে যেত।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00568"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00352.wav",
+    "text": "সে অনেক কৌশল করিয়া ঘ্যাঁঘাকে বুঝাইল যে, একটা মানুষ আসিয়াছিল, কিন্তু সেটা ঘ্যাঁঘার নাম শুনিয়াই পলাইয়াছে।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00352"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07551.wav",
+    "text": "দৌড়োতে দৌড়োতে শেষটা পায়ে ব্যথা ধরে গেল, ফ্রকে রাশি রাশি চোরকাঁটা ফুটল, জল তেষ্টা পেতে লাগল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07551"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02662.wav",
+    "text": "তুই সব কথায় একটা ব্যাঁকাবাঁকা মানে করিস কেন বল তো ছোটু?",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02662"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_08159.wav",
+    "text": "তিনি বিশ্বাস করতেন যে, এই দাবি সংহতিকে বিনষ্ট করবে এবং সমাজের মূলস্রোত থেকে নিম্নবর্গকে পৃথক করবে - যা অনভিপ্রেত।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_08159"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10833.wav",
+    "text": "ভারতেশ্বরী স্বর্গীয়া সম্রাজ্ঞী ভিক্টোরিয়ার অমৃতময় দাম্পত্য জীবনের বর্ণনা করিতে করিতে লেখক এক স্থলে বলিয়াছেন এইরূপ গুণসম্পন্ন পত্নী দীন দরিদ্রে লাভ করিলেও ভাগ্যবান হয়.",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10833"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00657.wav",
+    "text": "মন্ত্রালয়, কালেক্টারের দপ্তর, বিএম্সি তে কর্মরত লোকজন এবং পুলিশের কর্মীরাও বস্তিতে বসবাস করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00657"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_02519.wav",
+    "text": "স্বপ্নে যদি কোনও ব্যক্তি দেখেন তিনি ক্রমশ কোনও অন্ধকারের দিকে এগিয়ে চলেছেন, তবে সেই ব্যক্তি চরম আর্থিক সঙ্কটের মুখোমুখি হতে পারেন।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_02519"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01404.wav",
+    "text": "জাজ মাল্টিমিডিয়া সূত্রে জানা যায়, মাসুদ রানা নির্মাণে {১০}{দশ} মিলিয়ন মার্কিন ডলার বা প্রায় {৮৩}{তিরাশি} কোটি টাকা খরচ হবে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01404"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00134.wav",
+    "text": "ত্রৈমাসিক চিকিৎসা হিসাবে টিটিসিআর ব্যবহারের জন্য ফলাফল উৎসাহিত করা এবং দূষিত চিকিৎসা মাটির ভূমিকা গভীরতর।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00134"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EVAL_00241.wav",
+    "text": "মানসিক এই সব কারণে চাপ ও উদ্বেগও বেড়েই উত্তরোত্তর চলেছে",
+    "language_id": "bn",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_bn_f_EVAL_00241"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10074.wav",
+    "text": "তার কথা শুইন য্যান ধাঁধাঁ লাগে, পরশা। পরেশ ব্যাকুল হয়ে দিব্যি কেটে বলে যে তার একটা কথা মিথ্যা নয়, দুদিন পরেই সে সব জানতে পারবে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10074"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00753.wav",
+    "text": "এই খেলাটির ভিত্তি হল একটি কাহিনী বা গপ্প।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00753"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06889.wav",
+    "text": "তার মধ্যে স্থানীয় উপাদানের সাথে ভারতের বৈচিত্র্যময় সংস্কৃতির ছোঁয়াও লেগেছিল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06889"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06958.wav",
+    "text": "এই প্রতিদ্বন্দ্বিতা থেকে দলীয় সংকীর্ণতা এবং জনগণের মধ্যে অনৈক্যের সৃষ্টি হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06958"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01599.wav",
+    "text": "আমি বললাম, ইন্দ্ৰ খুশি হইয়া কহিল, এই ত চাই-সাঁতার জানলে আবার ভয় কীসের!",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01599"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_02237.wav",
+    "text": "এই আন্দোলনের প্রধান বিষয় ও দাবিগুলো কী ছিল? আন্দোলনটি কি সফল হয়েছিল?",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_02237"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05574.wav",
+    "text": "বাড়ির বড়োবউ মরিয়াছে, খুব ধুম করিয়া অন্ত্যেষ্টিক্রিয়া সম্পন্ন হইল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05574"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02700.wav",
+    "text": "চিরণ গাছের মাথায় একটা বাদামি চিল, গোদা লোমশ পায়ের থাবা থেকে সদ্যমারা মেঠে ইঁদুর ঝুলছে।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02700"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02576.wav",
+    "text": "চিনের প্রয়াত নেতা দেং জিয়াওপিং চার দশক আগে অর্থনৈতিক সংস্কার শুরু করেছিলেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02576"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_11585.wav",
+    "text": "অট্ট-অট্ট ঘট্ট-ঘট্ট ঘোর হাস হাসিছে, হুম-হাম খুম-খাম ভীম শব্দ ভাষিছে !",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_11585"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00673.wav",
+    "text": "পাশাপাশি তিনি জানান, একটি দক্ষিণী ছবিতে অভিনয়ের সময় চিত্রনাট্যে যে ধরনের মশকরার সংলাপ ব্যবহার হয়েছিল, তাতে অস্বস্তি হচ্ছিল বিদ্যার।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00673"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00636.wav",
+    "text": "পথ্যির জোগাড় নেই, ওষুধ আনতে সংসারের ভাতে টান পড়ে যায়, গায়ে কাঁথা কানি জোটে না।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00636"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00934.wav",
+    "text": "যুধিষ্ঠির কপটদ্যূতে পরাজিত হইয়া এই পণে আবদ্ধ হয়েন যে, দ্বাদশ বৎসর তিনি ও তাঁহার ভ্রাতৃগণ বনবাস করিবেন, তার পর এক বৎসর অজ্ঞাতবাস করিবেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00934"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_02081.wav",
+    "text": "নিয়মমাফিক সংগঠন না হয়েও কিষাণ ইউনিয়ন সদস্যদের বংশগত বা গোষ্ঠীগত যোগাযোগ রক্ষার মাধ্যমে সকলকে নিয়ে দীর্ঘ সময় পর্যন্ত টিকে থাকতে সক্ষম হয়।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_02081"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05204.wav",
+    "text": "এটা একেবারে পুকুরের ধারে বনের মধ্যে পোঁতা ছিল, রোদ্দুর লেগে চক্চক্ কচ্ছিল, এ ঠিক মা হিরে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05204"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01449.wav",
+    "text": "ইরানীয় জন্য উৎস, আই. এম., .{১৯৬৮}{উনিশশো আটষট্টি}। পুরাতন ইরানীয় ভাষাতত্ত্ব এবং ইরানীয় ভাষাবিদ্যা। মস্কো, নাউকা, ওরিয়েন্টাল সাহিত্য কেন্দ্রীয় অধিদপ্তর।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01449"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_01313.wav",
+    "text": "ইউক্রেনের নারী খেলোয়াড় ক্যাটেরিনা বন্ডারেঙ্কো তখন {১৩}{তেরো} নম্বর কোর্টে চীনের সাইসাই ঝেংয়ের সাথে খেলছেন।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_01313"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01778.wav",
+    "text": "তাড়াহুড়ো তে মানিব্যাগে টাকা রাখতে গিয়ে অনেক সময়েই টাকা কুঁচকে যায় বা অনেক সময় ছিঁড়েও যায়।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01778"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00002.wav",
+    "text": "স্থলজ বাস্তুতন্ত্রে উপস্থিত কিছু সুপরিচিত তৃণভোজী প্রানী হলো কীটপতঙ্গ, পাখী ও স্তন্যপায়ী এবং কম্বোজ (মোলাস্কা) পর্বভুক্ত প্রানীরা হলো জলজ বাস্তুতন্ত্রে উপস্থিত তৃণভোজী প্রানী।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00002"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06024.wav",
+    "text": "প্রতিটি পরিধিস্থ তন্তু আবার ট্রিপলেট বা ত্রয়ী প্রকৃতির হয় অর্থাৎ প্রতিটি তন্তু তিনটি নালিকার সমন্বয়ে গঠিত।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06024"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01537.wav",
+    "text": "সারেং জানালেন, খাঁড়ি যেখানে সমুদ্রে মিশেছে, সেখানে জলের ওঠাপড়া অনেকটাই বেশি।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01537"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EVAL_00123.wav",
+    "text": "আজকে রাস্তায় এত যানজট কেন?",
+    "language_id": "bn",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_bn_f_EVAL_00123"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00860.wav",
+    "text": "দেখো, দাসত্বের যে বিষ মজ্জার মধ্যে আছে , সেইটেই যখন সুযোগ পেয়ে বাইরে ফুটে ওঠে, তখনই সেটা সাংঘাতিক দৌরাত্ম্যের আকার ধরে।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00860"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03476.wav",
+    "text": "সমক পার্থক্যের জন্য, আপেক্ষিক পরিমাপকে বলা হয় ভেদাঙ্ক এটা নীচের পদ্ধতিতে পরিমাপ করা হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03476"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00258.wav",
+    "text": "বিক্ষোভ সমাবেশে অটোয়া, টরান্টো, কুইবেক ও মন্ট্রিয়ালের শিশুকিশোর, পুরুষ ও মহিলা, সাংবাদিক, বুদ্ধিজিবী সহ মুক্তিযুদ্ধের স্বপক্ষের বহু প্রবাসীরা নেন।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00258"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10825.wav",
+    "text": "বাংলায় বর্তমান যুগের নারী কবিদের লেখায় ভাষার গভীরতা যেমনই থাক না থাক, ভাষার স্বাচ্ছন্দ্য গাম্ভীর্য এবং মাধুর্য প্রাকৃত কবিদের লেখার চেয়ে বেশী।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10825"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EVAL_00252.wav",
+    "text": "লাভ সম্পত্তি বিক্রির মাধ্যমে বিনিয়োগ বা রিয়েল এস্টেট অর্জিত হতে পারে",
+    "language_id": "bn",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_bn_f_EVAL_00252"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10356.wav",
+    "text": "কিছুকাল বাদে সত্যেন বটব্যাল বলে এনগ্রেভিং ক্লাসের এক ছাত্র, একটি ছেলেকে নিয়ে এসে হাজির, বললে, ‘একে আপনার নিতে হবে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10356"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01776.wav",
+    "text": "রেঁস্তুরার কর্মীরা খাদ্য সরবরাহ করে এবং মূল্য আদায় করে তার থেকে তোমার প্রাপ্য অর্থ বৈদ্যুতিন নিকাশী ব্যবস্থার মাধ্যমে তোমার হিসাবখাতে জমা করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01776"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_02363.wav",
+    "text": "হ্যাঁ, ঠিকই শুনেছেন, মাত্র কুড়ি মিনিটেই আপনি চণ্ডীগড় থেকে পৌঁছে যাবেন শিমলা। তবে এর জন্য একটু বেশি টাকা আপনার পকেট থেকে খসবে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_02363"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03183.wav",
+    "text": "বাস্তুতান্ত্রিক আন্দোলনের অন্যতম একটি উদাহরণ হল হিমালয়ের পাদদেশে সংগঠিত হওয়া চিপকো আন্দোলন, যা অন্তর্নির্মিত আগ্রহ এবং আদর্শের মেলবন্ধন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03183"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10619.wav",
+    "text": "অষ্টাদশ শতাব্দীর রাজনীতিজ্ঞা বীর নারীদের মধ্যে সর্বশ্রেষ্ঠা মাদাম রোলাঁ ফরাসী বিপ্লবের অন্যতম নেত্রী ছিলেন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10619"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00953.wav",
+    "text": "সংবাদের মতো আনুষ্ঠানিক পাঠ্যে দেদার ইংরেজি ও হিন্দি শব্দ ব্যবহৃত হচ্ছে।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00953"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00871.wav",
+    "text": "গাছের বেগুন, পুকুরের মাছ, গরুর দুধ এসব ভটচার্যি মশাই এর আগে খাওয়া পাপ যেন।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00871"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00018.wav",
+    "text": "{১.}{এক দশমিক} প্রধান ফটকে জাতির পিতা বঙ্গবন্ধু শেখ মুজিবুর রহমানের দৃষ্টিনন্দিত ম্যুরাল মৃত্যুঞ্জয়ী মুজিব, কেন্দ্রীয় লাইব্রেরীতে মুক্তিযুদ্ধ কর্ণার, বঙ্গবন্ধু কর্ণার, একুশে কর্ণার স্থাপন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00018"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07424.wav",
+    "text": "বিভিন্ন রান্নায় পিঁয়াজ, রসুনের সঙ্গে আদা ব্যবহার করা হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07424"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_01024.wav",
+    "text": "অন্যদিকে সরকারের সেতুমন্ত্রী আওয়ামী লীগের সাধারণ সম্পাদক ওবায়দুল কাদের বলেছেন, সাবেক হওয়ার অন্তর্জ্বালা থেকেই হয়ত বিচারপতি সিনহা এখন মনগড়া কথা বলছেন।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_01024"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00637.wav",
+    "text": "এই ঘোষণার কিছুক্ষণ পরেই রাজ্যপালের কাছে গিয়ে মুখ্যমন্ত্রী পদ থেকে ইস্তফা দেন মেহেবুবা মুফতি।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00637"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06929.wav",
+    "text": "সেন্ট্রোজোম হল একটি কোশীয় অঙ্গাণু যা সাধারণত সেন্টিওল নামক দুটি বেলনাকার গঠন সমন্বিত।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06929"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01723.wav",
+    "text": "দুটি একটি করিয়া প্রস্ফুট বকুল ফুল ঝরিতে লাগিল এবং শাখান্তরাল হইতে ছায়াঙ্কিত জ্যোৎস্না তাঁহার শীর্ণ মুখের উপর আসিয়া পড়িল।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01723"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00216.wav",
+    "text": "শুশুক, ময়ূরপঙ্খী নৌকা, বর্জ্য নৌকা, বাইচ নৌকা তৈরির শেষ মুহূর্তের কাজ করছে তারা।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00216"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10251.wav",
+    "text": "এমন সময় উঠে দাঁড়ালেন ত্রিপুরা পাবলিক সার্ভিস কমিশনের চেয়ারম্যান (নামটা আমার স্মরণে নেই)।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10251"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00790.wav",
+    "text": "শেষমেশ ঠিক হয় মানুষের মধ্যে ভালবাসা জাগাতে মদন দেবকে পাঠানো হবে মর্ত্যে।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00790"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01574.wav",
+    "text": "আমরা যখন মরে যাব, এবং মাটি ও হাড়ে পরিণত হয়ে যাব, তখনও কি আমরা পুনরুত্থিত হব?",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01574"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01522.wav",
+    "text": "ইস্যুর সাইজ {১০}{দশ} কোটি টাকার উপরে হলে সেই পরিশোধিত মূলধনের {০.১৫}{শূন্য দশমিক এক পাঁচ} শতাংশ অর্থ লিষ্টিং ফি বাবদ প্রদান করতে হবে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01522"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00662.wav",
+    "text": "হৃৎপিণ্ডের ভাল্বে নানা রোগ হয়, আবার হার্টের নিজস্ব রক্ত সরবরাহ বন্ধ হয়ে হয় ইসকেমিক হার্ট ডিজিস।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00662"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00714.wav",
+    "text": "মাটির নীচে যে সব ব্যাক্টিরিয়া রয়েছে সেগুলি সহজে প্লাস্টিক হজম করতে পারে না।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00714"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03130.wav",
+    "text": "ডাক্তার কিংবা নার্সকে দেওয়ার মত কোনো টাকা পয়সা তার কাছে ছিলনা।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03130"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01098.wav",
+    "text": "পাশ্চাত্য সংস্কৃতির দৌরাত্ম্য সমাজের বিভিন্ন ক্ষেত্রে স্থান করে নেয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01098"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06102.wav",
+    "text": "এরা দ্বিপার্শ্বীয় ভাবে প্রতিসম, ত্রিস্তরীয় এবং দেহ খণ্ডক সমান্বিত সিলোম যুক্ত প্রাণী ।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06102"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01347.wav",
+    "text": "‘পাঞ্জাবি’ ও ‘মুলতানি’ বণিকরা উত্তর অংশে বাণিজ্য সামলাত এবং অন্যদিকে ‘ভাট’রা গুজরাট ও রাজস্থানে বাণিজ্য সামলাত।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01347"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02648.wav",
+    "text": "সংবাদ সম্মেলনে সিআইডি জানায়, রেনুমার বাবা দলিলুর রহমান দুলালের ডিএনএ নমুনার সঙ্গে এটি মিলে যাওয়ায় নিশ্চিত হওয়া গেছে যে এটিই নিখোঁজ রেনুমা তাবাস্সুমের মরদেহ।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02648"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EVAL_00101.wav",
+    "text": "তুমি কি খাবারের পরে কিছু মিষ্টি খেতে চাও?",
+    "language_id": "bn",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_bn_f_EVAL_00101"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05246.wav",
+    "text": "অ্যামাইনো মূলকের স্থানান্তরণ এই পদ্ধতিতে একটি অ্যামাইনো অ্যাসিড থেকে অ্যামাইনো গ্রুপটি একটি কিটো অ্যাসিডে এবং এই কিটো অ্যাসিডটি থেকে কিটো গ্রুপটি অ্যামাইনো অ্যাসিডে স্থানান্তরিত হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05246"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01350.wav",
+    "text": "আমার জন্মভূমি সন্দ্বীপে স্বরবর্ণ, ব্যঞ্জণবর্ণ উভয়েরই শোচনীয় অবস্থা। হ্রস্বই কে বলা হয় রশি এবং দীর্ঘ ঈ কে বলা হয় দীর্গি",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01350"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01650.wav",
+    "text": "জাকারিয়া সৌখিন ও ইফফাত আরেফিন তন্বীর রচনায় এটি নির্মাণ করেছেন জাকারিয়া সৌখিন।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01650"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10931.wav",
+    "text": "”বাদববাবু যেন ধাক্কা খেয়ে পাক দিয়ে ঘুরে দাঁড়ান, ক্রুদ্ধ চাপা গলায় বলেন, “আমি গরীব না?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10931"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00024.wav",
+    "text": "সে কালে বাণিজ্য নগরী নবদ্বীপের ঘাটে নৌকা ভেড়ানো কীর্তনমুগ্ধ দূরদেশী বণিক ফেরার পথে অন্য পসরার সঙ্গে বয়ে নিয়ে যেতেন চৈতন্য রেনেসাঁর বার্তা।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00024"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00579.wav",
+    "text": "এই সময়ে সমস্ত বিরোধী দলগুলো লোকসভা এবং বিধানসভাগুলোতে নামমাত্র প্রতিনিধিত্ব অর্জনে সফল হয়েছিল।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00579"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01046.wav",
+    "text": "“যদি থংগাম ঘণ্টা বাজাতে পারে তাহলে আমিও পারি” সে উত্তেজিত হয়ে তার যুক্তি রাখলো।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01046"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07106.wav",
+    "text": "তা হলেও আমার শ্রেষ্ঠ কারিগররা বড়োজোড় একটা ব্রোঞ্জের শলাকা, যার পোশাকি নাম স্টাইলাস, তুলে দিত আমার হাতে, তার বেশি কিছু নয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07106"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10348.wav",
+    "text": "মনে হত যেন পুরাকালের ভিতর দিয়ে নতুন যুগ চলেছে কোন রহস্য উদ্ঘাটন করতে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10348"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01692.wav",
+    "text": "এমন মারাত্মক মারাত্মক অশান্তি ও বিশৃংখলা নেমে আসবে যে, ঈমানদার ব্যক্তি বলবে, এটিতেই আমার ধ্বংস অনিবার্য।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01692"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_11420.wav",
+    "text": "উত্তর আফ্রিকার যুদ্ধে তোবরুকে বন্দী ভারতীয় সৈনিকেরা ইটালী ও জার্মানিতে স্থানান্তরিত হয়; তাহাদের মধ্যে অনেকেই আমাদের ফৌজে যোগ দিয়াছিলেন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_11420"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01652.wav",
+    "text": "বহুমুখী নকশা পনির উপকারী পরিবেশন সরঞ্জাম জন্য একটি স্টোরেজ বিভাগে হিসাবে দ্বিগুণ। সরঞ্জাম টেকসই ইকো বান্ধব বাঁশ থেকে তৈরি স্টেইনলেস স্টীল গ্রেড হয়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01652"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01429.wav",
+    "text": "আর বলদ কিনবার জন্যে ইদ্রিস মিয়ার কাছ থেকে যে বাহান্ন টাকা ধার করেছিল খেতু, সে মামলা এখনও ঝুলে রয়েছে রামসই ঋণ সালিশি বোর্ডেই।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01429"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02646.wav",
+    "text": "কিন্তু সংস্কৃতি কখনও শেষ সম্পূর্ণ নয়। এগুলো সর্বদা পরিবর্তিত এবং বিবর্ধিত হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02646"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00744.wav",
+    "text": "ভাকড়া নাঙ্গাল বাঁধসহ বিভিন্ন বৃহৎ প্রকল্পগুলোতে প্রচুর পরিমাণে অর্থ বিনিয়োগ করা হয়।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00744"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01718.wav",
+    "text": "ইন্ডিয়া শাইনিং আর ফিল \"গুডে\" ফ্যাক্টরের প্রচারকেও ম্লান করে দিয়েছিল কৃষকদের আত্মহত্যা।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01718"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00151.wav",
+    "text": "দ্বিতন্ত্রী হেলিক্সে একটি বেস-যুগ্মের তল অপরটির উপর স্তূপীকৃত থাকে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00151"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00160.wav",
+    "text": "সকাল সকাল পারো পৌঁছে দেখা হয়ে গেল মিউজিয়াম, জং (বৌদ্ধগুম্ফা ও সরকারি দফতর) ও বৌদ্ধমঠ।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00160"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00772.wav",
+    "text": "বাংলাদেশের বিপিও খাতে দক্ষ মানব সম্পদ উন্নয়নের জন্য তথাপি গুরুত্ত্বপূর্ণ সম্মাননা পাওয়াতে সবার পক্ষ থেকে মোস্তফা জামান কে আন্তরিক অভিনন্দন ও শুভেচ্ছা জানানো হয়।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00772"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02834.wav",
+    "text": "অধিকাংশ গবেষকই এই সংজ্ঞাটিতে একমত হননি।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02834"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07439.wav",
+    "text": "আমরা দেখেছি সাতবাহন রাজারা মাতৃনাম (মাতার নাম থেকে উদ্ভূত) দ্বারা পরিচিতি লাভ করেছিলেন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07439"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07764.wav",
+    "text": "মস্ এবং লাইকেনই হচ্ছে প্রথম জীবগোষ্ঠী যারা নগ্ন পাথুরে স্থানে প্রথম বসতি স্থাপন করেছে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07764"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02082.wav",
+    "text": "তখন জিন্নাহ, নিক্সন, মাওসেতুং, রানী এলিজাবেথ কারও নাম মুখে আনবো নাএকেবারে সেন্ট পারসেন্ট স্বদেশী বনে যাব।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02082"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10077.wav",
+    "text": "ইন্ডাস্ট্রিয়াল কেমিস্ট্রিতে, বিশেষ করে গ্লিসারাইড কেমিস্ট্রি অর্থাৎ তৈল রসায়নে এত বড়ো অথরিটি এখনও পর্যন্ত আর একজনও হননি।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10077"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00792.wav",
+    "text": "ওই ভিডিওতে দেখা যাচ্ছে উত্তর প্রদেশের চান্দৌলি এবং গাজিপুর কেন্দ্রে ভোটের একদিন পর একটি ট্রাক থেকে ইভিএম নামানো হচ্ছে।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00792"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02100.wav",
+    "text": "নাবিকের রসিদে জাহাজের নাম, জাহাজ ভিড়ার জায়গা, পণ্য প্রেরণের তারিখ, মোড়কের বিবরণ, চিহ্ন এবং সংখ্যা, জাহাজে পণ্য পাওয়ার সময় পণ্যের অবস্থা ইত্যাদি।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02100"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00995.wav",
+    "text": "প্রতিবেশীর সাহায্যে ঘরের দরজা ভেঙে প্রকাশ, তাঁর স্ত্রী ও দুই ছেলেকে তিনিই উদ্ধার করেন বলে জানা গিয়েছে।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00995"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00345.wav",
+    "text": "কিন্তু নতুন যন্ত্রাংশ কেনার টাকা না থাকায়, সেগুলির উড়ান বন্ধ রাখার সিদ্ধান্ত নেওয়া হয়েছে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00345"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_01128.wav",
+    "text": "তাহারা বলেন যে, আকাশ প্রথমটি জলের, দ্বিতীয়টি লৌহের, তৃতীয় তাম্রের, চতুর্থ স্বর্ণের তৈয়ারী।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_01128"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00833.wav",
+    "text": "এমনকি সাধারণ কৃষকরা পর্যন্ত এই প্রচারাভিযানের ভবিষ্যত কার্যকারিতার উদ্দেশ্য সম্পর্কে উৎসাহিত ও আবেগতাড়িত হয়ে পরে।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00833"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00026.wav",
+    "text": "আগুনে ঝলসানো মাংস কিংবা ধোঁয়ায় প্রক্রিয়াকৃত মাংস ক্যানসারের আশঙ্কা বহুগুণে বাড়িয়ে দেয়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00026"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00139.wav",
+    "text": "লৌহবর্গীয় ধাতব খনিজ : লোহা এবং স্টিল তৈরিতে লোহার সাথে মিশ্রিত অন্যান্য ধাতুসমূহ।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00139"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00253.wav",
+    "text": "ভীষ্ম সাজালেন মন্ডল ব্যুহ। পান্ডবরা সাজালেন বজ্র ব্যুহ। দুই পক্ষই তাদের ব্যুহ অটুট রেখে বিপক্ষের দিকে অগ্রসর হলেন।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00253"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00793.wav",
+    "text": "তাকে শুধু ট্রাংকের ভেতর কী আছে সেটা পরীক্ষা করতে বলা হয়েছিল।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00793"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01699.wav",
+    "text": "ফজলে রাব্বী মিঞা এবং চিফ হুইপ আসম ফিরোজ গভীর শোক প্রকাশ এবং শোকসন্তপ্ত পরিবারের সদস্যদের প্রতি গভীর সমবেদনা জ্ঞাপন করেন।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01699"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00949.wav",
+    "text": "কিন্তু শিক্ষা অধিকর্তাকে কিছুই জানালেন না, এমন ব্যাপার মেনে নিতে পারেননি জিডুং।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00949"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_11244.wav",
+    "text": "একটি বাড়ী ধ্বংশস্তূপে পরিণত হইয়াছে- শুনিলাম একজন বৈমানিক ধরা পড়িয়াছে এবং সে নাকি বলিয়াছে যে তাহারা খবর পাইয়াছিল যে সুভাষ বসু এখানে আছেন!",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_11244"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05355.wav",
+    "text": "অতি শীঘ্র খেলাৎ ও ফর্মান আপনার নিকট প্রেরিত হইবে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05355"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00182.wav",
+    "text": "বিস্তৃত সংরক্ষিত বনাঞ্চল, উপত্যকা, ঝর্ণা, নদী, পাহাড়ি ঝিরি, সর্পিল পথ, উঁচু পাহাড় আর বৃহত্তম কৃত্রিম হ্রদ নিয়েই বৈচিত্র্যময় পার্বত্য চট্টগ্রাম।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00182"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10163.wav",
+    "text": "শিলিগুড়ি থেকে হাঁসের দল দুই ভাগ হয়ে চলল, ঠিক সেই সময় গুঁড়ি-গুঁড়ি বৃষ্টি নামল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10163"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03789.wav",
+    "text": "অপসরণ শিলা পৃষ্ঠতলের উপর অনেক ছোটো গৰ্ত বা গহ্বরও তৈরি করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03789"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00962.wav",
+    "text": "যখন ব্যারিয়ার বাঁধ এবং স্পিটগুলো কোনো খাড়ির সম্মুখে নির্মিত হয়ে এর পথ অবরোধ করে দেয়, তখন উপহ্রদ গঠিত হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00962"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02535.wav",
+    "text": "আরোগ্য লাভের একটি প্রধান উপাদান হলো থেরাপিস্ট অবলম্বিত কৌশল এবং এই একই কৌশলের রোগী বা ক্লায়েন্টের উপর বাস্তবায়ন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02535"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00638.wav",
+    "text": "সোমবার বেলা {১১}{এগারো} টায় আওয়ামী লীগের সভাপতির ধানমন্ডীর রাজনৈতিক কার্যালয়ে বিএনপি নেতাদের মিথ্যাচারের জবাব দিতে এক সংবাদ সম্মেলনে তিনি এসব কথা বলেন।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00638"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00061.wav",
+    "text": "তবে শেষ দিন আসা পেঁয়াজভর্তি বন্দরে নোঙর করা সব ট্রলারের পেঁয়াজ খালাস শেষ হলে এ পরিমাণ আরো বাড়বে বলে জানান শুল্ক কর্মকর্তা আবছার উদ্দিন।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00061"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01372.wav",
+    "text": "আজ (রোববার) দুপুর পৌনে বারোটা নাগাদ নাখভি এবং তার অন্যান্য সাথীরা মখমলের চাদর এবং ফুল নিয়ে নিজাম গেটে পৌঁছান।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01372"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00948.wav",
+    "text": "খবর ছড়িয়ে পড়ার সাথে সাথে অনেক লোক গ্রামে যায়। একটি অন্ত্যেষ্টিক্রিয়া পরিচালিত হয় এবং অনেক ফুলের মালা কুকুরটিকে দেওয়া হয়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00948"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01640.wav",
+    "text": "ক্যাপিটল বিল্ডিঙের ওপাশের রাস্তায় লাইব্রেরি অভ কংগ্রেস, এখান থেকে বেশি দূরেও নয়।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01640"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02389.wav",
+    "text": "তাই সেদিন উদার হয়েছিল প্ৰবোধ, সভ্য হয়েছিল, সুন্দর সেদিনের স্মৃতিকথা পরিচ্ছন্ন করে মাজা একটি গ্লাসে এক গ্লাস জলের মত স্নিগ্ধ শীতল।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02389"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03682.wav",
+    "text": "তোমরা কি কলিঙ্গ নগরের বিবাদ সম্বন্ধে পড়েছ ?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03682"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00385.wav",
+    "text": "প্রথম বা দ্বিতীয় সাধারণ নির্বাচনে কেউ কী ভোট দিয়েছেন? তারা কাকে ভোট দিয়েছিলেন এবং কেন?",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00385"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05632.wav",
+    "text": "একটুক্ষণ চোখ পিটপিট করতে করতে কামড়ানো ঠ্যাংটা নিজের মুখে পুরে চুষে নিল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05632"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01278.wav",
+    "text": "নেহরুর মৃত্যুর প্রায় দুই বছরের মধ্যে কংগ্রেস রাজনৈতিক উত্তরসূরি নির্বাচনের ক্ষেত্রে দ্বিতীয়বারের মতো কঠিন সমস্যার সম্মুখীন হয়।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01278"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00115.wav",
+    "text": "কপিলের দলের বিরুদ্ধে ওল্ড ট্র্যাফোর্ডে হাজির ছিলেন সেই বিখ্যাত পেস চতুর্ভুজ রবার্টস, হোল্ডিং, মার্শাল, গার্নার।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00115"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05118.wav",
+    "text": "কুমায়ুনের প্রান্তে গার্বিয়াং ছাড়িয়ে লিপু লেক গিরিসংকট অতটা না হলেও অনেকটা তাই; ওখানে তাকলাকোট হলো তিব্বতিদের ঘাঁটি।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05118"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03123.wav",
+    "text": "এই অন্ধকারে এই ফাঁদের মধ্যে খুন করিয়া এই খেতের মধ্যে পুঁতিয়া ফেলিলেই বা কে নিবারণ করিবে?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03123"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00025.wav",
+    "text": "তবু স্বাধীনতার সাথে আসা এই অশান্তি আমাদের নেতৃবৃন্দকে এটা ভুলে যেতে দেয়নি যে এই নতুন দেশ বহুবিদ্ সমস্যার সম্মুখীন।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00025"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07890.wav",
+    "text": "নানা রকম ফুল, চন্দনকাঠ, ঘৃতকুমারী এবং নানা ভেষজ উদ্ভিদ ভারতে হতো।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07890"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02176.wav",
+    "text": "বাহ্যিক সৌন্দর্য্যের বাইরেও নারীর এক বিশেষ রুপ রয়েছে যা তাকে মাতা, দেবী, যোদ্ধা কিংবা নেত্রীর মতো বিভিন্নরুপে হাজির করেছে এই বিশ্বব্রহ্মাণ্ডে।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02176"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_02167.wav",
+    "text": "গুজরাটের সর্দার সরোবর প্রকল্প এবং মধ্যপ্রদেশের নর্মদা সাগর প্রকল্প ছিল বিশাল আকৃতির ও বহুমাত্রিক দুটি প্রকল্প।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_02167"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02998.wav",
+    "text": "এই টাইপতত্ত্ব অনুসারে অন্তর্মুখী ব্যক্তিরা একা থাকতে পছন্দ করে, অন্যদের এড়ানো প্রবণতা দেখায়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02998"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00487.wav",
+    "text": "কিছু মিউটেশনে পুরো ক্রোমোজোম সেট এরই পরিবর্তন (পলিপ্লয়েডী) অথবা ক্রোমোজোম সংখ্যার সাবসেটের পরিবর্তন (অ্যানিউপ্লয়েডি ঘটে)।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00487"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07143.wav",
+    "text": "মুহূর্তের জন্যও চুপ করে থাকাকে যাঁরা বুদ্ধির পরাভব কিংবা সৌজন্যের ত্রুটি বলে মনে করেন, আড্ডা জিনিসটা তাঁরা বোঝেন না।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07143"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00011.wav",
+    "text": "মাথার তেল, সাবান, টুথপেস্ট, পাস্তা, কর্নফ্লেক্স, জ্যাম, স্যুপ, আইসক্রিম, টিস্যু পেপার, লৌহ বা স্টিল, ফাউন্টেন পেন, কম্পিউটার, মানব নির্মিত ফাইবার, {৫০০}{পাঁচশো} টাকার উর্দ্ধে জুতো",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00011"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_04235.wav",
+    "text": "তারা ইয়ং আন্নান এর মতো দল গঠন করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_04235"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01736.wav",
+    "text": "এখন আর ভারতীয় শিল্পক্ষেত্র কেবলমাত্র সুতি বস্ত্রশিল্প এবং পাটশিল্পের মধ্যে সীমাবদ্ধ থাকলো না।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01736"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_11076.wav",
+    "text": "তমাল লতা বসুর ‘অমিয়’, তুষার মালার ‘সীবন ও কাটিং শিক্ষা’, তরুবালার ‘কলিকাতায় তিনটি বিবাহ’।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_11076"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00658.wav",
+    "text": "অত টাকা দেওয়ার ক্ষমতা না থাকায় মুমূর্ষু রোগীকে নিয়ে পরিজনরা ফিরল সরকারি হাসপাতালে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00658"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07877.wav",
+    "text": "গ্যাপ জাংশন পার্শ্ববর্তী কোশগুলোর মধ্যে পারস্পরিক যোগাযোগ রক্ষায়, আয়ন সমূহ, ক্ষুদ্র ক্ষুদ্র অণু এবং বৃহদাকার অণুগুলোর দ্রুত স্থানান্তরণে সাহায্য করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07877"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01054.wav",
+    "text": "এই সময় হাস্সান ইবনে সাবিতের কবিতা শুনে মূতার যুদ্ধফেরত সাহাবীরা কান্নায় ভেঙ্গে পড়েন।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01054"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03351.wav",
+    "text": "পটু বললে, দূর, তুই বুঝি আমায় টানতে পারিস?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03351"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02228.wav",
+    "text": "মানু পিসি আর বসে থাকবার মহিলা নয়। তিনি একেবারে রণং দেহি হয়ে চানুর মুখোমুখি সম্মুখ সমরে অবতীর্ন হলেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02228"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02264.wav",
+    "text": "পতির চিকিৎসার নিমিত্ত আমি গ্রাম অনুসন্ধান করিতেছি।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02264"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01962.wav",
+    "text": "যে যজমান স্রুক উন্নত করে তার জন্য তুমি অদ্য দেবগণকে আহ্বান কর।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01962"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00121.wav",
+    "text": "একটা তুচ্ছ বাঙালি ভুঁইয়ার বিদ্রোহে যে হিন্দুস্থানের বাদশা এতদূর চিন্তিত, এটা আমি বিশ্বাস করতে পারি না।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00121"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00602.wav",
+    "text": "ইতিমধ্যে দুটো ইংরেজি কাগজেও পিংক পার্লের খবরটা বেরিয়ে আমাদের উৎকণ্ঠা আরও বাড়িয়ে দিয়েছে।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00602"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03456.wav",
+    "text": "এগুলো সাধারণত উদ্বেধী রূপে পশ্চিম মহারাষ্ট্রীয় অঞ্চলে দেখা যায়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03456"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_01013.wav",
+    "text": "এই বলিয়া মূর্ছিত দম্পতিকে অন্ধকার ঘরে ফেলিয়া বিশ্বজগতে কাদম্বিনী আপনার স্থান খুঁজিতে গেল।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_01013"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00339.wav",
+    "text": "ভারী বর্ষার কারণে অত্যধিক ধৌত প্রক্রিয়ার পরিণাম হল এই মৃত্তিকা।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00339"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00786.wav",
+    "text": "কিন্তু প্রোটিয়া নির্বাচকরা তাঁকে ব্রাত্য রেখেই টেম্বা বাভুমা, বর্ন ফরটুইন ও অ্যানরিক নোর্টজকে নিয়েছে।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00786"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00134.wav",
+    "text": "দুর্গাপুজোয় অষ্টমীর সকালে শাঁখা সিঁদুর পরে স্বামী নিখিল জৈনের সঙ্গে পৌঁছে যান সুরুচি সঙ্ঘের মণ্ডপে নুসরত।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00134"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06675.wav",
+    "text": "নিবাস আলি গোমস্তা পালাটা নেকেছিলেন আমার কত্তাবাবার আমলে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06675"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02658.wav",
+    "text": "স্থানীয় বাসিন্দা ওমর গোরজ্যাং বলেন, বিস্ফোরণের সময় মসজিদে {৩৫০}{তিনশো পঞ্চাশ} জনের মতো মুসল্লি ছিলেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02658"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00097.wav",
+    "text": "বেঙ্গল অ্যামেচার সুইমিং অ্যাসোসিয়েশনের আয়োজনে কলকাতা সেন্ট্রাল সুইমিং ক্লাবে {১৩}{তেরো} থেকে {১৫}{পনেরো} আগস্ট এই সাঁতার ও ডাইভিং প্রতিযোগিতা আয়োজিত হয়।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00097"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03838.wav",
+    "text": "কোনো তথ্য কারোর কাছে প্রকাশ না করার বিষয়ে যত্নবান হইও।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03838"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03204.wav",
+    "text": "যেমন, নির্বাচনে প্রত্যেক প্রতিদ্বন্ধীই হবে নির্দল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03204"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00972.wav",
+    "text": "জিয়া অরফানেজ ট্রাস্ট ও জিয়া চ্যারিটেবল ট্রাস্ট দুর্নীতি মামলায় আত্মপক্ষ সমর্থনে তার আগের বক্তব্য অসমাপ্ত রয়ে গিয়েছে। সে বক্তব্যের অবশিষ্টাংশ আজ তিনি দেবেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00972"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01607.wav",
+    "text": "জয়প্রকাশ নারায়ণের নেতৃত্বে পরিচালিত আন্দোলনের পাশাপাশি রেলের কর্মচারীরাও দেশব্যাপী হরতালের ডাক দেয়। এর ফলে দেশে প্রচণ্ড অচলাবস্থা তৈরি হয়।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01607"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02044.wav",
+    "text": "অভিযোগে আরও বলা হয়, আলতাফ পুকুরে শাপলা ও ময়ূরপঙ্খী চিহ্নিত আস্তানা তৈরি করেছেন। ওই আস্তানায় বসে মানুষের সঙ্গে বিভিন্ন রকমের প্রতারণা করে থাকেন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02044"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06728.wav",
+    "text": "পিসেমশাই বললেন, ‘আমার জিপে করে এবার তাহলে ঠামু, আম্মা, বোম্বা আর সোনা-টিয়া বাড়ি গিয়ে ঘুমিয়ে পড়ুক।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06728"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00431.wav",
+    "text": "এতদিন ভোট ময়দানে বিজেপির লম্ফঝম্ফ চললেও বাংলার সামাজিক বা সাংস্কৃতিক কোনও অনুষ্ঠানের অংশ হতে দেখা যায়নি গেরুয়া শিবিরকে।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00431"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02577.wav",
+    "text": "বহু ক্ষেত্রেই দেখা যাচ্ছে, শহরের পথঘাটে বিক্রি হওয়া শরবতে খাওয়ার যোগ্য বরফের কিউব (খণ্ড) না ব্যবহার করে বাণিজ্যিক বরফের চাঁই ব্যবহার হচ্ছে।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02577"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00666.wav",
+    "text": "'জিয়া পরিবারের প্রতি সরকারের এই অত্যাচারে ক্ষুব্ধ ও ব্যথিত জনগণ গুমরে গুমরে দিন কাটালেও যেকোনো মুহূর্তে এর উদ্গিরণ ঘটবেই'।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00666"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_04165.wav",
+    "text": "মানুষের জীবন সম্বন্ধীয় অনিশ্চিত ঘটনা ঘটলে অথবা একটি নির্দিষ্ট সময়ের সমাপ্তি ঘটলে বিমাকৃতের অর্থ ফেরতের প্রতিশ্রুতি দেয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_04165"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00837.wav",
+    "text": "কেন টাকা দিতে হবে জানতে চাইলে, শৈলেশকে ডেকে অফিসে ডাঁই হয়ে পড়ে থাকা ফাইল দেখানো হয় হয়।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00837"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10030.wav",
+    "text": "আ-মৃত্যু স্বামী সৌভাগ্যে সৌভাগ্যবতী এই চিররুগ্না নারীর ছাপ্পান্ন বৎসর বয়সে ফিয়েমৎসে নগরে মৃত্যু হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10030"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00129.wav",
+    "text": "এমনকি শুধু স্ক্রিপ্ট বেছে নেওয়াই নয়, আয়ুষ্মান বিভিন্ন স্বাদের স্ক্রিপ্ট নিয়েও কাজ করেছেন ক্যারিয়ারের শুরু থেকেই।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00129"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_02137.wav",
+    "text": "এই আন্দোলনের মাধ্যমে রাজনীতি ও দুর্নীতির অভ্যন্তরীণ যোগসূত্রতাকে উন্মোচন করা হয়েছিল।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_02137"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00176.wav",
+    "text": "এ রকম একটা সময়ে মানুষকে যেভাবে সান্ত্বনা দিতে হয়, সাহস দিতে হয়, তুমি ঠিক সেভাবেই সাহস দিচ্ছো, সান্ত্বনা দিচ্ছো।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00176"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_11487.wav",
+    "text": "তখন অতিশয় ক্রুদ্ধ হইয়া বলিলেন, “কি, আমি পিতা হইয়া এত অনুনয় বিনয় করিলাম, কিছুতেই তোমার গ্রাহ্য হইলনা?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_11487"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02682.wav",
+    "text": "সুতরাং দেখা যাইতেছে, পিঁপড়েরা যে পোকাগুলিকে গোরুর মত পোষে তাহা নয়, আমরা যেমন গোরুর দুধ দুহিয়া লই, উহারাও সেই রকমে মধু দুহিয়া লয়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02682"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01196.wav",
+    "text": "কোনো কোনো সময়ে তরঙ্গায়িত উদ্বেধী শিলা, ভাঁজযুক্ত আগ্নেয়শিলা অঞ্চলে অধোভঙ্গ তলে এবং ঊর্ধ্বভঙ্গের চূড়ায় অবস্থান করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01196"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07354.wav",
+    "text": "জানতে পারলাম যে তার পুরো নামটা না কী আবু সালে মহম্মদ তরিকুল আলম খান!",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07354"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02270.wav",
+    "text": "আকাঙ্খা রঞ্জনের জন্মদিনের পার্টিতে রণবীর, আলিয়ার পাশাপাশি হাজির হন আথিয়া শেঠি, ক্রিস্টিল ডিসুজা, রকুল প্রীত সিং, বাণী কাপুরসহ আরও অনেকে।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02270"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EVAL_00143.wav",
+    "text": "আমি সবসময় টম এবং টনির মধ্যে বিভ্রান্ত হই।",
+    "language_id": "bn",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_bn_f_EVAL_00143"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10749.wav",
+    "text": "প্রাণহানি হওয়াও আশ্চর্য নয়, আবার শুধু হোঁচট খেয়ে পায়ের আঙ্গুল মচকে যাওয়াও সম্ভব।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10749"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_01857.wav",
+    "text": "এবারেও সম্বোধনে শুধু গম্ভীরভাবে প্রিয় রবিবাবু, শ্রদ্ধাভক্তি জানাবার কোনও পাট নেই, শেষে শুধু নাম, যেন সমবয়েসী।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_01857"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00572.wav",
+    "text": "মুকুল নিয়ম মেনে ওষুধ খাচ্ছেন কি না অথবা ইনসুলিন নিচ্ছেন কি না, সে বিষয়ে খোঁজ নেন পুত্র শুভ্রাংশু।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00572"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01588.wav",
+    "text": "{১৮}{আঠারো} বছর বয়সী বিলিই হবেন বন্ড ছবির থিং সং গাওয়া সর্বকনিষ্ঠ গায়িকা।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01588"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01582.wav",
+    "text": "প্রতিদিন বিশ্বজুড়ে লক্ষ লক্ষ গ্যালন বর্জ্যজল পরিশোধনে অণুজীবরা কিভাবে একটি মুখ্য ভূমিকা পালন করে তা তোমরা উপলব্ধি করতে পারছো।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01582"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01453.wav",
+    "text": "নোবেল জয়ের পরেই ছুটির প্ল্যান অভিজিতের, কোথায় যাচ্ছেন মা ও ভাইকে নিয়ে।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01453"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00467.wav",
+    "text": "কয়েকদিন আগে চুঁচুড়া পুরসভার উদ্যোগে চুঁচুড়া মাঠে মেলার আয়োজন করা হয়েছিল।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00467"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01073.wav",
+    "text": "ধর্ম থেকে জিরাফ সব ধরনের বর্জ্যের ভিড়ে কলকাতার মলিনরঙা গঙ্গায় প্রতিমার কাঠামোর মতো ভাসতে থাকল শূন্য বোতলও।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01073"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_02615.wav",
+    "text": "ধৃত গরজমান কাটওয়াল ভুটানের লেম ঝিংগে এলাকার বাসিন্দা এবং কমল ছেত্রী নিউ হাসিমারা এলাকার বাসিন্দা বলে জানিয়েছে আবগারি দপ্তর।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_02615"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00395.wav",
+    "text": "এরপর থেকে মীম আক্তার মলিকাডাংগা গ্রামে তার নানির বাড়িতেই অবস্থান করছেন এবং অতি কষ্টে জীবন ধারণ করছেন।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00395"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01207.wav",
+    "text": "ভিটেমাটি, ফসলের বিস্তীর্ণ মাঠ, ব্যবসা বাণিজ্য, কোটি টাকার সম্পদ ছেড়ে বাংলাদেশে এসে সামান্য খাবারের জন্য লাইন ধরতে হচ্ছে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01207"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00473.wav",
+    "text": "লিয়ঁর মডেল অনুসরণ করেই শ্রীলঙ্কায় এখন ফুল ফোটাচ্ছেন বঙ্গতনয় ঋষভ মুখোপাধ্যায়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00473"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00963.wav",
+    "text": "তাঁর রচিত বইগুলো হলো - অগ্নিবীণা, বিষের বাঁশি, সাম্যবাদী, সর্বহারা, ফণীমনসা, প্রলয়শিখা।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00963"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00960.wav",
+    "text": "এতে আল্পস অঞ্চলের টিরোল, অস্ট্রিয়া এবং সুদেতান অঞ্চলের পাশাপাশি বোহেমিয়া অঞ্চলও অন্তর্ভুক্ত ছিল, যেখানকার অভিজাতরা প্রধানত জার্মান ভাষায় কথা বলত।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00960"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00889.wav",
+    "text": "নির্বাচনকে কেন্দ্র করে গত দুই দিন দোকান ভাঙচুর, অগ্নিসংযোগ, ককটেল বিস্ফেরণ ও অস্ত্রের ভয় দেখিয়ে ভীতি প্রদর্শনের ঘটনা ঘটেছে।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00889"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00809.wav",
+    "text": "দুলারী গালে জলের দাগ নিয়ে বিদ্রূপে ঠোঁট বেঁকিয়ে বলে, ওকে খালি পিলিয়ে দেয়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00809"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_02393.wav",
+    "text": "সেক্ষেত্রে ফিনিশড প্রোডাক্টের ওপর আমদানি শুল্ক বাড়ানো হোক এবং কাঁচামালের ওপর আমদানি শুল্ক ও কর শূন্যের কোঠায় নামিয়ে আনা হোক।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_02393"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_01522.wav",
+    "text": "সুদীপ্ত বিশ্বাস, ডেপুটি ম্যাজিস্ট্রেট, রাণাঘাট, নদিয়া। অনেকদিন ধরে কবিতা লিখছেন, বাণিজ্যিক পত্রিকাতে প্রকাশিতও হয়েছে। বই আছে সাতটি।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_01522"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_01364.wav",
+    "text": "গোয়ায় ছুটি কাটাতে গিয়ে গত কয়েক মাস ধরে প্যাংক্রিয়াসের অসুখে ভুগতে থাকা রাজ্যের মুখ্যমন্ত্রী মনোহর পর্রীকরের সঙ্গে দেখা করলেন রাহুল গাঁধী।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_01364"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00987.wav",
+    "text": "উল্টে ইরানে বিরুদ্ধে তেড়েফুঁড়ে যুদ্ধং দেহি মানসিকতা নিয়ে লড়াইয়ে নেমেছেন তিনি।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00987"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00342.wav",
+    "text": "যদি আপনি পেজে জাভা স্ক্রিপ্ট ব্যবহার করতে চান তবে তা পেজের ভেতরে না লিখে একটি বাহ্যিক জাভা স্ক্রিপ্ট ফাইল ব্যবহার করুন।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00342"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00581.wav",
+    "text": "এই দলগুলো কংগ্রেস দলের নীতি ও কার্যকলাপের গঠনমূলক সমালোচনা করত।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00581"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00529.wav",
+    "text": "{১৯৫১}{উনিশশো একান্ন} সালে কমিউনিস্ট দল সহিংস বিপ্লবের পথ ত্যাগ করে আসন্ন নির্বাচনে অংশ গ্রহণের সিদ্ধান্ত নেয়।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00529"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02510.wav",
+    "text": "ষোড়শ শতাব্দীতে মুদ্রকদের কর্মশালা দেখতে কীরকম হত, তা এই চিত্রটি থেকে বোঝা যায়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02510"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03011.wav",
+    "text": "এই কারণে অস্বাভাবিক ধরনের হিমোগ্লোবিন অণু সৃষ্টি হয়, এবং যার ফলে রক্তাল্পতা বা অ্যানিমিয়া দেখা দেয়, যা হল এই রোগের চারিত্রিক বৈশিষ্ট্য।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03011"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_04102.wav",
+    "text": "মধ্য এশিয়ার তাজিকিস্তান {2001}{দু হাজার এক} সাল পর্যন্ত প্রায় দশ বছর ধরে গৃহযুদ্ধের সাক্ষী।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_04102"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10595.wav",
+    "text": "তাঞ্জোরের মুথুকৃষ্ণ আয়ারের পত্নী ‘কামাক্ষী’ কালিদাসের ব্যবহৃত বহু শব্দ সুকৌশলে নূতন ভাবে সাজিয়ে ব্যবহার ক’রে ‘রামচরিত’ রচনা করেছেন, তাঁতে তার অসামান্য পাণ্ডিত্যের পরিচয় পাওয়া যায়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10595"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02571.wav",
+    "text": "একই পিসি একাধিক ব্যাক্তি ব্যবহার করলেও সমস্যা নেই কারন একেকটা ফোল্ডার একেকটা আলাদা পাসওয়ার্ড দিয়ে লক করা যায়।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02571"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01507.wav",
+    "text": "তিনি অন্যান্য মন্দিরের প্রসঙ্গ তুলে বলেন অসমের কামাখ্যা মন্দির, কলকাতার কালীঘাট মন্দিরে, আজমেঢ়ের খ্বাজা মাইনুদ্দিন চিস্তির দরগায় অন্য ধর্মের মানুষরা জড়ো হন।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01507"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00111.wav",
+    "text": "এখানে বহু আল্ট্রাসাউন্ড সেন্টার ও ফার্টিলিটি ক্লিনিক রয়েছে যারা ভ্রণের লিঙ্গ নির্ধারণ ও মেয়ে শিশু নষ্ট করতে গর্ভপাত ঘটাতে সাহায্য করে।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00111"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00380.wav",
+    "text": "কড়াইয়ে ডালডা ও তেল একসঙ্গে গরম করে মিশ্রণ বুন্দিয়ার ঝাঁজরিতে ঢেলে ঝাঁজরি ঝেঁকে ঝেঁকে বুন্দিয়া তেলে ফেলতে হবে।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00380"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00567.wav",
+    "text": "শোনা যাচ্ছে, এখান থেকে পিয়ংইয়্যাং ফেরার পথে বেজিংও ঢুঁ মেরে যাবেন কিম।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00567"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00530.wav",
+    "text": "কিন্তু গ্রহীতা পার্শ্ববর্তী শ্রীপুর উপজেলার মাওনা এলাকার বাসিন্দা হওয়ায় এবং পাওনা টাকা পরিশোধ না করায় গত একবছরে {১০০}{একশো} টাকা সুদ আসলে {১০০০}{এক হাজার} টাকা হয়।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00530"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_01078.wav",
+    "text": "ক্যাম্পাসিংয়ে খুব বেশি পড়ুয়া সুযোগ না পাওয়ার কথা কার্যত স্বীকার করে নিয়ে তিনি বলেন, রাজ্যজুড়ে কর্ম সঙ্কটের প্রভাব এখানেও পড়েছে।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_01078"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00027.wav",
+    "text": "ঐতিহাসিক যদুনাথ সরকার দেখিয়েছেন, মোগল সাম্রাজ্যের ত্রুটিবিচ্যুতি যাই হোক, ভারতে এই দীর্ঘ শাসন এক অখণ্ড বিস্তৃত কিন্তু কেন্দ্রীভূত ভারত নামক এক রাষ্ট্রের জন্ম দিয়েছিল।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00027"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00432.wav",
+    "text": "রশিদ ঊর্ধ্বতন কর্মকর্তার সহায়তায় অতিরিক্ত (ডুপ্লিকেট) চাবি দিয়ে ক্যাশ খুলে হিসাব মিলিয়ে দেখেন নির্দিষ্ট টাকার চাইতে ক্যাশ {১}{এক} লাখ {৭০}{সত্তর} হাজার টাকা কম আছে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00432"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10286.wav",
+    "text": "হ্রিং টিং ফট এই মন্তর বলে বুড়ো গর্তের মুখে একটা মস্ত পাথর চাপা দিয়ে বেরিয়ে আসত।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10286"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07729.wav",
+    "text": "কাউন্সিলের একজন সদস্যকে ঐ ঘাঁটির গভর্নর নির্বাচিত করা হতো।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07729"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00669.wav",
+    "text": "তাঁর এই ব্যতিক্রমী বৈশিষ্ট্যের জন্যে, বাংলা কবিতার আলোচনা এলে বারবার আলোচিত এবং উল্লেখিত হতে থাকবেন আবদুল মান্নান সৈয়দের নাম।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00669"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_06710.wav",
+    "text": "লঘুসারক দ্রবণে কোশের রসস্ফীতি ঘটে এবং অতিসারক দ্রবণে কোশ কুঞ্চিত হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_06710"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_11619.wav",
+    "text": "যোগী-গোফা বুড়ো আংলা রংপো নদীটি খুব বড় নদীও নয় ম্যাপেতেও তার নাম ওঠেনি।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_11619"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_02468.wav",
+    "text": "জমা জলে গিজগিজ করছে, ডেঙ্গির জন্য দায়ী এডিস ইজিপ্টাই মশার লার্ভা।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_02468"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01348.wav",
+    "text": "কারণ ভীম সিং অনুধাবন করতে পেরেছিলেন যে দলীয় প্রার্থী যদি এই নির্বাচনী ক্ষেত্র থেকে জয়ী হয়ে আসেন তাহলে অবশ্যই তিনি পরবর্তী সরকারের মন্ত্রী হিসাবে কাজ করার সুযোগ পাবেন এবং এই অবস্থায় ভীম সিং প্রথমবারের মতো কোনো মন্ত্রীর সাথে সরাসরি যোগাযোগ রাখতে সমর্থ হবেন!",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01348"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EVAL_00178.wav",
+    "text": "আপনি নিশ্চই আমার সাথে মজা করছেন। আপনি এটা আমাকে গত রাতেই দিয়েছিলেন।",
+    "language_id": "bn",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_bn_f_EVAL_00178"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00465.wav",
+    "text": "বিশেষ করে পশ্চিমবঙ্গ সীমান্তবর্তী রাজ্য হওয়ায় এখানে এনআরসি একটা বড় ইস্যু তা ভালো করেই জানে সবাই।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00465"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00499.wav",
+    "text": "এছাড়া এতে আছে প্রচুর পরিমাণে ভিটামিন 'ই'। দিনে গড়ে {৩০}{ত্রিশ} গ্রাম পালং শাক খেলে ভবিষ্যতে অ্যালঝাইমার্স হওয়ার সম্ভাবনা অনেকটাই কমে যায়।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00499"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00177.wav",
+    "text": "দেশভাগ সম্পর্কিত ক্রোধ এবং সহিংসতা হঠাৎ হ্রাস পায়।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00177"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00333.wav",
+    "text": "সিলেট নগরীর ভোজন বাড়িতে ভাংচুরের ঘটনা ঘটেছে। রোববার দুপুরে স্বেচ্ছাসেবক লীগের একটি আনন্দ মিছিলশেষে এ ভাংচুরের ঘটনা ঘটেছে বলে জানা যায়।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00333"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00367.wav",
+    "text": "রোগগুলোর মধ্যে চর্মরোগ, পায়ে ও হাতের আঙ্গুলে পচন ধরা বা গ্যাংগ্রিন, বিভিন্ন ধরনের ক্যান্সার এবং লিভার, কিডনী, মুত্রাশয় ও ফুসফুস আক্রান্ত হওয়া ইত্যাদি।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00367"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07561.wav",
+    "text": "সেই নিস্তব্ধতার মধ্যে শিশু সহসা এক দিকে অঙ্গুলি নির্দেশ করিয়া বলিল, ‘চন্ন, ফু।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07561"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01462.wav",
+    "text": "নৃপতিদের ব্যয় নির্বাহভাতার বিলুপ্তিসাধন প্রথম অধ্যায়ে তোমরা রাজন্য শাসিত রাজ্যগুলোর ভারতের সাথে সংযুক্তিকরণের বিষয় অধ্যয়ন করেছ।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01462"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00307.wav",
+    "text": "শিবিরে রক্ত দেন হবু চিকিৎসক রৈনাক ভৌমিক, সৈকত সেন, প্রমিতা পালরা।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00307"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00171.wav",
+    "text": "তুমি অন্তরের অন্তরে বুঝিলে যে, গগন তোমার ব্যথার ব্যথী, অমনই যেন তাহার উপর তোমার একটু ভালোবাসা জন্মিল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00171"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01098.wav",
+    "text": "অদ্যাপি তাহার বয়স ত্রিংশতের অধিক হয় নাই কান্তি সাতিশয় শ্রীমান, তাঁহার প্রশস্ত ললাটোপরি যে উষ্ণীষ সংস্থাপিত ছিল, তাহাতে এক খণ্ড মহার্ঘ হীরক শোভিত ছিল।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01098"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10072.wav",
+    "text": "তখনহতে পথে ঘাটে গিরিজাকে দেখ্তে পেলেই, একজন ছেলে চেঁচিয়ে ব’লত “ফাইভ্, ফাইভ্ দি মহারাজা অভ্ কুচবেহার!",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10072"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10603.wav",
+    "text": "গত শতাব্দীতে শিক্ষিতা গুজরাতী নারীদের মধ্যে শ্রীমতী বিদ্যাগৌরী নীলকণ্ঠ প্রথম গ্র্যাজুয়েট হন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10603"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00982.wav",
+    "text": "(ক) আগামী বছরের জন্য কোন বার্ষিক ফি প্রযোজ্য হবে না, যদি কোন কার্ড ধারক আগের বছরে নিম্নোক্ত পরিমাণে খিদমাহ কার্ড ব্যবহার করে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00982"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00070.wav",
+    "text": "নীতিমালায় বলা হয়, টেকসই লক্ষ্যমাত্রা অর্জনে দারিদ্র্য বিমোচন ও ক্ষুধামুক্ত দেশ গড়ার লক্ষ্যে এবারও কৃষি ও পল্লী ঋণ বিতরণের লক্ষ্যমাত্রা বাড়িয়েছে কেন্দ্রীয় ব্যাংক।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00070"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07083.wav",
+    "text": "অষ্টাদশ খণ্ডকের অঙ্কীয় পার্শ্বদেশে একজোড়া পুং জনন ছিদ্র বর্তমান ।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07083"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00701.wav",
+    "text": "ফিমেল ফাউন্ড্রির মতো উদ্যোগকে \"ভারত\" পরিচালনা করতে পেরে এবং বাংলাদেশে সম্প্রসারণ করতে পেরে আমরা গর্বিত।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00701"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_01167.wav",
+    "text": "মন্দির পরিচালনা পর্ষদের সাধারণ সম্পাদক উক্যচিং চৌধুরী জানান, রাতে ফানুস বাতি প্রজ্জ্বলনের মাধ্যমে এই উৎসবের সমাপ্তি ঘটবে।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_01167"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01571.wav",
+    "text": "কঙ্কাবতী তাঁহাকে ‘সাহেব’ বলিলেন, কঙ্কাবতী তাঁহাকে ‘মিস্টার গামিশ’ বলিয়া ডাকিলেন, সে-জন্য ব্যাঙের শরীর শীতল হইল, রাগ একেবারে পড়িয়া গেল।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01571"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_02070.wav",
+    "text": "কোলন ক্যান্সারে আক্রান্ত হয়ে মারা যাওয়া মো. মাহবুবুর রহমানের বিধবা স্ত্রী খাদিজা বেগমকে পাঁচ লাখ টাকা অনুদান দিয়েছে ইসলামী ব্যাংক বাংলাদেশ লিমিটেড।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_02070"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00110.wav",
+    "text": "তাঁর কৌঁসুলি ফিরোজ এডুলজি ও সঞ্জীব দাঁ ডিভিশন বেঞ্চকে জানান, তাঁদের মক্কেল পুলিশের বিরুদ্ধে নিষ্ক্রিয়তার অভিযোগে আলাদা মামলা দায়ের করতে ইচ্ছুক।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00110"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00422.wav",
+    "text": "ডেস্ক প্রতিবেদন: সিলেটের জঙ্গি আস্তানার কাছে দুদফা বিষ্ফোরণের ঘটনা ঘটেছে।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00422"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02938.wav",
+    "text": "অধিকন্তু, আমাদের লোকসংখ্যার একটা উল্লেখযোগ্য অংশ অত্যাধুনিক, স্বাস্থ্যসেবা ও উচ্চ-শিক্ষার ব্যয়ভার বহন করতে পারে না।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02938"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00173.wav",
+    "text": "পরিশ্রম করিয়া বাপ সন্ধ্যাবেলায় ঘরে ফিরিয়া আসিত, তাহারই মধ্যে দৈবাৎ দুটি-একটি সন্ধ্যা তাহার মনে পরিষ্কার ছবির মতো অঙ্কিত আছে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00173"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_01269.wav",
+    "text": "ইসরায়েলের রাজা যিহোরাম তখন যিহূদার রাজা খবর পাঠালেন, লিবাননের কাঁটাঝোপ লিবাননের বটগাছকে বলেছিল, আমার ছেলের বিয়ের জন্য তোমার মেয়েকে দাও।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_01269"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07003.wav",
+    "text": "সোনা ঢোক গিলে টিয়ার কাঁধে ঝাঁকি দিয়ে বললে, ‘কাঁদছিস যে, মাকুকে খুঁজে বের করতে হবে না?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07003"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03465.wav",
+    "text": "তোমার মতে কৃষ্ণাঙ্গ কিংবা আমেরিকান নাহয়েও কেন পিটার নরম্যান দুজন খেলোয়াড়ের আচরণ সমর্থন করেছিল?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03465"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_HEAL_00072.wav",
+    "text": "লম্বা, পার্শ্বীয়ভাবে চাপা এবং উভয়প্রান্ত (অগ্র ও পশ্চাৎ) সরু দেহে নটোকর্ড ও নার্ভকর্ড অনুদৈর্ঘ্য বরাবর প্রলম্বিত যা সারা জীবন ধরে অবস্থান করে।",
+    "language_id": "bn",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_bn_f_HEAL_00072"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00344.wav",
+    "text": "ভারতের শ্লথ বৃদ্ধি, লগ্নির ভাটা বা ঋণ ও ব্যবসার আস্থা সূচকের ধাক্কা খাওয়ার কথাও বলা উচিত ছিল।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00344"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00410.wav",
+    "text": "পরক্ষণেই নিমেষ ভাবে যে, টাকা বুলেট হয়ে বুকে ফিরলে ফিরুক, কিন্তু ব্লাঁ আমার চাইই চাই।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00410"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07384.wav",
+    "text": "বর্ষাকালে পাঁউরুটি ভিজে গেলে বা জলীয় বাষ্পের সংস্পর্শে দীর্ঘক্ষণ থাকলে তাড়াতাড়ি নষ্ট হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07384"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00293.wav",
+    "text": "বহুদিন পরে পোস্টমাস্টার ক্ষীণ শরীরে রোগশয্যা ত্যাগ করিয়া উঠিলেন;",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00293"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_01142.wav",
+    "text": "পরবর্তী অধ্যায়ে তোমরা জানতে পারবে যে সেই সময় লালবাহাদুর শাস্ত্রী ভারতের প্রধানমন্ত্রী হিসেবে দায়িত্বভার গ্রহণ করেন।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_01142"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00419.wav",
+    "text": "এই বহু চর্চিত স্ত্রীরোগের দোহাই দিয়ে কত সুস্থ মানুষ ড্যাং ড্যাং করে বাড়ির কাছে বদলি নিয়ে গর্বিত মুখে ঘুরছেন সে দায় কার?",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00419"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_04253.wav",
+    "text": "অপরদিকে খুব কম পীড়ন আবার কাউকে সামান্য অবসন্নতা অনুভব করাতে পারে এবং ক্ষীণ প্রেরণা আমাদেরকে ধীর এবং প্রচেষ্টাহীন কর্ম প্রদর্শনের দিকে নিয়ে যায়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_04253"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_03214.wav",
+    "text": "‘মেঘনাদ’ মানে তো মেঘের গর্জন?",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_03214"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_01452.wav",
+    "text": "রাজাবাজার, সল্টলেক, বালিগঞ্জ, হাজরা, বিহারীলাল হোম সায়েন্স ক্যাম্পাসের মনোনয়ন জমা নেওয়া হবে সেনেট হলে।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_01452"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00415.wav",
+    "text": "তারপর কীভাবে গণতান্ত্রিক রাজনীতি এসকল সামাজিক বৈচিত্রতাকে প্রভাবিত করে অথবা সামাজিক বৈচিত্ৰতা দ্বারা নিজে প্রভাবিত হয় সে বিষয়ে জানার চেষ্টা করব।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00415"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02112.wav",
+    "text": "ছোটবেলায় নজরুলের ছাত্রদল কবিতায় পড়েছি আমরা শক্ত মাটি রক্তে রাঙাই, বিষম চলার ঘায়, ছাত্রেরা দেশের ভবিষ্যৎ।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02112"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_WEAT_00674.wav",
+    "text": "নিজের চোখে মেয়ের সেই ছিন্নভিন্ন, থ্যাঁতলানো, আধপচা মৃতদেহ দেখার পর তিন দিন কেটে গিয়েছে।",
+    "language_id": "bn",
+    "domain": "WEATHER",
+    "id": "IISc_SYSPINProject_bn_f_WEAT_00674"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07281.wav",
+    "text": "একটি সম্পূর্ণ পৌষ্টিকতন্ত্রে দুটি ছিদ্রপথ থাকে- মুখছিদ্র এবং পায়ুছিদ্র।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07281"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_01244.wav",
+    "text": "আইভরি কোস্টের রাজধানী আবিদজানে এক ভয়ানক বন্যায় অন্তত {১৫}{পনেরো} জন নিহত হয়েছেন। বাস্তুচ্যুত হয়েছেন শত শত মানুষ। দেশটির স্বরাষ্ট্রমন্ত্রী একথা জানিয়েছে। খবর আল জাজিরার।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_01244"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00352.wav",
+    "text": "বছরে এক ক্লাসে তিনবার পরীক্ষা হয়, প্রথম ষৈনমাসিক, দ্বিতীয় ষৈনমাসিক, তৃতীয়টি হচ্ছে বার্ষিক, বার্ষিকে উতরে গেলে ওপরের ক্লাসে বসতে হয়।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00352"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02716.wav",
+    "text": "ল্যাবিয়া মেজোরা হল কলাস্তরের মাংসল ভাঁজ যা মনস পিউবিস থেকে নীচের দিকে বিস্তৃত হয় এবং যোনি ছিদ্রটিকে ঘিরে অবস্থান করে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02716"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00785.wav",
+    "text": "এদিকে, প্রথম জানাযা শেষে নিজ বাসভবন পাবনা শহরের উদ্দ্যেশে মরহমার লাশ নিয়ে রওয়ানা হয়েছে পরিবারের লোকজন।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00785"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_00513.wav",
+    "text": "শক্তি দক্ষতার ব্যুরো এটি একটি সরকারি সংস্থা, যার উদ্দেশ্য হল স্বনিয়ন্ত্রণ ও বাজার নীতির জন্য নীতি ও কৌশল নির্ধারণ করা।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_00513"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00999.wav",
+    "text": "ইংরেজি আর হিন্দির পর তৃতীয় ভাষা হিসেবে যারা সংস্কৃত পড়ে, তাদের একটা সেকশন, আর উর্দুর ছাত্রদের আর একটা।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00999"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01972.wav",
+    "text": "হিমবাহের মুখোমুখি ড্রামলিনের একটি প্রান্তকে স্টোস বলা হয়, যা টেল নামক অন্য প্রান্তের তুলনায় তীব্র ঢালযুক্ত হয়।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01972"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07831.wav",
+    "text": "যদিও এটি পাথরের জাঁতাকল এবং হাঁড়িগুলোর ক্ষেত্রে যুক্তিসঙ্গত হয় কিছু ধর্মীয় প্রতীকের বিষয়ে তা বেশিমাত্রায় অনুমান ভিত্তিক হয়ে পড়ে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07831"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_01277.wav",
+    "text": "এগুলো উপেক্ষা বা লঙ্ঘন করলে যদিও তাকে আইন আদালতে উত্তর দিতে হবে না, কিন্তু তাকে নির্বাচনের সময় নির্বাচন কমিশনের কাছে অবশ্যই উত্তর দিতে হবে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_01277"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EVAL_00286.wav",
+    "text": "শ্যাম্পু কাটাতে নারকেল তেল করার পর চুলের উশকোখুশকো ভাব দারুণ কাজ করে",
+    "language_id": "bn",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_bn_f_EVAL_00286"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_00583.wav",
+    "text": "এমন কী ঘটে যখন নিজের ও পারিপার্শ্বিক, সবের ওপরেই বিশ্বাস হারিয়ে মৃত্যুকে বেছে নেয় সে?",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_00583"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05940.wav",
+    "text": "আঙুলগুলো শরীরে কিলবিল করায় সুড়সুড়ি লাগছিল এবং তারই প্রতিক্রিয়ায় চর্বি থলথল করে কেঁপে উঠতেই বিষ্টু শুনল খুকখুক হাসির শব্দ।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05940"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_00978.wav",
+    "text": "এটি ব্যবহার করলে আমাদের নদীর দেশীয় প্রজাতির পুঁটি, ট্যাংরা, শোল, গজার, খলিশা, কই, গুলশা, বাতাসি, কাজুলি ইত্যাদি মাছ একেবারেই হারিয়ে যাবে।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_00978"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_GENE_00943.wav",
+    "text": "কবিতা লেখার প্রেরণা প্রথমে অবশ্যই পান পিতার কাছ থেকে এবং পরবর্তীতে রবীন্দ্রনাথ, বিবেকানন্দ, নজরুল এবং শরৎচন্দ্রের দ্বারা ।",
+    "language_id": "bn",
+    "domain": "GENERAL",
+    "id": "IISc_SYSPINProject_bn_f_GENE_00943"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_EDUC_01350.wav",
+    "text": "অন্য দিকে ফরাসি কোচ রোশেঁল প্রথম ম্যাচ জিতে শহরের বাইরে যদিও অনুশীলন করতে যাননি।",
+    "language_id": "bn",
+    "domain": "EDUCATION",
+    "id": "IISc_SYSPINProject_bn_f_EDUC_01350"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02240.wav",
+    "text": "তাঁর ধারণা, সাধারণত আত্মঘাতী মিশনে বা সশস্ত্র নাশকতায় ব্যবহার করতে হলে কিশোরদের মগজ ধোলাই করা সোজা।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02240"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07271.wav",
+    "text": "নির্বাচিত সরকার পূর্বতন পিনোশী সরকারের দুর্নীতি সম্পর্কে তদন্তের আদেশ দেন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07271"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00478.wav",
+    "text": "{১৯২৯}{উনিশশো ঊনত্রিশ} সাল ন্যাশনাল রেভুলুশনারি পার্টি প্রতিষ্ঠিত হয় এবং পরে ইনস্টিটিউশনাল রেভুলুশনারিপার্টি হিসাবে নতুন নামকরণ হয় (স্প্যানিশে একে পি.আর.আই বলা হয়)।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00478"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_POLI_00255.wav",
+    "text": "এবার গর্ভধারণ রোধে এলো স্মার্টফোনের অ্যাপ । এই অ্যাপ ব্যবহারে অনাকাঙ্ক্ষিত গর্ভধারণ হতে নারী থাকবে ঝুঁকিমুক্ত । এমনটাই দাবি করেছে অ্যাপ নির্মাতা প্রতিষ্ঠান।",
+    "language_id": "bn",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_bn_f_POLI_00255"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_05674.wav",
+    "text": "একইভাবে ভুট্টা এবং আখের কাণ্ডের নিম্নাঞ্চলের পর্ব থেকে কতকগুলো সহায়তা প্রদানকারী মূল বেরিয়ে আসে।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_05674"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_02094.wav",
+    "text": "নীচে দেওয়া উদ্ধৃতিটি পড়ো এবং শ্রেণিকক্ষে আলোচনা করো।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_02094"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_FINA_00702.wav",
+    "text": "শিলং, কাজিরাঙা বা তাওয়াং কোথাও হোটেল, রেস্তোঁরা, ট্যাক্সি পুরনো টাকা নিচ্ছে না।",
+    "language_id": "bn",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_bn_f_FINA_00702"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_07033.wav",
+    "text": "বাজার করতে গিয়ে আজ পটলবাবু গিন্নির ফরমাশ গুলিয়ে ফেলে কালোজিরের বদলে ধানিলংকা কিনে ফেললেন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_07033"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_10027.wav",
+    "text": "বিদ্যা এবং অবিদ্যা নারীর শাস্ত্রীয় দু’টি রূপই তাঁদের চিত্তস্পর্শ করেছিল এবং অশুচিচিত্তা অনভিপ্রেত নারীকেও সত্যের খাতিরে তাঁদের সৃষ্টির বহির্ভূতা রাখা সম্ভব হয়নি।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_10027"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_AGRI_02404.wav",
+    "text": "অস্বাভাবিক উচ্চাকাঙ্ক্ষা আর ঈর্ষায় জর্জরিত অন্ধ । আমরা হত্যা করছি আমাদের বোধ নামক বন্ধুদের।",
+    "language_id": "bn",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_bn_f_AGRI_02404"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOCU_00422.wav",
+    "text": "ঐ নির্বাচনে দশভাগের একভাগ আসনও বিরোধী দলগুলো জয়লাভ করতে পারেনি।",
+    "language_id": "bn",
+    "domain": "RUNNING TEXT FROM BOOK",
+    "id": "IISc_SYSPINProject_bn_f_BOCU_00422"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_BOOK_11704.wav",
+    "text": "মিশরের নেগাদা, এমিডোস ইত্যাদি অঞ্চলের কবর খুঁড়ে পাওয়া যায় পাথরের হাতিয়ার, সোনা, রূপো ও তামার ব্যবহারের নানা নিদর্শন।",
+    "language_id": "bn",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_bn_f_BOOK_11704"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Bengali_Female_Spk001_HC/wav/IISc_SYSPINProject_bn_f_OTHE_00549.wav",
+    "text": "আসফ্ খাঁর কথা শেষ হইলে তিনি পুনরায় অভিবাদন করিলেন, আসফ্ খাঁ অগ্রসর হইলেন।",
+    "language_id": "bn",
+    "domain": "OTHERS",
+    "id": "IISc_SYSPINProject_bn_f_OTHE_00549"
+  }
+]

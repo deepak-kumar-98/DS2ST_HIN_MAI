@@ -1,0 +1,3502 @@
+[
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01060.wav",
+    "text": "यै सोनम सहारा इंडिया मे जतेक पाइ जमा केलियैक डूबि गेलैक की हमरा नहि लागैए ओ आब देतैक",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01060"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05731.wav",
+    "text": "एखन भोरे भोरे दिमाग शांत रहै तेँ चूपेचाप समानेटा आपस कए कऽ रहि गेल नहि तँ एहन तरहक गप्पपर बेटखारा उठा कए मारि दैतेए",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05731"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01085.wav",
+    "text": "संगीत नाटक अकादमीक सबसं पैघ उपलब्धि भारतक विभिन्न भागक सांस्कृतिक गतिविधि के संरक्षित कय लेब थीक",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01085"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02175.wav",
+    "text": "उन्नैस सौ शर्षठ के चुनाव पं{०}{शून्य} जवाहर लाल नेहरू जी के बिना लड़ल गेल रहै और चुनाव के बाद इन्दिरा युग शुरू भेलै",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02175"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01694.wav",
+    "text": "पोलिश चीज़ बनबैक सूचीमे पोलेन्ड सभसं आगू अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01694"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00739.wav",
+    "text": "हमरा सभ बच्चे में पातर पापड़ी घर में खाईत छलहुँ , ओएह राजस्थानी सबहक खाकरा छैक",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00739"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01328.wav",
+    "text": "धकजरीक रौशनी इलेक्ट्रिकसँ झालड़िवला बल्व दुइगोट अनने छलहुँ से जरिते नहि अछि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01328"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00024.wav",
+    "text": "कबड्डी कबड्डी पढ़ैत फेंकू साँस चूकबा सँ पहिले एकसुर्रे चारिटा गोधियाँ के छू कऽ आबि गेलैक",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00024"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01872.wav",
+    "text": "गोहि के संख्या बहुत वृद्धि सऽ मानव जाति के अस्तित्व पर संकट आबि सकैत छई",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01872"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03330.wav",
+    "text": "बलदेब, ई प़त्र तूँ अपना लग रखि लए",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03330"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02280.wav",
+    "text": "बेटी बचाओ बेटी पढ़ाओ मातृशक्ति के उत्थान ले केंद्रित अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02280"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08993.wav",
+    "text": "आओर नेंगड़ा नाच आब नहि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08993"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01968.wav",
+    "text": "अरबी भाखा आ संस्कृति वला इस्लामी यमन देश में अंडाक बोर देल तरल ब्रेड फुटुट खायल जाईत छैक",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01968"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09869.wav",
+    "text": "मुदा ई सरलता, ई निश्छलता रहत कतेकदिन? एखन यौवनमे प्रवेश मात्र भऽ रहल अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09869"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03016.wav",
+    "text": "होटल पहुँचिते नरेन्द्रके गर पकड़ि लपटैत बजलहुँ लेट्स सेलेब्रेट नरेन्द्र! चलू शैम्पन पीबऽ",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03016"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01358.wav",
+    "text": "उच्च न्यायालयके पिस्ने न्यायाधीशक गठन फ्रांस मे होइत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01358"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_01337.wav",
+    "text": "रस्सी बैन्ह कए कूदब एक एहेन गतविधि छियै जै मे एक व्यक्ति कोनो ऊंचाई स कुदय छै",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_01337"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00243.wav",
+    "text": "कांच माछ केर व्यंजनक सूची मे सेविचे क्रूडो हिनाव कुदाल किनिलाव आदि ढेड़ो व्यंजन होएत अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00243"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01776.wav",
+    "text": "दुनिया के वित्तीय राजधानी न्यूयॉर्क के कहै छै",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01776"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00179.wav",
+    "text": "हवाई अड्डा पर सुरक्षाकर्मी सदैव प्रयत्नशील रहैत अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00179"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07097.wav",
+    "text": "फ्रायड सभ मनुक्खकेँ रहस्यमयी मानैत छथि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07097"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_04086.wav",
+    "text": "साहित्यिक धरातल सँ पत्रकारिता क्षेत्रमे नव उचाई प्राप्त कऽ रहल सुजीतजीक लेल साहित्यिक रचना हिनकर लेखकीय कौशलक चमत्कृत कऽ दैया कखनो काल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_04086"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02388.wav",
+    "text": "एकल खिलाड़ी एटीपी रैंकिंग मे टेनिस खिलाड़ी नोभाक दजोकोविक सात हजार पॉइन्ट क संग सभसँ ऊपर छथि",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02388"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00819.wav",
+    "text": "कोनो गप्पकेँ अप्रत्यक्ष रूपेँ घुमबैत फिरबैत कहयसँ बढ़ियाँ जे प्रत्यक्ष रूपेँ सभक समक्ष उगलि दी",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00819"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02014.wav",
+    "text": "बाबू, दूध वाला पाइपक उपयोग सभसँ बेसी दूध फैक्ट्री मे होइत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02014"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_01640.wav",
+    "text": "रंजन कहैत छलीह रनर अप एकटा इण्डिया मिस यूनिवर्स अछि",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_01640"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02208.wav",
+    "text": "यौ, ग्रामीण विकास में एखनो सबसॅ पैघ रोड़ा छुआ छुत बनल अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02208"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01724.wav",
+    "text": "लम्बर प्रोडक्शन लेल लकड़ी देश विदेश धरि मे रोपल गाछ या जंगल सँ काटल जाइत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01724"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00648.wav",
+    "text": "सुनिश्चित करूं कि दहिना पैर मजबूती सं फर्श पर राखल गेल छै आ बामा जांघ दहिना जांघ कें ऊपर छै",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00648"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00382.wav",
+    "text": "पूरन पोली महाराष्ट् के पारंपरिक व्यंजन छैक",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00382"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02267.wav",
+    "text": "खेलय सँ पहिने सही तरह सँ वार्म अप नहि कएला सँ सेहो चोट लागै छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02267"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02415.wav",
+    "text": "आपात् काल में संपत्ति के अधिकार छीन लेल गेल छलैक",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02415"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08837.wav",
+    "text": "मंडल किछु रेखा खींचय आ रूकि कऽ नव विवाहिता दिस ताकऽ लागय",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08837"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01550.wav",
+    "text": "पूर्वोत्तर के राज्य सब के सीमा विवाद से मिज़ोरम तक अछूता नहिं अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01550"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01109.wav",
+    "text": "हम सब निश्चिंत रूप स कहि सकैत छी जे काला अजर सही मायने मे एकटा प्रवासी बीमारी अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01109"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_01956.wav",
+    "text": "खाली समय मे अपन प्रसन्नता लेल कएल गेल कोनो कार्य शौक कहाइत अछि",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_01956"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_02395.wav",
+    "text": "वरिष्ठ नागरिक लोकनि के कर नहि देबय पड़तन्हि",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_02395"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00035.wav",
+    "text": "महात्मा गांधी नील आन्दोलनसँ अंग्रेजक विरुद्ध पश्चिम चंपारणसँ सत्याग्रहक मशाल जरेने छलाह",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00035"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00459.wav",
+    "text": "अरब व्यंजन मे शाकाहारी आ मांसाहारी दुनु व्यंजन के समाबेस अछि एकर स्वाद आ सुगन्ध अनोखा होईत अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00459"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00239.wav",
+    "text": "मूर्धन्य साहित्यकार महावीर प्रसाद द्विवेदीक संपादकीय कसौटी पर कतेको तत्कालीन साहित्यकार हुनक पत्रिका में जगह नहिं पाबि सकलाह",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00239"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01622.wav",
+    "text": "हस्तकला व लोककलाक कृति सब लेल मंगोलियाक संस्कृति बहुचर्चित अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01622"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00986.wav",
+    "text": "आद गुणकारी औषधि आ कत्तौ मिल जाइ बला मसाला छियै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00986"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00159.wav",
+    "text": "वज्रसनक नाम संस्कृत शब्द वज्र सँ आयल अछि जकर अर्थ होइत अछि वज्र वा हीरा",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00159"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00704.wav",
+    "text": "कोन विशेष भूमि क्षेत्रक राजनीति भू राजनीति होइत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00704"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01604.wav",
+    "text": "घुरन कका आब सब झर झंझैटक निवटारा आब सामुदायिक पोर्टल पर हेतेक",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01604"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02107.wav",
+    "text": "खाद्य पदार्थ क उत्पादन , भण्डारण , आ उपभोग विशुद्ध रूप सँ हेबाक चाही ताकि ओ बिषाक्त नहि हो",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02107"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02364.wav",
+    "text": "बड सोच विचार कयलाक उपरांत नेहरु अपन शिक्षक मिस्टर ब्रुक्ससँ सलाह केलनि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02364"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02355.wav",
+    "text": "हाथीक नाउँ भौरानन्द राखल गेल छैक त स्वयं सलहेसके मानिक दहसं भँमरा बनाकए मालिनीसभ चोरा क ल जाइ छै।",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02355"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00813.wav",
+    "text": "पब मेड अपन तरहक रिकॉर्ड के चिन्हौनिहार छियै",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00813"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01547.wav",
+    "text": "जैवभाषा विज्ञान के इतिहास के तलाश करैत हम पहुँचलौं डार्विन के विकासवाद के सिद्धांत क अध्ययन तक",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01547"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00625.wav",
+    "text": "दू हजार एगारह मे अमेरिका के व्यापारिक इमारत ट्वीन टावर आतंकवादी सभक द्वारा उड़ा देल गेल",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00625"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01497.wav",
+    "text": "बेजन्त्रीक फुल लाल लाल होयत अछि जे देखबा नीक लगैत अछि आ भगवान सभ के सेहो चढाओल जायत अछि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01497"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01266.wav",
+    "text": "बेनीपट्टीक डाकबंगला चौकलग गीतांजली सर्जिकलमे सेहो रोगीक बड्ड ताँता लागल रहैत छैक",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01266"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09596.wav",
+    "text": "ऐ विशेषांककेँ पढ़ैत काल बहुत बेर पाठककेँ ई लगतन्हि जे बहुत रास तथ्य",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09596"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01344.wav",
+    "text": "राष्ट्रीय एकताक सरकारमे विपक्षी दल बहुत छोट आकि नगण्य होइत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01344"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02241.wav",
+    "text": "उन्नैस सय चौवन एशियाइ खेल मे बाक्सिंग के प्रतियोगिता फिलीपींस मे भेल छल",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02241"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00375.wav",
+    "text": "संजय अल्ट्रासाउण्ड एकटा नवका अल्ट्रासाउण्ड क संस्थान खुजल अछि अखन कमे पाई मे जाँच करैत अछि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00375"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00122.wav",
+    "text": "आर.पी.सी डिस्ट्रिब्यूटेड क्लाइंट सर्वरपर आधारित अप्लीकेशन बनयबाक लेल शक्तिशाली तकनीक अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00122"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_04162.wav",
+    "text": "प्राक्विद्यापति युगसँ एकर प्रभाव देखबामे अवइयै",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_04162"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00488.wav",
+    "text": "वर्ल्ड फोर्स वा विश्व शक्तिक संतुलनक सामर्थ्य शीत युद्ध काल मे अमेरिका आ संयुक्त रूस लग छल",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00488"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01463.wav",
+    "text": "हुनकासँ अलग भऽ अन्नादुर्रै अलग पार्टी बनेलन्हि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01463"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02155.wav",
+    "text": "कैंपिंग क पहाड़ पर रहब एक सुंदर अनुभूति थिक",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02155"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09493.wav",
+    "text": "तखन देवीजी सबसऽ बात केली तऽ बुझलखिन जे अहि बच्चा के स्वभाव मे कनि खराबी छल आ सबसऽ खौंझाकऽ बात करै छल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09493"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01007.wav",
+    "text": "ग्लेबे बेरथन आयरलैंड केर सबसँ नामी पनीर छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01007"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02201.wav",
+    "text": "व्यक्ति केर् शिक्षा, कौशल आ ज्ञानक जाए जा ल क सही रास्ता चुनय मे मदद करनाय",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02201"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01689.wav",
+    "text": "गूगल बुक्स गूगल द्वारा प्रदत्त एक सेवा अछि जाहिमे गूगल द्वारा स्कैन कयल पुस्तककेँ खोजिकेँ पढ़ल जा सकैत अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01689"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00193.wav",
+    "text": "विकासात्मक मनोविज्ञान के सूची के अंतर्गत मनुष्य अपने जीवन के दौरान कैसे आ क्यों बढ़े छै आ बदलाव जानल जायेत छैक",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00193"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00474.wav",
+    "text": "स्वैच्छिक कार्यकर्ता क अर्थ ई होएत अछि जे व्यक्ति अपन स्वेच्छा स कुनू सामाजिक काज मे हाथ बटबैत छैथ",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00474"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_04407.wav",
+    "text": "ड्राइवर सभ गप मालिकक सुनैत रहैत अछि, कलकत्ताक रिक्शाबला सभक खिस्सा सेहो अडिग सुनलन्हि आऽ दिल्लीक ड्राइवर लोकनिक सेहो आऽ खिस्साक प्लोट बना लेलन्हि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_04407"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07440.wav",
+    "text": "आयोजनक दोसर स्तम्भ अशोक चौधरीक हाथें मिथिला विभूति सम्मानसँ हमरा सम्मानित कएल गेल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07440"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01469.wav",
+    "text": "गेहूँ केँ कैरियोप्सिस कहल जाय छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01469"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08833.wav",
+    "text": "तीन दिनक एहि समारोहक दरमियान राजधानी पटना सहित पंचायत स्तर धरि कतेको कार्यक्रम सम्पन्न भेल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08833"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00259.wav",
+    "text": "इंग्लैंड मे आयोजित कॉमनवेल्थ गेम्स के दूसर संस्करण राहिये",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00259"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00481.wav",
+    "text": "हेज फंड में निवेश सुरक्षित होइत अछि बशर्ते फंड मैनेजर क रणनीति प्रभावी होइत",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00481"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00248.wav",
+    "text": "टू स्टेट्स' उपन्यास सन दू हजार न में चेतन भगत लिखला अहि उपन्यास में दू टा आन आन राज्य सै आबय बला जन आ जनानी के माय बाप के द्वारा कठिन असुविधा में विवाह लेल तैयार करब कथा अछि ।",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00248"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01388.wav",
+    "text": "मँगनी में उपलब्ध सॉफ्टवेअर उपयोक्ता आ कार्जकर्त्ता सबहक सहयोगी समूह के जिम्प्स कहल जाईत छैक",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01388"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00725.wav",
+    "text": "जिन मार्क ईटार्ड प्रथम चिकित्सक थिक स्पिच एंड लैग्वेज पैथोलॉजिके",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00725"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02105.wav",
+    "text": "सिमरौं गढ़ स्थापना कर्नाटक वंशी क्षत्रिय राजा नान्यदेव द्वारा दस सै सनतानवे ई. मे भेल छल",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02105"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00670.wav",
+    "text": "पेसरत्तु एक क्रेप ब्रेड छी जे भारत के आंध्रा प्रदेश में उत्पन्न होय ये",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00670"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_01831.wav",
+    "text": "मध्यम आ जोरदार तीव्रता वाला शारीरिक गतिविधि दूनू स्वास्थ्य मे सुधार करएत छै",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_01831"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01446.wav",
+    "text": "भारत में सबसे पहिलै इलेक्ट्रॉनिक अस्पताल चेन्नई में उन्नीस सौ चौसठ में राजीव गांधी सरकारी अस्पताल खुलल",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01446"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02447.wav",
+    "text": "हम हिनक अहम भूमिकासँ प्रसन्न भऽ कऽ बेस्ट सिटीजन ऑफ द नेशन अवार्डक लेल चुनलहुँ आओर एखन शीघ्र हम हिनका अपन अवार्डसँ सम्मानित करबैन",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02447"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02086.wav",
+    "text": "भारत आर्थिक पूंजीवादकेँ बढ़ावा देब आ विश्वक तेजीसँ बढ़ैत आर्थिक अर्थव्यवस्था बनिकऽ उभरल अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02086"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00425.wav",
+    "text": "चीनक महिला विश्व कप स्टार ली मेंग के प्रशंसक द्वारा साल के सर्वश्रेष्ठ खिलाड़ी महिला दू हजार बाइस मे चुनल गेल",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00425"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02365.wav",
+    "text": "झंझारपुर स्थित शांतिनाथ महादेव मंदिर पर दृश्य कला के स्वरूप मूर्तिकला के अनुपम उदाहरण छै",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02365"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00860.wav",
+    "text": "कक्का केँ सबटा मक्कै लरम रहलाक चलितेँ सड़ि गेलैन",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00860"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_00520.wav",
+    "text": "वेद मे रुद्र सं कतेक रास रुद्र के उद्भूत मानल गेल अछि, जे भगवान शिवक व्यापकता कऽ रेखांकित करैत अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_00520"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01748.wav",
+    "text": "कारी आदमी के गोरका समाज पर बोझ कहय वला रुडयार्ड किपलिंग नस्लवादी लेखक छल",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01748"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01638.wav",
+    "text": "फाइबर लगभग शुद्ध सेल्यूलोज छै , आ ओकरा मे मोम , वसा , पेक्टिन , आ पानी कें मामूली प्रतिशत मात्रा भ सकएयत छै",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01638"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02433.wav",
+    "text": "यक्ष्मा भेल लोक के घी दूध माछ मौस खै में कसैर नै रखबा क चाही",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02433"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00139.wav",
+    "text": "बौआ, श्वेत क्रांति के बाद भारत में दूधक उत्पादन मैं बढ़ोतरी भेल",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00139"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_02134.wav",
+    "text": "हैदराबादी मुस्लिम समुदाय उर्दू भाषी छै जखन कि लोकल जनसंख्या तेलगू बोलै छै",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_02134"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01817.wav",
+    "text": "सिद्धांत विधि जेना मिथिलाक ब्राम्हण समाज मे खान पीन के विधि होइत छैक।",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01817"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02502.wav",
+    "text": "फ्लाइंग जैकब , एकटा स्वीडिश पुलाव छै जे चिकन , क्रीम , मिर्च सॉस , केला , भुजल मूंगफली आ बेकन से बनल छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02502"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01879.wav",
+    "text": "पाल्म तेल सबसे ज्यादा इंडोनेशिया देश मे होय छै",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01879"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00156.wav",
+    "text": "भ्रष्ट सरकार आ सरकारी संस्थानक कारणें वनोन्मूलन भऽ सकै छै",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00156"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00593.wav",
+    "text": "नमस्ते करबा काल दुनु तरहत्थी सटल रहबाक चाही",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00593"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07881.wav",
+    "text": "मिसरजी अपन जीहकेँ दाँतसँ कुचैत मुसकिएला",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07881"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06129.wav",
+    "text": "पापा यौ पापा,एहेन पहाड़ किए भ गेले हमर सबहक जीवन यओ पापा,विधाता किएक हमरे सब सँ बाम भऽ गेलखींन",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06129"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00366.wav",
+    "text": "परिवार मे सबसे पैघ दबाई अछि परिवारक लोक सबहक स्नेह , सहानभूति , सेवा , आपसी प्रेम इत्यादि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00366"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_04799.wav",
+    "text": "जे कलाकार पहिल स्थान पर रहैथ तिनकर दू टा आयल पेण्टिंग प्रवेश द्वारपर दहिना कात विराजमान छलैन",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_04799"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07609.wav",
+    "text": "बुरहियाक मूइलाक बाद आब मइटूग्गर भऽ गेल किशन",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07609"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01343.wav",
+    "text": "कोरिया गणराज्य , इजराईल राज्य , फिलिस्तीन , उत्तरी बाईपास , अबकाज्या गणराज्य ई सभ सीमित मान्यता वाला राज्य छै",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01343"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08956.wav",
+    "text": "ज्योतिरीश्वर ठाकुरक वर्ण रत्नाकरमे सेहो एहि सिद्ध सभहिक नाम भेटैत अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08956"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_02550.wav",
+    "text": "तेंजिन कहैत छल जे अरुणाचल में ड्री पाबनि मनाओल जायत अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_02550"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01203.wav",
+    "text": "सोने लाल अल्लू भण्डार सँ सम्पर्क कऽ क खरिआड़ि कऽ पूछि लेबैक जे मिठका अल्लू त बोरा मे नहि मिज्झर हेतैक",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01203"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00108.wav",
+    "text": "माटिक बजाय आन अक्रिय बढ़ल माध्यम सब्सट्रेट कहल जाईत छैक जेना धानक भूसी पेलाइट रॉकवूल आदि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00108"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_02384.wav",
+    "text": "बैंक डकैती,बैंक शाखा या टेलर कऽ डकैती के संदर्भित करैत छैक",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_02384"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00020.wav",
+    "text": "फेफड़ाक हानि जे अपूर्ण फेफड़ाक विस्तार आ फेफड़ाक कठोरता बढ़ि जाइत अछि , जेना श्वसन संकट सिंड्रोमक शिशु मे",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00020"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01871.wav",
+    "text": "व्यष्टि या सुक्ष्म अर्थशास्त्र के एकटा लक्ष्य बाजार तंत्र के विश्लेशण केनाई अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01871"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06029.wav",
+    "text": "से धरि ठीके; जे केलखिन तइमे हरदम औव्वलि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06029"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01244.wav",
+    "text": "नागराज मंजुले केर शॉर्ट मूवी लोकप्रिय थिक",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01244"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07676.wav",
+    "text": "अहाँ तँ शास्त्रो बुझै छी मनचन",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07676"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08105.wav",
+    "text": "पनिसोखा उगले अछि, बाट खुजले अछि आ हम बाट ताकि रहल छी आबैबला बर्खाक?",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08105"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02066.wav",
+    "text": "सरकार वित्त विभागमे वित्त फिनांशल काजक लेल कर्मचारी सभक बहाल करैत अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02066"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05265.wav",
+    "text": "हिनके दरबार मे स्मृति तत्वामृतक रचयिता अभिनव वर्द्धमान रहैत छलाह आर वो धर्माधिकारी सेहो छलाह",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05265"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08881.wav",
+    "text": "माय केर कौखि सँ हटायल जा रहल बेटीक भ्रूण",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08881"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01030.wav",
+    "text": "लोकतांत्रिक शांति सिद्धांत के अनुसार लोकतांत्रिक देश आपस में नहि लड़तै या सशस्त्र संघर्ष में संलग्न होए में संकोच करतै ।",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01030"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01145.wav",
+    "text": "ब्राहिम , बुबुर आयाम , बुबुह बेली , क्नोर , मपासी , जदी बुबुर , आदी",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01145"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05671.wav",
+    "text": "ओतऽ पघिलल बालुसँ शीसाक बड़का प्लेटफॉर्म बनि गेलै आ ओइपर हेलीकॉप्टर उतरि गेल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05671"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_02278.wav",
+    "text": "प्रायोजनक कारण मास्टरकार्ड दुलीप ट्रॉफी केर नाम स सेहो जानल जाइत अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_02278"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00437.wav",
+    "text": "रे बाबू समय पर बाल बच्चा भेनाइ नीक होइ छै , सब दिन प्रजनन क्षमता एक्के रङ्ग नहि रहै छै ।",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00437"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01031.wav",
+    "text": "सतरह सौ छियासी इसवी मे कागतक आकार आ ओजन देनिहार जौर्ज क्रिस्टोफ लिक्टेनवर्ग छलैथ",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01031"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02457.wav",
+    "text": "संजीवक मसियौत भौजी टेक्टार प्राथमिक विद्यालय मे सहायक शिक्षिका छथिन",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02457"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06907.wav",
+    "text": "की भकुआएल जकाँ बुझि पड़ै छी? देखिऔ धुँआ केना उपर मुँहे जाइए",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06907"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00343.wav",
+    "text": "लेखांकनक इतिहास करीब-करीब चारि हजार साल पहिले इजिप्ट मे शुरू भेल रहैक",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00343"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02778.wav",
+    "text": "अपन गांमक मनोज सेहो स्थानीय योजना में काज करैत अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02778"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01907.wav",
+    "text": "आस्था के खुला आ बाहरी रूप स सार्वजनिक रूप स अभ्यास नै करय दैत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01907"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08021.wav",
+    "text": "घेँट भिजेला कए बाद बात आगू बढ़ेलन्हि ,एखन अहाँ दूनू कए उमरि कम अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08021"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01281.wav",
+    "text": "इस्लाम सेहो एक टा धर्मे थिक जे पूरा विश्व मे अनेको टा देश मे पालन कैल जाइत अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01281"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00404.wav",
+    "text": "गुलामी, बन्हुआ मजूरी, बाल श्रम, यातना आदि सँ मुक्ति मानव अधिकार के रूप छैक",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00404"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00361.wav",
+    "text": "भाखड़ा नांगल बान्ह पनबिजली उत्पादन के सबसँ पैघ जोगाड़ छैक",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00361"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02286.wav",
+    "text": "अल्लू , कोबी , मटर सब मिलायल तरकारी के मक्खन में भूजि दिऔक , एकदम्मे नऽव स्वाद उखरि ऊपर आओत ।",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02286"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01187.wav",
+    "text": "दिल्ली के स्ट्रीट मार्केट दुनिया भैर में मशहूर छै",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01187"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00899.wav",
+    "text": "स्कॉल म बर दखन छी कहियो कहे तीन सौ क मेरोथन दौर छै त कहियो चार सौ क दौर करवा देइ छले",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00899"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00659.wav",
+    "text": "वीडियो गेम बच्चा सब के खेलाई बला एकटा इलेक्ट्रोनिक खेल छी जे आब चेतनो खेलाइत छैथ",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00659"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02218.wav",
+    "text": "भारत बँटल मुदा दुनु दिशक खान पान एकरंगाहे रहल",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02218"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02633.wav",
+    "text": "रै रोशन तों त दुनू पैर स फुटबॉल के मारैत छैं?",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02633"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02524.wav",
+    "text": "यौ लक्ष्मण कका पहिले बड़का लोक सब अपन बाल बच्चा के उच्च शिक्षा दिएबाक लेल विदेश पठा दै",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02524"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01287.wav",
+    "text": "सम्बद्धता के उच्च आवश्यकता के भेनाई शायद एकटा वांच्छनिय व्यक्तित्व के एकटा महत्वपूर्ण हिस्सा लगैत अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01287"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01164.wav",
+    "text": "उन्नैसवीं सदी मे अर्थशास्त्र अवकाश क सज्जन सभक शौक आओर किछु शिक्षाविदक व्यवसाय छल",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01164"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_04847.wav",
+    "text": "कविक न्याय बस शब्दे टा मे,घोर उपेक्षा हमर अदृष्ट",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_04847"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01376.wav",
+    "text": "आहा मोबाइलक नंबर पर मिस्काल करि सेहो पांचटा लेन देनक जानकारी प्राप्त क सकैत छी ।",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01376"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_02059.wav",
+    "text": "एस.ई.ओ सं कोनो वेबसाइट पर सर्च इंजन स बेसी विजिटर भेटत जखन सर्च इंजन रिजल्ट पेज पर वेबसाइट बेसी रैंकिंग करत",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_02059"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00452.wav",
+    "text": "शलॉटस पौश्टिकता और नीक स्वादक एकटा संयोजन छै",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00452"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06696.wav",
+    "text": "मुदा किछु वर्ख पहिने लागल एड्सक बेमारी हमर जिनगीक सीमा देखा देलक अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06696"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01980.wav",
+    "text": "दूरसंचार व्यवस्था के हालत मिथिला के दूरस्थ गाम सब में अखनहूं कमजोर अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01980"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02435.wav",
+    "text": "रघुनाथ के आदति छन्हि जे कनेको कओनो बेमारी के आभास हेतनि कि अपन दवाई ठूसि लेताह",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02435"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01144.wav",
+    "text": "मास्टर साहेब कहरखिन जे हृदय देहक उत्कर्ष अंग थीक",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01144"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01534.wav",
+    "text": "हम जे दरिभंगा गेलो त देखलों ओतो पैन निकासी के बड नीक व्यवस्था",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01534"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05973.wav",
+    "text": "बदलाव देखि गिद्धो कोना सरमा रहलैए",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05973"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06945.wav",
+    "text": "किन्स्यात इहों एक गोट कारण बनि गेल होय,अहि बंधन सँ नीफिकिर भेला के",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06945"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00480.wav",
+    "text": "पृथ्वी विज्ञान कए रूपरेखा धरती सय सम्बन्धित सब् ज्ञान केर समटय वाला शब्द अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00480"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01540.wav",
+    "text": "क्रिप्टोग्राफीमे , एन्क्रिप्शन जानकारीकेँ कूटबद्ध करबाक प्रक्रिया अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01540"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_04500.wav",
+    "text": "हमर सत्कारपर होमएबला खर्चासँ छात्रवृत्ति दियौ, वंचित के पढ़ाउ",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_04500"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_00969.wav",
+    "text": "रुप्पैयाक बंदरबांट त मुखिया जी करथिन",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_00969"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02679.wav",
+    "text": "संजीव अपन सभटा जरूरियात कागतकेँ शिवशक्ति प्रिंटरसँ फोटोकॉपी करबा अनलाह",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02679"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02406.wav",
+    "text": "अनुसार भारतक कुल एकावन शक्तिपीठ मे उच्चैठ वासिनी सतरहवां शक्तिपीठ अछि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02406"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00989.wav",
+    "text": "दिल्ली में जखन दिन रहैत छैक , तखन न्यूयॉर्क में रातिक ओएह समय रहैत छैक",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00989"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02060.wav",
+    "text": "किछु अंतर्निहित बहिर्जात पैरामीटर मे बदलाव स पहिले और बाद मे दुटा अलग अलग आर्थिक परिणाम के तुलना अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02060"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01337.wav",
+    "text": "धीपल छोलनी छूबि लेलहुॅं तैं तरहत्थी पाकि गेल।",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01337"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00945.wav",
+    "text": "काँच माछक व्यञ्जनक सुचि मऽ क्रूडो , सेविचे , कार्पाचिओ आदि शामिल छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00945"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05342.wav",
+    "text": "चलू, शिव भेला संहारक तेँ गौरी आ महादेवक संतति विश्वक करत नाश; आ स्रापित भेला देवगण, से मामिले खतम",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05342"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07253.wav",
+    "text": "तें नाट्य लेखनक कोनो तरहक अवरोधकेँ अस्वीकार करैत सिर्जनशील सक्रियताकेँ स्वीकारल जाए",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07253"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01445.wav",
+    "text": "विभिन्न केन्द्रक निरीक्षणक बाद धनुषाक शिक्षा अधिकारी सदानन्द झा कहलन्हि पढाइ बढिया भऽ रहल, ओहुमे मात्रृभाषामे सन्तोषक पर्याप्त जगह अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01445"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00666.wav",
+    "text": "जखन कि सख्ती सं चिकित्सा स्थिति नहि आम लक्षणक मे शामिल भ सकएयत छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00666"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01619.wav",
+    "text": "राजा पुछलथि भगवान कोन अपराध कयलन्हि? भोर सँ घुमलहुं तइयो खेनाइ त छोरू वराटिका तक नहि भेटल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01619"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00504.wav",
+    "text": "जई गाछ बहुत जल्दी बढ़ैत अछि आ एकर दाना सँ बार्ली बनैत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00504"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02051.wav",
+    "text": "गाम घरक सभ किसान फसल बीमा करबाके निश्चिंत रहैत छथि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02051"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00484.wav",
+    "text": "गणेश पूजा मे पंडाल घूमैक लेल सखी संगी सङे जाइत छि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00484"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00171.wav",
+    "text": "भारत में पूना समझौता द्वारा दलित लोकनि के लेल उचित प्रतिनिधित्व देबाक निश्चय कयल गेल छलैक",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00171"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_02508.wav",
+    "text": "महाराज धृतराष्ट्र आ गान्धारी क सौ टा पुत्र कौरव छलाह",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_02508"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00294.wav",
+    "text": "शिक्षा पर सबहक अधिकार छै , शिक्षा क कोनो शुल्क नहि हेबाक चाही",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00294"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01176.wav",
+    "text": "रौदमे चलब कठिनभए जएतनि तैँ प्रह्लाद अन्हरौखेमे उठिकए विदाभए गेलाह",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01176"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01218.wav",
+    "text": "राजनीतिक आंदोलन लोकक एकटा समुह द्वारा सामाजिक मूल्यनक बदलैक एकटा सामूहिक प्रयास अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01218"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01875.wav",
+    "text": "खट मिट्ठी करी इंजीपुली केरल मे ओणम के अवसर पर बनैत छैक",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01875"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01105.wav",
+    "text": "हौ भैया आब चिंता छोड़ऽ नर विज्ञानक शाखा खूजि गेल छै ।",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01105"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06566.wav",
+    "text": "प्रभात तुरत गाममे फोनसँ आँखि देखल पुख्ता जानकारी देलन्हि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06566"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00363.wav",
+    "text": "सूचना का दर्शन सामान्य आ मौलिक प्रश्नोंक व्यवस्थित अध्ययन अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00363"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01963.wav",
+    "text": "जेकरा म॑ गैस लेजर , फाइबर लेजर , सॉलिड स्टेट लेजर , डाई लेजर , डायोड लेजर आरू एक्साइमर लेजर शामिल छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01963"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01275.wav",
+    "text": "उपरका जल पीबाक अतिरिक्त स्नान आ पटौनीक काज मे सेहो लेल जाइत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01275"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00064.wav",
+    "text": "बूटक खेत के जँ ओगरवाही नहि करब तँ मुठिये मुठिये पार भऽ जायत",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00064"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02794.wav",
+    "text": "हमरा पर सब कए छज्जै छै दोसर कए किछु कहिक देखौ तखन न बुझबै",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02794"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00124.wav",
+    "text": "लगैत अछि छुट्टी दिन आबय बला छय .",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00124"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00174.wav",
+    "text": "फेर नींद कहा भेलए .ओ दूए घंटा ओघायल .",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00174"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01560.wav",
+    "text": "कका अनुपूरक अहार वास्ते आब गोटी केप्सूल आ दवाई सेहो भेटैत छैक",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01560"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00858.wav",
+    "text": "एंटीकुचोस लोकप्रिय आ सस्ता मांसक व्यञ्जन छै जे एन्डीज मे उत्पन्न भेल छल",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00858"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02803.wav",
+    "text": "मनुस्मृति के प्रयोग के विधि के इतिहास में भारतीय परिपेक्ष्य में देखल जा सकैत अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02803"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01831.wav",
+    "text": "काग़तक यंत्र सँ बच्चा सब लेल खिलौना बना सकैत छी",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01831"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01497.wav",
+    "text": "बाबू जी यो ई निःशुल्क प्रवासनक फायदा केना उठेल जाईत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01497"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01788.wav",
+    "text": "हिन्दी अखबार मॉंगि कए पढ़ताह़ परञ्च मिथिलाक विद्वान वा ज्ञानी अखबार प्रिन्ट आ बाजार मे आनबाक जोखिम नहि ऊठैऽताह",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01788"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03288.wav",
+    "text": "भारतीय समाज मे स्त्रीक स्थान सदैव नीचे रहल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03288"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01877.wav",
+    "text": "फार्म एनिमल वेलफेयर काउंसिल द्वारा पशु कल्याणक अर्थ भूख पियास सँ मुक्ति,भय या संकट,दर्द या बिमारी सँ मुक्ति",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01877"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_00378.wav",
+    "text": "यदि तपं करोति तर्हि मोक्षं प्राप्नोति",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_00378"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00277.wav",
+    "text": "हॉटलिस्ट डेबिट कार्ड ओ कार्ड अछि जाहि के बारे मे चोरी, कैंसिल वा कोनो कारण सँ प्रतिबंधित करबाक सूचना दर्ज कएल छैक",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00277"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02508.wav",
+    "text": "बहामस द्विप फ्लोरिडा ह्यसंयुक्त राष्ट्र अमेरिका के एक राज्यहृ",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02508"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03073.wav",
+    "text": "जे बौआ के दिअय दृष्टि, तकरा बान्हू गोला विष्ठी",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03073"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02514.wav",
+    "text": "जलीय कृषि पारिस्थितिक लाभ प्राकृतिक आ सामाजिक पर्यावरण के परिरक्षित करबाक लेल आवास तंत्रक विकास आ मूल्यांकन करैत छै",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02514"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02231.wav",
+    "text": "डिस्कस थ्रो, जेकरा मा एगो ऐथलीट अपन प्रतियोगी खिलाड़ी सऽ दूर डिस्कस फेंकै कऽ कोशिश करै छै",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02231"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01050.wav",
+    "text": "संवेदना इन्द्रियां के माध्यम से महसूस केल जाए छै अंखि , स्पर्श , गंध आदि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01050"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05719.wav",
+    "text": "विमोहनं हि देहिनां सुशङ्करस्य चिन्तनम्",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05719"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00535.wav",
+    "text": "कोनो दल क सदस्यता लै से पहिने ओकर उद्देश्य आ नियम अबस्से बुइझ लियै",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00535"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02222.wav",
+    "text": "चमेली फूल झाड़ी या बेल जाती सॅ सम्बंधित छै",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02222"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01602.wav",
+    "text": "इंटरनेट दु एकटा गैर लाभकारी यूनाईटेड स्टेट्स कमप्युटर नेटवर्किंग कंसोट्रियम अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01602"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00862.wav",
+    "text": "प्रोटोजोआक सर्वप्रथम अठारह सौ अठारह मऽ गेओर्ग गोल्डफ़ुस्स द्वारा खोजल गेल छल ।",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00862"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08262.wav",
+    "text": "टंकनाथ चौधरी द्वारा देल द्रव्य राशिसँ तथा दोसर गोटेक वेतनक राशि बनैलीक स्व",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08262"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01493.wav",
+    "text": "पूर्वज लोकनि बहुतो तरहक रोग मे अराँचीक उपयोग करैत छला",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01493"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02182.wav",
+    "text": "झिंगा जल प्रयाग महातम सिंगी मथुरा बासी",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02182"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01341.wav",
+    "text": "संयंत्र विकास नियामक लोकक द्वारा संश्लेषित रसायनिक यौगिक थीक",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01341"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01655.wav",
+    "text": "कूपन कें चुनिंदा रूप सं क्षेत्रीय बाजार क के लक्षित कैल जा सकय छै , जइ मे मूल्यक कें प्रतिस्पर्धा बहुत होयत छै",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01655"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02604.wav",
+    "text": "सभक आँखिपर टॉर्च बारिकेँ आँखि चोन्हराएब आ हँसब से आदति एखनधरि संजीवक नहि छुटलनि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02604"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00506.wav",
+    "text": "संयुक्त ट्रैक आर फील्ड इवेंट एहन प्रतियोगिता छै, जेकरा मे एथलीट कएक ट्रैक आर फील्ड इवेंट मे प्रतिस्पर्धा करै छै",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00506"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02552.wav",
+    "text": "चाऊरक आटाक उसनल , कूटल या पकायल मुठौरी के कोरिया में टीटेक कहैत छैक",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02552"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00442.wav",
+    "text": "दु हजार तइस क्रिकेट विश्व कप अक्टुबर आ नबम्बर में हैत",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00442"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07948.wav",
+    "text": "बाउ, पहिल ज्वानिंग छिअह, तँए पहिने घोसिया जाह",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07948"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01672.wav",
+    "text": "दालि बाटी के दालि पँचमेर दालि राहड़ि , बदाम , खेढ़ी आ उड़ीद के मिला कऽ बनायल जाईत छैक",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01672"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01312.wav",
+    "text": "मोहन भारद्वाज जीक लरका केँ हिंदुस्तान अखबारक संपादकक पद पर जेबाक ईच्छा छन्हि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01312"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01351.wav",
+    "text": "अपना अंगना में आबय वाली कुजरनी के सेर सेर भरिक घेघ लटकल छैक , ओकरा गलगण्ड रोग छैक",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01351"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02015.wav",
+    "text": "कृषि मे सुखारक प्रभाव से गरीब किसान के आर्थिक नुक़सान होई छै",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02015"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02561.wav",
+    "text": "इमलीक लकड़ीक फर्निचर बनेबा मे उपयोग होइत छैक",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02561"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00908.wav",
+    "text": "देशक सरकारी क्षेत्रक अस्पतालमे बुनियादी ढ़ाँचाक कमी होयबाक कारण रोगीक देख रेख पर पड़ि रहल अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00908"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01679.wav",
+    "text": "तॉंबा तथा चॉंदीक बरतन मे पानि रखला सऽ पानि शुद्ध होयत अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01679"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01170.wav",
+    "text": "पॉलिसी अर्थात् नीति विश्लेषण तखने संभव अछि जखन विषयकेँ गहशतासँ अध्ययन करब",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01170"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_04061.wav",
+    "text": "जीबैत मस्किआइत गुलाबमे कांटने होइछ किदन",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_04061"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_00616.wav",
+    "text": "सैरन्ध्री कहि लोक हॅसल छल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_00616"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03642.wav",
+    "text": "कि कोनो नाटको लिखलौं अछि? अहाँक विचारमे लेखन आ रंगकर्ममे सुलभ आ सम्प्रेषनीय ककरा मानैत छी?",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03642"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02089.wav",
+    "text": "हमरा हिसाबें घुर्मी घुर्माक अपभ्रंश बोली थीक",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02089"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01121.wav",
+    "text": "बेसी सर्दी वला हवा पानि होयबाक चलिते यूरोपक देश में भरिबहुँआ अंगा आ पेंट पहिरल जाईत छैक ।",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01121"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02061.wav",
+    "text": "बिहार क सरकारी अस्पताल सब में बियैध ठीक करबै ले खाली दू टका लगै छै आ दबै ओहिना भेटनै मरीजक अधिकार भेलै",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02061"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02909.wav",
+    "text": "फेर टेलिफोन अहिना इङ्गेज रहितैक आ हमसभ विणा अन्टीके मिठाई खाए लेल पहुँचतहु",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02909"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00153.wav",
+    "text": "आहा लग एतबेक सेव अछि ?और सबटा सरलाहा अछि",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00153"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02613.wav",
+    "text": "अंगोला व्यंजनक सूचीमे अरोज चावलक व्यंजन , चिकन कैबिडेला , पाटो डे कैबिडेला , फिश स्टॉज आदि प्रमुख अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02613"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00044.wav",
+    "text": "होम आब झगरा झांटी नय करबो हौ रामदेव ऐ रस्ता बाट ले ई कुनौ हमर बपौटी छी जे हम ऐ लेल मोरब",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00044"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00208.wav",
+    "text": "मैथिली भाषाक प्रारम्भिक विकास ब्राह्मणेत्तर जातिक सिद्ध साहित्यकार भुसुक राउत डाक आदिक जरिए भेल रहैक",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00208"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00386.wav",
+    "text": "जाड़क मास मे कुल्फी खेने से शर्दी होइ छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00386"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02335.wav",
+    "text": "समस्तीपुर रेलवे खण्ड में सम्मिलित सीतामढी टीशन ए किलासक टीशन के रूप में मनता छैक",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02335"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07690.wav",
+    "text": "मैथिली कम्प्युटरक लेल शब्द गढबालेल ई पहिल प्रयास छल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07690"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00724.wav",
+    "text": "उड़ीसाक कन्धेई डोरी सँ लटकैत कठपुतली नाच के केन्द्र केन्द्रपारा जिला छई",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00724"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01800.wav",
+    "text": "राजनीतिक संघर्ष एकटा शत्रुतापूर्ण आ जबरदस्त राजनीतिक उद्देश्य अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01800"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02194.wav",
+    "text": "भादबक चतुदर्शी दिन हमरा आँगन मे अनन्त पुजा कएल जाइ ये",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02194"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00452.wav",
+    "text": "खान मंत्रालय पूर्वोत्तर राज्य मे खनिज धांधली गतिविधि आ खदान क नीलामी क बढ़ावा देबय क कोशिश क रहल अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00452"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01867.wav",
+    "text": "सिस्टम मनोविज्ञान रोजर बार्कर , हम्बर्टो , ग्रेगरी बैटसन आदि विचारकक काज पर अधारित छैक",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01867"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00425.wav",
+    "text": "पार्टी के पद आ विचाधाराएँ",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00425"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_02284.wav",
+    "text": "सामान्य शेयर संस्थानक न्यायसम्य स्वामित्वक प्रकार अछि",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_02284"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_01279.wav",
+    "text": "कप्तान शब्द ग्रीक भाषा के कतिपानो शब्द स निकलल अछि जेकर माने होइत छै सभ स उपरका या जेठैत",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_01279"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07446.wav",
+    "text": "माय जे वाजलि अंतिम छंद",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07446"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02299.wav",
+    "text": "जुडि़शीतल वा बाइस पाबनि प्रकृति सँ जुड़बाक आ सृष्टिक प्रत्येक इकाई के जुड़यबाक पर्व छी",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02299"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00953.wav",
+    "text": "टीटेक कोरियाई व्यंजनक सूचीमे पाउंडिंग टीटेक , क्यूल टेटोक , जिंदला ह्वाजोन , टेटोक गाल्बी आदि प्रमुख अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00953"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01866.wav",
+    "text": "ईंधन के किमत मे बहुत उछाल आयल ई ज्वलंत उदाहरण अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01866"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01676.wav",
+    "text": "रानीपुर प्राइमरी स्कूलकेँ मतदानक बूथ बनाओल गेल छल जतए मतदान करबलाक पँतियानीमे ठाढ़ कुलानंद भेटलाह",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01676"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01243.wav",
+    "text": "भारत क जियै के ढंग बदलै संगे लोक क दबाइ बला खर्च बढ़लै आ दबै उद्योग नित नब ऊंचाई छुइब रहलैये",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01243"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03750.wav",
+    "text": "हुनका मंडन मिश्र या जनक या मिथिला के प्राचीन विद्रोही विद्रोही परंपरा के बारे मे बिल्कुले पता नहि छन्हि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03750"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01782.wav",
+    "text": "हुनका कॉफ़ीक लेल बहुत प्रतीक्षा करअ पड़लैन",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01782"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01280.wav",
+    "text": "सरकी सँ पर्दा मोटामोटी सोतिपुराक वैशिष्ट्य छल",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01280"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00245.wav",
+    "text": "आब नबका नबका चलन में न्यायतंत्र पर सेहो प्रश्न चिन्ह उठौल जा रहल अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00245"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00535.wav",
+    "text": "मन्नू बाबु , मोतिबिंब जे आइख में होइत या , ओकर ससमय इलाज करनेए बुधियारी अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00535"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02011.wav",
+    "text": "झोऊ राजवंश दस सय छियालीस ईसापूर्वस दु सय छप्पन ईसापूर्व तक राज करै बला राजवंश छल",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02011"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_02382.wav",
+    "text": "जामा मस्जिद शुक्रवारक दुपहर कें नमाजक आयोजन केर मस्जिद छै",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_02382"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01239.wav",
+    "text": "बौआ, महिन चिकना ऊन तुर्किक एकटा बकरि सँ बनाएल जाएत छैक",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01239"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01993.wav",
+    "text": "मिल्किंग मशीन के पहिल मॉडल के उन्नीस सौ सात में पेटेंट कराओल गेल",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01993"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_02555.wav",
+    "text": "यक्षगान कर्नाटक राज्यक एकटा साम्प्रदायिक नाटक आ नृत्य रूप अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_02555"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01731.wav",
+    "text": "लंका त्रिकूट नामक तीनि गोट पर्वतसँ घेराएल अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01731"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01394.wav",
+    "text": "पोहा एकटा विशेष प्रकारक धानकेँ भिजा कए ओकरा रोलिंग मिलमे मात्र किछु नम अवस्थामे दबा क चिवड़ा बनाओल जाइत अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01394"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00196.wav",
+    "text": "फ़ाइल अपलोड विज़ार्ड अहां कें फाइल अपलोड करय कें लेल एकटा प्रश्नावली कें माध्यम सं मार्गदर्शन कर छै",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00196"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01977.wav",
+    "text": "भोरे भोर अंकुरी बदाम नियमित रूप सऽ खयबाक चाही यदि अहां स्वस्थ रहय चाहै छी त़ऽ",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01977"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01133.wav",
+    "text": "चना के व्यंजन में चना के बंगाल चना , गारबंजो बीन , या मिस्र के मटर के नाम सं जानल जाय छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01133"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01276.wav",
+    "text": "दिमाग शरीरक एकटा नियंत्रण कक्ष थिक जतय स शरीरक सब अंग के हरी झण्डी भेटै छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01276"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01944.wav",
+    "text": "रँगरस तँ चहटगर भौजीये बनाबै छै गे दाय",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01944"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02157.wav",
+    "text": "चायपत्ती के वैश्विक कम्पनी मे लिप्टनक नाम आबैत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02157"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00955.wav",
+    "text": "डार्कनेट के उपयोग के नीक उदहारण दक्षिण भारतीय सिनेमा द रिटर्न ऑफ़ अभिमन्यु में देखाओल गेल अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00955"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01348.wav",
+    "text": "गाछपर कठखोदी उल्टेसिरे बैसि खट खट लोल पटकैत छल",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01348"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07455.wav",
+    "text": "पुष्पा घर छोड़ि महिला जागरणमे लागि गेलथि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07455"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01670.wav",
+    "text": "माल्टीज़ व्यंजनकी सूची मऽ पसत , सौपष , मांस आदि सब सम्मिलित अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01670"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02811.wav",
+    "text": "नूनमेव बहुविधं कार्यं कर्तुं क्षमं एतत्",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02811"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01038.wav",
+    "text": "लिंक स्टेट राइटिंग प्रोटोकॉल के सहोदरा भैयारी डिस्टेंस वेक्टर राइटिंग प्रोटोकॉल छई",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01038"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00627.wav",
+    "text": "स्वर साम्राज्ञी लता मंगेशकर केँ भारत रत्न सँ सम्मानित कयल गेल छलनि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00627"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01584.wav",
+    "text": "प्रधानमंत्री सुरक्षा बीमा योजना के शुभारम्भ प्रधानमन्त्री मोदी के कर कमल स भेल",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01584"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01533.wav",
+    "text": "मोहन, व्रीधा पेंशन लेल आवेदन के अस्वीकृत किया क देलकै?",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01533"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01252.wav",
+    "text": "बाकस भरि पाईं कौरी जिनका छन्हि से विआह दान में खूब धूम धड़क्का करैत छथि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01252"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09986.wav",
+    "text": "पुस्तकक संग उपलब्ध संक्षिप्त टिप्पणीमे गजेन्द्र ठाकुर जगदीश जीक कथाक ऐतिहासिक भूमिकाकेँ रेखांकित करैत छथिन्ह",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09986"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00348.wav",
+    "text": "भारत मे पंचवर्षीय योजना के जगह पर आब नीति आयोग काज करैत छै",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00348"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01365.wav",
+    "text": "अंतरजाल लेन देन मे यू.पी.आई क प्रयोग धड़ल्ला सॅं होइत अछि",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01365"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07543.wav",
+    "text": "सींचित करैत अछि पेटक प्यास सेहो",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07543"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03079.wav",
+    "text": "बहरे रजज़ चारिरुक्न मुस तफ इ लुन दू बेर",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03079"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00905.wav",
+    "text": "रौ बौआलाल डाक्टर साहेब कहलखिन्हें तोरा बेसी क हरियर तरकारी खेबाक लेल",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00905"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01567.wav",
+    "text": "एम्युलेटर के माध्यम से एंड्राइड गेम जेना फ्री फायर,पब्जी आदि केँ पी.सी पर चला पओनाय सम्भव अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01567"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00772.wav",
+    "text": "भेड़क संख्या बढ़ेबाक कारणे उच्च नस्लक भेड़ सँ प्रजनन करेला पर दू चारि गो मेमना एक संग जन्मैत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00772"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00665.wav",
+    "text": "प्रदर्शन केर ढ़ंग अगर नीक हो तऽ कीननाहर बड़ प्रभावित होइत छैक",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00665"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02523.wav",
+    "text": "पंकजकेँ पठौने छलियैक श्री गौरीनाथ स्टेशनरीसँ दुइ जिस्ता कागत आनबाक हेतु से नहि भेटलैक ओतए",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02523"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07453.wav",
+    "text": "कृषिकार्यक लेल जोड़ा वरदक संग हर पालो इत्यादिक ज्वलन्त बेवस्थापर लेखकक विचार नीक मानल जा सकैत अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07453"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08188.wav",
+    "text": "ओना मुम्बई मे हमर दीर्घ प्रवास मे गामक ई एकटा परिवत्र्तन हमरा बूझल नहि भेल छल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08188"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00087.wav",
+    "text": "अपन आहार मे हरियर पत्ता वाला सब्जी मिलाउ। ई प्रोटीन , आयरन , कैल्शियम , आरू फाइबर केरऽ भरपूर स्रोत छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00087"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00002.wav",
+    "text": "प्राइवेट बैंकिंग बैंकिंग के उत्पत्ति कोना भेल। वेनिस केरऽ पहलऽ बैंकऽ के ध्यान धनी परिवारऽ लेली पर्सनल फाइनेंस के प्रबंधन प॑ छै",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00002"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05522.wav",
+    "text": "भरि जुआनी खटि, हिनका पुजिगर बनेलियैन आ आइ अन्चिन्हार ?",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05522"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02530.wav",
+    "text": "हे यौ, हरखित भाय, अहाँ जानि कऽ अनठेने छियैक, रिनोप्लास्टी सँ कटलाहा ठोर ठीक भऽ जायत",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02530"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_01760.wav",
+    "text": "योग करै से मन आ शरीर दुनु के मिलन से ह्रदय शान्त भ जाय छै",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_01760"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01426.wav",
+    "text": "देखिअउ ओहि नेना केर मायक हाथें मारि खएला बादो फेर सहटल आबि गेलइ",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01426"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01813.wav",
+    "text": "कठगर उसनल मुर्गीक अंडा के सोय सॉस ने किछु दिन या किछु घण्टा लपटा कऽ राखि खायल जाईत छैक",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01813"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02806.wav",
+    "text": "स्पीच साइंस के प्रयोग मूक व्यक्ति के बजबय में सहायक होयत छै",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02806"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07755.wav",
+    "text": "द्रुपद पठेलन्हि पुरहितकेँ धृष्टद्युम्नक संग ओतए",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07755"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00970.wav",
+    "text": "झूलन गोस्वामी भारतीय महिला क्रिकेट टीम केर प्रशस्त गेंदबाज छलीह",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00970"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00802.wav",
+    "text": "श्रीलंका के मिठाई के सूची मे नारियल से बनल बर्फी प्रशंसनीय अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00802"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_00222.wav",
+    "text": "एन्टी करप्शन रोकय लेल, ऑफिसमे एकटा इक्विपमेन्ट आयल छल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_00222"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01643.wav",
+    "text": "शीशम चहक लकड़ी तँ आब दूर्लभ भेल जा रहल छैइ",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01643"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00786.wav",
+    "text": "संस्कृ्त साहित्यक प्रबोध चन्द्रोदय नाटकसँ प्रारम्भ भेल प्रतीक नाटकक परम्परा मैथिली साहित्यमे सेहो भेल।",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00786"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02758.wav",
+    "text": "गणितीय अर्थशास्त्र सरल ज्यामितिस भिन्न होइत छैक",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02758"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01736.wav",
+    "text": "करक बोझ प्रत्येक देशक विभिन्न समुहसभ पर अलग-अलग पड़ैत छैक",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01736"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00537.wav",
+    "text": "भूमिगत टंकी,बांध आ पोखैर मे बरखाक पानि के संरक्षण भऽ रहल अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00537"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01587.wav",
+    "text": "फैजान आ ओकर भाए रहमत दुनू बिस्फी आईटीआई मे बिजलीक काज सभ करैत अछि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01587"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01546.wav",
+    "text": "वर्णनात्मक लेबल मतलब प्रोडक्ट के साइज वजन इंग्रेडिएंट के बारे मे जानकारी",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01546"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01780.wav",
+    "text": "हमरा विचारे सचुल मैं यौन शिक्षा लेल अलग सॅ व्यव्यस्था हेबाक चाही",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01780"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00551.wav",
+    "text": "काल्हि भैनी बाली हमरा कोनाक बाजि लेला हम तँ छगुन्ते मे छी",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00551"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00043.wav",
+    "text": "आहाँ जलखैय मे खेलीए? कि अखनौहु भुख लागल अछि?",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00043"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02325.wav",
+    "text": "ज्ञानेन्द्री अधिकांश जीव जंतुक शरीरक आवश्यक अंग होइत अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02325"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08680.wav",
+    "text": "कथाक सीमा नहि होइछ, मुदा जखन कोनो कथा घटनाक स्थूल आ तथ्यात्मक",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08680"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02073.wav",
+    "text": "भारत भौगोलिक दृष्टि से विश्व के सातवाँ सबसे पैग देश छिये",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02073"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07417.wav",
+    "text": "चम्पीवला पर ओकरा बड्ड तामस उठलैक",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07417"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01169.wav",
+    "text": "फ्रेंच फ्राइज़ बेल्जियम आ फ्रांस के विवादित मूल के बैटोनेट या एल्यूमेट कट डीप फ्राइड आलू छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01169"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02465.wav",
+    "text": "खट्टी रोटी बनाबय मे यिस्ट देबहे पड़त",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02465"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01700.wav",
+    "text": "बुनियादी ढाँचा क कमी क कारण अस्पताल सँ जुड़लौ संक्रमण आरू दवाई प्रतिरोधी बैक्टीरिया क प्रसार होय रहलौ छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01700"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01732.wav",
+    "text": "नवका गाड़ी कीनलाक बाद देवचंद्र पंजियार बिजनेस सेंटर पर ओकर रजिस्ट्रेशन कराबक लेल गेल छथि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01732"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01566.wav",
+    "text": "मिथिला ग्रामोद्योग परसौनामे भेलासँ अरोस पड़ोसक रहनिहार सभकेँ बड्ड सहूलियत भेलनि अछि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01566"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01347.wav",
+    "text": "जेरिएट्रिक दवाई आम तौर पर पैंसठ वर्ष आ ओह्सँ अधिक उम्रक वृद्ध वयस्कक स्वास्थ्यक लेल चिकित्सा पद्धति अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01347"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01263.wav",
+    "text": "सेनेटरी नैपकिन या स्वच्छता पैड एक चपटी गद्दी होइत अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01263"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09049.wav",
+    "text": "अपना बेचारी प्रसवक पीड़ो सँ बेशी मोनक बेथै मरै",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09049"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01508.wav",
+    "text": "झंझारपुर स्टेशन लग थान अनुसन्धान केन्द्र क बोर्ड लागल रहै छलैये",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01508"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01207.wav",
+    "text": "बौआ बूझल छऽ, डेबिट कार्ड के लोक ए.टी.एम कार्ड के नाम सँ चिन्हति अछि",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01207"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02512.wav",
+    "text": "वैश्विक स्वास्थ्य सुरक्षा एजेंडा वैश्विक स्वास्थ्य मुद्दा क लेल एकटा बहुपक्षीय बहुक्षेत्रीय प्रयास छै अहि मे साठ देशक भागीदारी छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02512"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07258.wav",
+    "text": "दबकल छलय जे सालभरि बिल बीच बेंगबा",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07258"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01215.wav",
+    "text": "हौ घुरन कनी भाटा बेच लेल कहलियौ त एतेक भरिये देलहक जेना अंतर्राष्ट्रीय व्यापार कर लेल कहि देलिय",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01215"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00052.wav",
+    "text": "कैरिअर सेंस मल्टीपल एक्सेस कोनो वस्तु के ट्रांसमीट करै सं पहिने ट्रैफिक क्लियरेंस सुनिश्चत करैछ",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00052"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00091.wav",
+    "text": "तियानमेन स्क्वायर मे पांच आदमी अपना कपड़ा पर पेट्रौल भारी के आगि लगा लेने छलाह ।",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00091"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_02213.wav",
+    "text": "विदेशी मुद्रा बाजार चौबीसो घंटा चलय वला कारोबार छियैक ।",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_02213"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_00599.wav",
+    "text": "नहि कहि सकलौं अहाँ हमरा",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_00599"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07289.wav",
+    "text": "ईराक देशक सद्दाम हुसैनक कुवैत देशपर आक्रमण भेलै",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07289"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_08279.wav",
+    "text": "उक फेरी केर कला प्रदर्शन भऽ रहलै घर घऽर",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_08279"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00613.wav",
+    "text": "हमर बारहवीं परीक्षाक सेंटर बी.एम.ए. बहेरीये कालेज पर भेल रहय",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00613"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00425.wav",
+    "text": "कोर्निश चीज की सूची इंडो युरोपीय भाषाक परिवारक एकटा ब्रिटोनिक दक्षिण पश्चिम सेल्टिक भाषा अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00425"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01166.wav",
+    "text": "पथ निर्माण विभाग क छोट छिन मरम्मैत बला काज ले निविदा निकालनै क स्थान पर तूरत्ते सड़क क खद्धा भरै क व्यवस्था हेबा क चाही",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01166"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06188.wav",
+    "text": "मूँडी उठा कऽ एकटा युवती केँ पुछलियै की नाम अइछ?",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06188"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00673.wav",
+    "text": "मुस्कुराइत बुद्ध भारत केरऽ पहिलऽ सफल परमाणु परीक्षण केरऽ कोड नाम छलै",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00673"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00020.wav",
+    "text": "सांख्यिकी आ कार्जक्रम क्रियान्वयन मंत्रालय समय समय पर जी.डी.पी आ महँगीक दऽर के आकलन प्रस्तुत करैत छैक",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00020"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02076.wav",
+    "text": "गाम घर में बच्चा सब स्लेट पर लिखय छै",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02076"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01369.wav",
+    "text": "पोषण आहार तत्व संबधी विज्ञान थिक इ दु प्रकारक होईत अछि स्वपोषी पोषण आ परपोषी पोषण",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01369"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07328.wav",
+    "text": "जखन कथाकार सम्वाद शुरू करताह तखने मुक्तिक वातावरण बनत आ सम्वादमे भाग लेनिहार पाठक जड़तासँ त्राण पओताह",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07328"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02093.wav",
+    "text": "स्ट्रॉबेरीक सभसँ बेसी खेती चीनमे होइत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02093"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00701.wav",
+    "text": "गरीब गुरबा लोकक ओहिठाम बाहर सँ मनीआडर अबिते देरी महाजन ठोंठ पर तैयार रहैत छल",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00701"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00390.wav",
+    "text": "रेड एक मे बिना पैरिटी या स्ट्राइपिंग कें डाटा मिररिंग शामिल छै",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00390"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05820.wav",
+    "text": "सिर्फ पत्निये टा घर मे रहैत छलहुँँ , तेँ ने बेसी घरक जरुरत छल आ ने बनवैक समय भेटल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05820"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02351.wav",
+    "text": "अल्का, रितु, रानी आ सुलेखा सभ एम.एम इंग्लिश इंस्टीट्यूट मे अंग्रेजी व्याकरण पढ़बाक लेल अबैत अछि",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02351"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00312.wav",
+    "text": "बुफालो हॉट सॉस आ अन्य मसाला के ब्रांड छै जे हर्डेज ग्रुप द्वारा उत्पादित छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00312"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01992.wav",
+    "text": "बौआ, लैंड इम्प्रिंटरक प्रयोग गर्म जलवायु वाला क्षेत्र में जमीन पर घास रोपबाक लेल करैत",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01992"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02009.wav",
+    "text": "दक्षिण कोरिया पुर्वी एशिया में स्थित एकटा देश अछि",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02009"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02459.wav",
+    "text": "स्टेंट एगो कृत्रिम उपकरण होइत अछि जे शरीरक प्राकृतिक नाली रोगग्रस्त प्रवाह के रोकय लेल प्रयोग कएल जाइत अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02459"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_01336.wav",
+    "text": "ऑटो रेसिंग बला कार रेसिंग में झंडा बला सिग्नल के ध्यान से बुझय पडैत छै",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_01336"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01134.wav",
+    "text": "सरू के बेल ना केवल छोट , नाजुक फूल के बेल अई बल्कि एकटा पत्तेदार पोधा अईछ",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01134"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01061.wav",
+    "text": "गोआक सारापटेल देखऽ में लाल टुहटुह आ सेहन्तगर लगैत छैक",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01061"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05353.wav",
+    "text": "अल्लूक तरूआ छनि हुनका गारा मे अटकल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05353"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00367.wav",
+    "text": "ईद के अवसर पर बाजार मे बहुत उम्दा सुतर फेनी बिकाइ छैक",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00367"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06490.wav",
+    "text": "राखले रहि जैत ई तैयारी मुँहकेँ रँगने की हैत",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06490"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02100.wav",
+    "text": "बीच पक्की सड़क पर रातुक नरवताकेँ चीरैत ट्रकक अवाज गूँजि रहल छल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02100"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00086.wav",
+    "text": "बाजार ज़ोखिम ओतबे लेबाक चाही जतेक नोकसान वा फायदाक खतला सहन क सकी नहि तऽ प्रतिकूल परिस्थिति मे मुश्किल भ जायत",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00086"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00450.wav",
+    "text": "शरीरी मे अगर चर्बी बढ़ि गेल अछि त शारीरिक मेहनत कय वजन घटाओल जा सकैत थिक ।",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00450"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01795.wav",
+    "text": "एण्ड्रोलॉजी मे वैसेक्टोमी , प्रोस्टेटेक्टोमी , खतना सन प्रक्रिया कयल जाइत अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01795"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01284.wav",
+    "text": "बरखाक मौसम में डेंगू के रोकबाक लेल मच्छर निर्मूलन आ निर्मल परिवेश बनायल जाईत छई",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01284"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01026.wav",
+    "text": "सत श्री अकाल पंजाबी लोकनि सभक सम्बोधनक शब्द थिक",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01026"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00141.wav",
+    "text": "हरषु भाय यौ हमरा की लगैए ई पुरुषोत्तम गेरमंडिंग तरीका स जीतल अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00141"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_02481.wav",
+    "text": "काँच आद , धऽनी पात , पुदीना आदि कँचके रूप में तीमन तरकारी में दैत छियैक",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_02481"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09514.wav",
+    "text": "ओ बड्ड मुश्किलसँ ओहि भावकेँ मेटओलक",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09514"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02306.wav",
+    "text": "चौलाई कऽ खेती पत्तेदार सब्जि,छद्म अनाज आ सजावटी पौधा कऽ रूप में होइत छैक",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02306"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01948.wav",
+    "text": "मुकावला एक प्रतिद्वंदिता होयत छला जय में दु या दु स अधिक पार्टी एक लक्ष के लेल प्रयास करैत ये",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01948"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02470.wav",
+    "text": "सुभाष नन्हें क्रिकेट एकेडमी में अपन भागिन सबहक नाम लिखयबाक लेल ख़र्च बर्च के पता करय गेल छलाह",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02470"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03720.wav",
+    "text": "समस्तो यावदात स्फुरदम लयशोरा सिरस्वती कृतान्य",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03720"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02528.wav",
+    "text": "क्षेत्रीय भूगोलक जनक हॉर्टशार्न मानल जाइत छथि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02528"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00751.wav",
+    "text": "अंगिका , वज्जिका आ ठेंठी मैथिली भाषाक बोली छैक ।",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00751"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00303.wav",
+    "text": "आई रौद भोरुकबा जेना उगल अछी ।",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00303"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00792.wav",
+    "text": "मौसीक पुतोहुक आगमनक जश्न मनाबय लेल घर मे खीर बनाओल गेल छल",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00792"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00993.wav",
+    "text": "तीनू घुड़सवारी खेल आयोजन अछि ड्रेसेज, शो जंपिंग आ हंटर ट्रेल्स",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00993"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00236.wav",
+    "text": "जलवायु कथा जलवायु बदलाब आ विश्विक ताप सै सम्बंधित तथय सै मतलब रखैत अछि .",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00236"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00912.wav",
+    "text": "स्वेज नहर भूमध्य सागर आ लाल सागर के जोड़ैत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00912"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02509.wav",
+    "text": "वित्त मंत्री आहि बेरका बजट में सात लाख तकके आय वाला लेल टैक्स में छूट देलैथ",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02509"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05144.wav",
+    "text": "अहाँक चुरेभावर आ खम्बु लिम्बु अहाँक?",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05144"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01524.wav",
+    "text": "एलेक्ट्रोनिक ट्रान्सफर क लेल बैंक मे अलग स काउंटरक व्यवस्था कयल जाइत अछि",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01524"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05758.wav",
+    "text": "अन्तर्राष्ट्रीय स्तरपर बिहारक पहचान देएबामे सोनपुर प्रसिद्ध हरिहर क्षेत्र मेलाक महत्वपूर्ण स्थान अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05758"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01777.wav",
+    "text": "कोना कहब पंडितजी कि सृष्टिक आरम्भेसँ पंचोभे छलाह हमर पूर्वज",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01777"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00610.wav",
+    "text": "भ्रष्टाचारक अर्थशास्त्र आ आर्थिक विकास पर दुष्प्रभाव परैत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00610"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01917.wav",
+    "text": "हरिके अपन बाबूजी एक्कोटा आदति पसिन्न नहि छलैक, मुदा राणू भगत कहियो हरिक बात नहि बुझलकैक",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01917"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01273.wav",
+    "text": "बोली विद्या क जानकार , एकर कमाई सं गुजर क रहल अछि ऐंकरिंग एकर उदाहरण छै",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01273"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02639.wav",
+    "text": "ऑपरेशन ब्लू स्टार एक सैन्य अभियान के कोडनेम रहय",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02639"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01900.wav",
+    "text": "अठ्ठारह सय उनसठ मे प्रकाशित चार्ल डार्विनक द ओरिजनल के जीव विज्ञानक नींवक रुप मे मानल जाइत अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01900"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06737.wav",
+    "text": "कि लिखू हम गजल उमर नादान अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06737"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01189.wav",
+    "text": "निमोनिया पैदा करएय वला एटिपिकल बैक्टीरिया मऽ कोक्सीएला बर्नेटी आ लेजिओनेला निमोफिला अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01189"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05456.wav",
+    "text": "हरप्रसाद शास्त्री सोचलन्हि आ ऐ ताम्रपत्रकेँ असली बतेलन्हि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05456"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00017.wav",
+    "text": "बजार जोखिम, तरलता जोखिम, क्रेडिट जोखिम, व्यपार जोखिम आ निवेश जोखिम जोखिमक प्रकार छैक",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00017"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00584.wav",
+    "text": "गणित एकटा मस्तिष्कीय व्यायाम वला विषय थिक , जकर ज्ञान सभक लेल आवश्यक अछि",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00584"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05011.wav",
+    "text": "अकौर गाममे विष्णुक छहटा प्राचीन प्रस्तर प्रतिमा सभ सहजे उत्खनित भए प्राप्त भेल अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05011"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00020.wav",
+    "text": "विश्व बौद्धिक संपदा संगठन, संयुक्त राष्ट्र यूएन क पंद्रह विशेष एजेंसी मे से एक छियै",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00020"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07351.wav",
+    "text": "नेनपन तऽ निर्दोष होइत अछि, ओकर अप्पन कोनो दिशा नञि होइत छैक, जे दिशा देखाओल जाइछ तकर अनुसरण करैछ",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07351"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00733.wav",
+    "text": "अंतर्राष्ट्रीय आपराधिक विधि के एहेन आचरण के रोकबाक लेल बनाओल गेल अछि जकरा गम्भीर नृशंसता मानल जाइत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00733"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01625.wav",
+    "text": "शंकरपाली शक्करपारा मुरली लक्खी मिठाइ या बस मिठाइ भारतीय मीठ जलपान अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01625"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02354.wav",
+    "text": "अखिल भारतीय नृत्यस्पोर्ट महासंघक काज एखन धरि चली रहल अछि",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02354"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_02184.wav",
+    "text": "तेजी से पैसा कमाएं एक तरहक फ्रॉड स्कैम छिये",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_02184"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05496.wav",
+    "text": "दूपहर दू बजे किर्तन मंडलीक सभ कलाकार आस्ते आस्ते जुटान होमए लगलयै",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05496"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07899.wav",
+    "text": "आउ हम सब अहि आडंबरक समूल नाश कऽ मिथिलाक गरिमा बढ़ाबी",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07899"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_00323.wav",
+    "text": "पेपाल ऑनलाइन पैसा ट्रांसफर कऽ समर्थन करय वाला अधिकांश देशों मे ऑनलाइन भुगतान प्रणालीक संचालन करैत छैक",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_00323"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01296.wav",
+    "text": "ई सांचा ए.डब्लू.बी के मानक संस्थापक द्वारा प्रयोग कयल जाइत अछि",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01296"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02504.wav",
+    "text": "जिओडक एक्वाकल्चर वा जिओडक फार्मिंग मानव उपभोगक लेल जिओडकक खेती करक प्रथा होइत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02504"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02462.wav",
+    "text": "रामू शामू के बता रहल छलैक जे प्रायोगिक मनोविज्ञान कोनो विखय नैं बल्कि एकटा विधिगत तरीका छैक",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02462"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01218.wav",
+    "text": "सीओपीडी कें दूटा सब सं आम स्थिति वातस्फीति आ पुरानी ब्रोंकाइटिस छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01218"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03636.wav",
+    "text": "ब्राह्मीक मानक रूप आ ओकर क्षेत्रीय शैली",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03636"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01050.wav",
+    "text": "धन्ना सेठ ऋण जोखिम सँ बचै लेल क्रेडिट परामर्शक ऑफिस गेलाह ।",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01050"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_02689.wav",
+    "text": "हाकीक लेल सिंथेटिक टर्फक आवश्यकता पड़िते रहैत",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_02689"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01584.wav",
+    "text": "अर्जेंटीना एकटा संप्रभु राज्य थिक",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01584"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00770.wav",
+    "text": "पङ्घति में जएबाक लेल तैयारी छैक की",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00770"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02531.wav",
+    "text": "ऐकरा लेल एखनो बूढ़ पुरानक बात विचार आ ओहिक समय वातावरण के ब्यख्या करही टा पड़त",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02531"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01973.wav",
+    "text": "सतर सौ तेरानवेमेँ ब्रिटिश सरकार द्वारा स्थायि बंदोबस्त प्रथा चलाओल गेल",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01973"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00149.wav",
+    "text": "युनानी मेडिसिन साउथ आ सेंट्रल एशियाक मुस्लिम कल्चर मे प्रैक्टिस कएल जाइत छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00149"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01235.wav",
+    "text": "भारत समेत कतेको विकसित देश में कमसंख्यक आ वञ्चित लोकक लेल हुनक अबादी हिसापे किछु सीट राखल जाईत छन्हि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01235"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00580.wav",
+    "text": "ब्लड बैंक एकटा सेंटर होइ छै जतय लोक खून जमा करय छै",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00580"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_01881.wav",
+    "text": "सिंहासन या शेर मुद्रा एकटा एहन अद्वितीय योग मुद्रा अछि जे अहाँ कहियो देखब ।",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_01881"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00294.wav",
+    "text": "वैशाखी आ बैसाखी सिखक पावनि अछि, ई पावनि मुख्य रुपे पंजाब, हरियाना आ पश्चिमि उत्तर प्रदेश मे मनाओल जाइत अछि.",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00294"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07741.wav",
+    "text": "आन प्रकारक रचना मौखिके रूप मे लोकक समक्ष उद्घाटित होइत रहल अछि तथा अनुमानसँ लोक एकर प्राचीन रूप जानबाक चेष्ठा करैत अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07741"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03077.wav",
+    "text": "यद्यपि एनीकट आब भग्नावशेष छैक तथापि एतय चहल पहल मे कोनों कमी नहि अयलैक अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03077"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00264.wav",
+    "text": "अहाँक लग एक पैघ डच ओवनसऽ स्वादिष्ट चिकन सूपक लेल एक स्टॉकपॉटक रूपमे बना सकैत छी",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00264"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01223.wav",
+    "text": "ई डेमोक्रेसी ऐहन शासन प्रणाली जेकर अन्तर्गत जनता अपन इच्छा से उम्मीदवार चुन सकए छै",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01223"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01228.wav",
+    "text": "भोरका समय बा दुपहरका समय मे किछ हल्लुक-फल्लुक खेनाय क नाश्ता बा जलखैय कहल जाइत अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01228"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02278.wav",
+    "text": "दुघक बनल खीर के प्राचीन व्यंजनक सूची में पहिल मानल जा सकैत अछी , जकर चरचा प्राचीन ग्रंथो में कैल गेल छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02278"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00165.wav",
+    "text": "एन.बी.एन सगर ऑस्ट्रेलिया के सबहक वास्ते खुजल थौक डाटा नेटवर्क छई",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00165"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_01228.wav",
+    "text": "अफ्रीका में आदि मानव सँ जुड़ल पुरातत्व ढ़ेरिए ढ़ाकिए भेटैत छैक",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_01228"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01572.wav",
+    "text": "चाऊर कचिया सामिग्री अछि परञ्च भात चाऊर सँ बनल खाय योग्य तैयार सामिग्री अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01572"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09781.wav",
+    "text": "ठूठ गाछ कलशल पत्ता बज्जर धरती पर",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09781"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_01358.wav",
+    "text": "रातिदिन जे शब्द मष्तिष्कपर रहैत छल ओहे बात ठोरपरसँ पिछड़िकऽ बाहर आबि गेल छल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_01358"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_01414.wav",
+    "text": "भारत मे राजनीतिक दलक सूची पर त गप्प केनाय व्यर्थ अछि जेकरा मोन होएत छैन ओ एक टा पार्टी जोतय लागैत छैथ",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_01414"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00998.wav",
+    "text": "नई दिल्ली मे ट्यूलिप फेस्टिवल मे डच राजदूत मार्टिन वेन डेन बर्ग सम्मिलित भेलाह",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00998"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_02360.wav",
+    "text": "टेक फर्म क लेल हेल्थकेयर मार्केट मे दूटा मुख्य मार्ग अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_02360"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06124.wav",
+    "text": "परिपुष्ट होइत रहल अछि आखेटक सबहक क्रूरात्मा",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06124"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02499.wav",
+    "text": "कश्मीर समस्याक उत्पत्ति सन् उन्नैस सौ सैंतालीसमे भारतक बँटवाराक समयमे भेल",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02499"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01085.wav",
+    "text": "रैम , एक तरहक कम्प्यूटरक स्मृति छैक जे कि कओनो कार्यरत आँकड़ा आ जंत्रक कोड के भण्डारण करैत छैक ।",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01085"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00056.wav",
+    "text": "हम नहि कहि सकब जे माय ओकरा धोबिया के देलकै",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00056"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_02288.wav",
+    "text": "केन्द्र क मंत्री मुरली देवड़ा पर्यावरण, समाज आ अर्थ सभ क्षेत्र क समन्वय बना, नौ सूत्री दिशा निर्देश देलखिन्ह",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_02288"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_02237.wav",
+    "text": "दुनिया में कपास के उपयोगक सबसँ पहिल सबूत पाँच हजार पाँच सौ ईसा पूर्व छैक जे तांबा कऽ मोती में संरक्षित छैक",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_02237"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00351.wav",
+    "text": "सीता कें बच्चा संग काज करबा कमे अनुभव अछि।",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00351"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_EVAL_00342.wav",
+    "text": "नाच रहैत होएत , मुदा बादशाह ऐल छलाह आयल |",
+    "language_id": "mai",
+    "domain": "EVALUATION",
+    "id": "IISc_SYSPINProject_mai_f_EVAL_00342"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00934.wav",
+    "text": "कम्यूटर नेटवर्कमे कैरियर सेन्स मल्टीपल कन्ट्रोल मेथड होइत छैक",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00934"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03655.wav",
+    "text": "यैह बुझैक बात अछि, जखैन भोटरसँ भोट लेनिहार धरि घुसेक बेपार करए लगत तखैन जुग बदलतै",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03655"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_01390.wav",
+    "text": "हमरा लोकनि के घऽरे में बेसी आ सुच्चा आॅक्सीजन पाबक लेल ऑक्सीजन संकेन्द्रक जंत्र रखबाक चाही",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_01390"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00089.wav",
+    "text": "विकिडेटा से कॉमन्स श्रेणी लिंक एहेन पृष्ठ छै जे ट्रांसक्लूड करैत छै",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00089"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00013.wav",
+    "text": "पार्टी सदस्यता के मतलब ई होइ जे कोनो व्यक्ति अगर पार्टी के सदस्यता लय छै ते ऊ व्यक्ति ऊ पार्टी के सदस्य बैन जै छै",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00013"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00941.wav",
+    "text": "आई.ई.ई.ई केर अमेरिका केर न्युयोर्क मे कार्यालय आ पिस्काटे शहर मे सञ्चालन केंद्र अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00941"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01794.wav",
+    "text": "पर्दा प्रथाक संस्कृति मे अंगना मउगी लेल खूजल हवाक एकमात्र स्रोत छी",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01794"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01196.wav",
+    "text": "कका केवल आमे टा नहि करोना , औरा , कटहर , नेबो आ ओलक अचार बूझू सभ एक पर एक होइत छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01196"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_INDI_00527.wav",
+    "text": "ॐ नम: शिवाय भगवान शिव केँ पूजबाक मंत्र छै ।",
+    "language_id": "mai",
+    "domain": "INDIA RELATED",
+    "id": "IISc_SYSPINProject_mai_f_INDI_00527"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09852.wav",
+    "text": "बाउ, हम तँ जन्मे देलिअ, कर्म तँ अपने करए पड़तह",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09852"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03753.wav",
+    "text": "राजकोश धनधान्यसँ अवश्ये भरल होइत अन्यथा एतेक पैघ यज्ञ ओ कइयै कोना सकितैथ",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03753"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_02824.wav",
+    "text": "मण्डिल पर संरचित आ उकेरल आकृति सभ बड़ दीव लगैत छैक ।",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_02824"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_00535.wav",
+    "text": "तकर बाद जे राजा लोकनिक भेलाह से मगध साम्राज्यक उपलब्धि आर बढौलन्हि आर एकर उत्कर्ष नन्दवंशक अधीन मे सर्वाधिक भेल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_00535"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02881.wav",
+    "text": "मनमे उठए लगलनि जे केना बेटा के कहब जे बौआ स्त्रीगणो भऽ कऽ कोदारि पाड़ब, धान रोपब एतइ सीखलौं",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02881"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02209.wav",
+    "text": "स्वास्थ्य और परिवार कल्याण मंत्रालय नसबंदी करेला पर प्रोत्साहन राशि सेहो दैत छैथ",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02209"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06206.wav",
+    "text": "ई अंगरेजीक प्रकाण्ड विद्वान् छलाह, ताहि संग हिन्दी, उर्दू, फारसी, संस्कृत, बङला एवं मैथिलीक सेहो अद्भुत विद्वान छलाह",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06206"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00916.wav",
+    "text": "राजनीतिक सैन्य मामलाक ब्यूरो रक्षा विभागक लेल राज्यक प्रमुख लिंक विभाग अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00916"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00591.wav",
+    "text": "महिला सभ डरकस कमर मे पहिरे छथिन जै से कमरक सुंदरता मे बढ़ोतरी होए छै",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00591"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00027.wav",
+    "text": "बृषोत्सर्ग श्राध अति उत्तम श्राध मानल जाइ छै ओइ श्राध मे सांढ़दग्गी सेहो होइ छै",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00027"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00822.wav",
+    "text": "ब्लिंट्ज , अस्पष्ट राशि , हैस ब्राउन , ब्रांच , बैगेलब्रंच , स्मोक्ड सैलमन , आदि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00822"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_00445.wav",
+    "text": "गुरेज नस्लक भेड़ पश्चमी यूपी में जाइत अछि",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_00445"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07318.wav",
+    "text": "पुण्ड्रवर्धन मे हिनक एकटा मंदिरक उल्लेख प्राप्त अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07318"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00667.wav",
+    "text": "विदेश मंत्रालय केर काज करै तरीका पूर्व विदेश मंत्री स्वर्गीय सुश्मिता स्वराज दुरूस्त केने छलखिन",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00667"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02532.wav",
+    "text": "टंगोली व्यंजन मे मुख्य अछि मक्का , चावल , बाजरा , कसावा , रतालु , केला आरो बीन्स",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02532"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_01496.wav",
+    "text": "हिलेरी वाशिंगटन पोस्ट , हफिंगटन पोस्ट लेल लिखैत , सी.एन.एन आदि प्रतिष्ठित चैनल लेल राजनीतिक टिप्पणी करैत छलीह",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_01496"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_09482.wav",
+    "text": "मैथिल जनसँं मिथिलाक लेल एक ओलम्पिक मेडल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_09482"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05952.wav",
+    "text": "' ऐँ गै, हमर सबहक मोनक महल ठीके भरि गेल! एतेक दिनक याद क्षणे मे विला जएत गै ?'",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05952"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02276.wav",
+    "text": "भारत में राजनीतिक कैदी के मुद्दा पर लंदन में सिख सब प्रदर्शन कयने छल जे खबरि हम प्रभात खबर में पढ़लहूँ",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02276"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_00511.wav",
+    "text": "वड़ा क कटलेट पकौड़ी आ चॉप सेहो कहल जैत अछि एकरा साम्भर सने खैल जैत अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_00511"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06684.wav",
+    "text": "लगैत अछि अपने कहियो किन्कोसँ प्रेम नहि केलहुँ अछि?",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06684"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_05646.wav",
+    "text": "भिनसर छह बजे ऐ {७१}{इकहत्तर} गोष्ठीकेँ अन्त करैत श्री अरविन्द ठाकुर अग्रिम कथा गोष्ठी {७२}{बहत्तर}म आयोजन हेतु दीप आ उपस्थिति पुस्तिका लेलनि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_05646"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01941.wav",
+    "text": "जीव विज्ञान मे सबस्ट्रेटस गाछ,कवक आ जानवरक ठहरबाक जगह थीक",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01941"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01823.wav",
+    "text": "कोनो देशक राजदूत एक आधिकारिक दूत होइत अछि जे विशेष रूपसँ एक उच्च रैंकिंग राजनयिक अपनक प्रतिनिधित्व करैत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01823"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SPOR_00107.wav",
+    "text": "उज्जर पृष्ठ भुमि मे पाँच टा रिंग जूडल अछि जे पांचों महादेश कय दर्शावैत अछि ।",
+    "language_id": "mai",
+    "domain": "SPORTS",
+    "id": "IISc_SYSPINProject_mai_f_SPOR_00107"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00898.wav",
+    "text": "केन मैकवे एक टा इन्टरनेट कार्यकर्त्ता छेलाह जे होलोकोस्ट डेनिअल केर विरोधी छेलैथ",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00898"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_07849.wav",
+    "text": "एकर अतिरिक्त हिन्दू एवं इस्लाम धर्मक चर्चा सेहो होइत अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_07849"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_02101.wav",
+    "text": "विभिन्न जिला के लोक सब द्वारा बिहार दिवस के मौका पर झाँकी निकालल गेल",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_02101"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_02368.wav",
+    "text": "अंग्रेजी व्यंजनक सूचीमे करी आ चिकन विंग्स , ससेज आ सानी , फूलगोभी पनीर , स्टेक पाई , आदि प्रमुख अछि",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_02368"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_06571.wav",
+    "text": "हुनका देखिते उल्टे कहलैन्हि, बैसू मेनका जी",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_06571"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_01821.wav",
+    "text": "खुला श्रोत शासन में लोक सॉफ्टवेयर के इस्तेमाल मुफ्त में के सकई छे",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_01821"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02507.wav",
+    "text": "बासिया भात केर जदि निक जाकाँ सब मासल्ला द कए भुइज दैत छैक, तहन भुजलहा भात खाय् मऽ बड़ नीक लगैए छइ.",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02507"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FOOD_01478.wav",
+    "text": "पेस्ट्री में सेब के मालपुआ बेकबेल भालू के पंजा बियर टेल बाहुलू बॉस बॉल बौगल्सा इत्यादि होय छै",
+    "language_id": "mai",
+    "domain": "FOOD",
+    "id": "IISc_SYSPINProject_mai_f_FOOD_01478"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_POLI_00122.wav",
+    "text": "अपन गामक लोक सब कहलनि जे शक्ति फोकस आ बिजनेस एक्सीलेंस के माध्यम स होइत अछि",
+    "language_id": "mai",
+    "domain": "POLITICS",
+    "id": "IISc_SYSPINProject_mai_f_POLI_00122"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_FINA_01990.wav",
+    "text": "अपन घरक बिजली बिलक भुगतान हमहीं करैत छी",
+    "language_id": "mai",
+    "domain": "FINANCE",
+    "id": "IISc_SYSPINProject_mai_f_FINA_01990"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_02327.wav",
+    "text": "नियोजित शिक्षकक बहाली मे खुटौना बला प्लस टू उच्च विद्यालय मे दसटाक स्थान पर मात्र पांच टा शिक्षकक बहाली भेलैए",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_02327"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_AGRI_01159.wav",
+    "text": "मिठका पान खेनिहार बिनु सोंफ के पान कोना खेताह",
+    "language_id": "mai",
+    "domain": "AGRICULTURE",
+    "id": "IISc_SYSPINProject_mai_f_AGRI_01159"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00453.wav",
+    "text": "पहिले अंगना मे ककरो कल नहि छल, तऽ पीबैय लेल इनार पर सऽ माटिक घैल मे पनिभरनी पानि भरैत छलीह",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00453"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_00475.wav",
+    "text": "खरना मे खीर बनबाक लेल चौर घर मे उख्खेर मे कूटल जाए छै",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_00475"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_LOCA_01289.wav",
+    "text": "डिप्टी कमिशनर कार्यालय मे शहरक कानून व्यवस्था बनल रहे अए पर ध्यान देल जाए छै",
+    "language_id": "mai",
+    "domain": "LOCAL CONVERSATION",
+    "id": "IISc_SYSPINProject_mai_f_LOCA_01289"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00316.wav",
+    "text": "दिनानुदिन डिजिटल खरीदारक पाँतिमे बढ़ोत्तरी भेल जा रहल अछि",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00316"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_TECH_00269.wav",
+    "text": "इंटरनेट मानक के एकटा लक्षण छैक तकनीकी परिपक्वता आ नेत नियमक पालन ।",
+    "language_id": "mai",
+    "domain": "TECHNOLOGY",
+    "id": "IISc_SYSPINProject_mai_f_TECH_00269"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00974.wav",
+    "text": "एच. एक एन. एक वैक्सीन एकटा इन्फ्लूएंजा के टीका अछि",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00974"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03373.wav",
+    "text": "कथा वर्तमान पारिवारिक जीवनक विद्रूपता आ विसङ्गतिके रेखाङ्कित करैत अछि",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03373"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_SOCI_00706.wav",
+    "text": "भाषाई नृविज्ञान शब्दक पहिल बेर उपयोग जेरोम रोथेंबर्ग द्वारा उन्नैस सौ अरसठ मे भेल",
+    "language_id": "mai",
+    "domain": "SOCIAL",
+    "id": "IISc_SYSPINProject_mai_f_SOCI_00706"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_03377.wav",
+    "text": "लिपिकार जे चित्र बनेलक से कलाकारी लेल नहि वरण् खगता लेल",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_03377"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_HEAL_00372.wav",
+    "text": "हृदय सम्बन्धी रोग मे डाक्टर इक्को करेबाक सलाह दै छथिन",
+    "language_id": "mai",
+    "domain": "HEALTH",
+    "id": "IISc_SYSPINProject_mai_f_HEAL_00372"
+  },
+  {
+    "audio_path": "/Users/ntiwari/IITP/chatterbox/data/IISc_SYSPIN_Data/IISc_SYSPINProject_Maithili_Female_Spk001_HC/wav/IISc_SYSPINProject_mai_f_BOOK_02822.wav",
+    "text": "उठऽ हओ भुटकुन ,उठऽ गौतमानंद ,आब त दू घंटा मे बनारसो आबि जेतइ ,मुदा ओ दूनू बिना कोनो हरकत केने ओनाही सूतल रहलाा",
+    "language_id": "mai",
+    "domain": "BOOKS",
+    "id": "IISc_SYSPINProject_mai_f_BOOK_02822"
+  }
+]

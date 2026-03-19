@@ -1,0 +1,13 @@
+{
+  "checkpoint_dir": "outputs/bhojpuri_lora",
+  "language_id": "bho",
+  "lora_rank": 16,
+  "lora_alpha": 32,
+  "batch_size": 1,
+  "lr": 0.0001,
+  "epochs": 2,
+  "grad_clip": 1.0,
+  "mixed_precision": false,
+  "log_interval": 50,
+  "save_interval": 1
+}

@@ -1,0 +1,78 @@
+# LoRA Fine-tuning Configuration for Bhojpuri
+# Chatterbox TTS
+
+# Language settings
+language_id: "bho"
+language_name: "Bhojpuri"
+
+# LoRA configuration
+lora:
+  rank: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules:
+    - "q_proj"
+    - "k_proj"
+    - "v_proj"
+    - "o_proj"
+    - "gate_proj"
+    - "up_proj"
+    - "down_proj"
+  bias: "none"
+
+# Data configuration
+data:
+  train_manifest: "data/bhojpuri/train.json"
+  val_manifest: "data/bhojpuri/val.json"
+  test_manifest: "data/bhojpuri/test.json"
+  max_text_len: 512
+  max_speech_len: 2048
+  min_duration: 0.5
+  max_duration: 30.0
+
+# Training configuration
+training:
+  epochs: 10
+  batch_size: 4
+  gradient_accumulation_steps: 8
+  learning_rate: 1.0e-4
+  weight_decay: 0.01
+  warmup_steps: 500
+  max_grad_norm: 1.0
+  mixed_precision: true
+
+  # Optimizer
+  optimizer: "adamw"
+  adam_beta1: 0.9
+  adam_beta2: 0.999
+  adam_epsilon: 1.0e-8
+
+  # Scheduler
+  scheduler: "one_cycle"
+
+  # Logging
+  log_interval: 50
+  eval_interval: 500
+  save_interval: 1000
+
+# Model configuration
+model:
+  pretrained_checkpoint: "checkpoints/chatterbox_mtl"
+  freeze_components:
+    - "voice_encoder"
+    - "s3gen"
+    - "s3_tokenizer"
+
+# Output configuration
+output:
+  checkpoint_dir: "outputs/bhojpuri_lora"
+  log_dir: "logs/bhojpuri"
+
+# Hardware configuration
+hardware:
+  device: "cuda"
+  num_workers: 4
+  pin_memory: true
+
+# Reproducibility
+seed: 42
